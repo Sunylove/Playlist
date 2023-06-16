@@ -1,0 +1,493 @@
+#EXTM3U $BorpasFileFormat="1"
+#EXTINF:-1 group-title="Scanned channels",MEZZO
+http://185.118.240.17:5000/udp/224.100.1.99:56000
+#EXTINF:-1 group-title="Scanned channels",VH1 Classic
+http://185.118.240.17:5000/udp/224.100.1.98:56000
+#EXTINF:-1 group-title="Scanned channels",MTV Hits
+http://185.118.240.17:5000/udp/224.100.1.97:56000
+#EXTINF:-1 group-title="Scanned channels",CITY TV
+http://185.118.240.17:5000/udp/224.100.1.96:56000
+#EXTINF:-1 group-title="Scanned channels",The Voice
+http://185.118.240.17:5000/udp/224.100.1.95:56000
+#EXTINF:-1 group-title="Scanned channels",VH1
+http://185.118.240.17:5000/udp/224.100.1.94:56000
+#EXTINF:-1 group-title="Scanned channels",MTV Europe
+http://185.118.240.17:5000/udp/224.100.1.93:56000
+#EXTINF:-1 group-title="Scanned channels",Shanson TV
+http://185.118.240.17:5000/udp/224.100.1.92:56000
+#EXTINF:-1 group-title="Scanned channels",Chasse & Peche
+http://185.118.240.17:5000/udp/224.100.1.91:56000
+#EXTINF:-1 group-title="Scanned channels",Euronews
+http://185.118.240.17:5000/udp/224.100.1.90:56000
+#EXTINF:-1 group-title="Scanned channels",bTV Action
+http://185.118.240.17:5000/udp/224.100.1.9:56000
+#EXTINF:-1 group-title="Scanned channels",TVN
+http://185.118.240.17:5000/udp/224.100.1.89:56000
+#EXTINF:-1 group-title="Scanned channels",Rossija 24
+http://185.118.240.17:5000/udp/224.100.1.88:56000
+#EXTINF:-1 group-title="Scanned channels",NTV Mir
+http://185.118.240.17:5000/udp/224.100.1.87:56000
+#EXTINF:-1 group-title="Scanned channels",Ohota i Ribalka
+http://185.118.240.17:5000/udp/224.100.1.86:56000
+#EXTINF:-1 group-title="Scanned channels",RTVi Detskiy Mir - TeleClub
+http://185.118.240.17:5000/udp/224.100.1.85:56000
+#EXTINF:-1 group-title="Scanned channels",RTVi Nashe Kino
+http://185.118.240.17:5000/udp/224.100.1.84:56000
+#EXTINF:-1 group-title="Scanned channels",RTVi
+http://185.118.240.17:5000/udp/224.100.1.83:56000
+#EXTINF:-1 group-title="Scanned channels",Perviy Kanal
+http://185.118.240.17:5000/udp/224.100.1.82:56000
+#EXTINF:-1 group-title="Scanned channels",RTR Planeta
+http://185.118.240.17:5000/udp/224.100.1.81:56000
+#EXTINF:-1 group-title="Scanned channels",TVT:-http://185.118.240.17:5000/udp/224.100.1.80:56000
+http://185.118.240.17:5000/udp/224.100.1.80:56000
+#EXTINF:-1 group-title="Scanned channels",TV ZAPAD
+http://185.118.240.17:5000/udp/224.100.1.8:56000
+#EXTINF:-1 group-title="Scanned channels",BG-DNES
+http://185.118.240.17:5000/udp/224.100.1.79:56000
+#EXTINF:-1 group-title="Scanned channels",RTL
+http://185.118.240.17:5000/udp/224.100.1.78:56000
+#EXTINF:-1 group-title="Scanned channels",Eurosport 2
+http://185.118.240.17:5000/udp/224.100.1.77:56000
+#EXTINF:-1 group-title="Scanned channels",Eurosport 1
+http://185.118.240.17:5000/udp/224.100.1.76:56000
+#EXTINF:-1 group-title="Scanned channels",RING
+http://185.118.240.17:5000/udp/224.100.1.75:56000
+#EXTINF:-1 group-title="Scanned channels",BN Music
+http://185.118.240.17:5000/udp/224.100.1.74:56000
+#EXTINF:-1 group-title="Scanned channels",Balkanika Music
+http://185.118.240.17:5000/udp/224.100.1.73:56000
+#EXTINF:-1 group-title="Scanned channels",Magic TV
+http://185.118.240.17:5000/udp/224.100.1.72:56000
+#EXTINF:-1 group-title="Scanned channels",DM SAT
+http://185.118.240.17:5000/udp/224.100.1.71:56000
+#EXTINF:-1 group-title="Scanned channels",Investigation Discovery
+http://185.118.240.17:5000/udp/224.100.1.70:56000
+#EXTINF:-1 group-title="Scanned channels",Bulgaria On Air
+http://185.118.240.17:5000/udp/224.100.1.7:56000
+#EXTINF:-1 group-title="Scanned channels",Planeta Folk TV
+http://185.118.240.17:5000/udp/224.100.1.69:56000
+#EXTINF:-1 group-title="Scanned channels",FEN Folk
+http://185.118.240.17:5000/udp/224.100.1.68:56000
+#EXTINF:-1 group-title="Scanned channels",TV Rodina
+http://185.118.240.17:5000/udp/224.100.1.67:56000
+#EXTINF:-1 group-title="Scanned channels",FEN TV
+http://185.118.240.17:5000/udp/224.100.1.66:56000
+#EXTINF:-1 group-title="Scanned channels",TOP TV
+http://185.118.240.17:5000/udp/224.100.1.65:56000
+#EXTINF:-1 group-title="Scanned channels",Planeta TV
+http://185.118.240.17:5000/udp/224.100.1.64:56000
+#EXTINF:-1 group-title="Scanned channels",Bloomberg TV:-http://185.118.240.17:5000/udp/224.100.1.63:56000
+http://185.118.240.17:5000/udp/224.100.1.63:56000
+#EXTINF:-1 group-title="Scanned channels",Nova TV:-http://185.118.240.17:5000/udp/224.100.1.62:56000
+http://185.118.240.17:5000/udp/224.100.1.62:56000
+#EXTINF:-1 group-title="Scanned channels",BNT 3
+http://185.118.240.17:5000/udp/224.100.1.61:56000
+#EXTINF:-1 group-title="Scanned channels",BNT:-http://185.118.240.17:5000/udp/224.100.1.60:56000
+http://185.118.240.17:5000/udp/224.100.1.60:56000
+#EXTINF:-1 group-title="Scanned channels",PPTV
+http://185.118.240.17:5000/udp/224.100.1.6:56000
+#EXTINF:-1 group-title="Scanned channels",BNT:-http://185.118.240.17:5000/udp/224.100.1.59:56000
+http://185.118.240.17:5000/udp/224.100.1.59:56000
+#EXTINF:-1 group-title="Scanned channels",Virgin Group:-http://185.118.240.17:5000/udp/224.100.1.58:56000
+http://185.118.240.17:5000/udp/224.100.1.58:56000
+#EXTINF:-1 group-title="Scanned channels",SP Konsult Ontario:-http://185.118.240.17:5000/udp/224.100.1.57:56000
+http://185.118.240.17:5000/udp/224.100.1.57:56000
+#EXTINF:-1 group-title="Scanned channels",channel-http://185.118.240.17:5000/udp/224.100.1.56:56000
+http://185.118.240.17:5000/udp/224.100.1.56:56000
+#EXTINF:-1 group-title="Scanned channels",BNT:-http://185.118.240.17:5000/udp/224.100.1.55:56000
+http://185.118.240.17:5000/udp/224.100.1.55:56000
+#EXTINF:-1 group-title="Scanned channels",BNT:-http://185.118.240.17:5000/udp/224.100.1.54:56000
+http://185.118.240.17:5000/udp/224.100.1.54:56000
+#EXTINF:-1 group-title="Scanned channels",TWDC:-http://185.118.240.17:5000/udp/224.100.1.53:56000
+http://185.118.240.17:5000/udp/224.100.1.53:56000
+#EXTINF:-1 group-title="Scanned channels",TWDC:-http://185.118.240.17:5000/udp/224.100.1.52:56000
+http://185.118.240.17:5000/udp/224.100.1.52:56000
+#EXTINF:-1 group-title="Scanned channels",TWDC:-http://185.118.240.17:5000/udp/224.100.1.51:56000
+http://185.118.240.17:5000/udp/224.100.1.51:56000
+#EXTINF:-1 group-title="Scanned channels",TWDC:-http://185.118.240.17:5000/udp/224.100.1.50:56000
+http://185.118.240.17:5000/udp/224.100.1.50:56000
+#EXTINF:-1 group-title="Scanned channels",DARTS
+http://185.118.240.17:5000/udp/224.100.1.5:56000
+#EXTINF:-1 group-title="Scanned channels",Auto Motor Sport
+http://185.118.240.17:5000/udp/224.100.1.49:56000
+#EXTINF:-1 group-title="Scanned channels",Nickelodeon
+http://185.118.240.17:5000/udp/224.100.1.48:56000
+#EXTINF:-1 group-title="Scanned channels",Nick Jr
+http://185.118.240.17:5000/udp/224.100.1.47:56000
+#EXTINF:-1 group-title="Scanned channels",ALFA TV
+http://185.118.240.17:5000/udp/224.100.1.46:56000
+#EXTINF:-1 group-title="Scanned channels",Kitchen TV
+http://185.118.240.17:5000/udp/224.100.1.45:56000
+#EXTINF:-1 group-title="Scanned channels",Bulgaria 24
+http://185.118.240.17:5000/udp/224.100.1.44:56000
+#EXTINF:-1 group-title="Scanned channels",Eurochannel
+http://185.118.240.17:5000/udp/224.100.1.43:56000
+#EXTINF:-1 group-title="Scanned channels",channel-http://185.118.240.17:5000/udp/224.100.1.42:56000
+http://185.118.240.17:5000/udp/224.100.1.42:56000
+#EXTINF:-1 group-title="Scanned channels",NKTV Evrokom
+http://185.118.240.17:5000/udp/224.100.1.41:56000
+#EXTINF:-1 group-title="Scanned channels",VTK
+http://185.118.240.17:5000/udp/224.100.1.40:56000
+#EXTINF:-1 group-title="Scanned channels",BSTV SD
+http://185.118.240.17:5000/udp/224.100.1.4:56000
+#EXTINF:-1 group-title="Scanned channels",BG+
+http://185.118.240.17:5000/udp/224.100.1.39:56000
+#EXTINF:-1 group-title="Scanned channels",TV 1000
+http://185.118.240.17:5000/udp/224.100.1.38:56000
+#EXTINF:-1 group-title="Scanned channels",Bloomberg TV Bulgaria
+http://185.118.240.17:5000/udp/224.100.1.37:56000
+#EXTINF:-1 group-title="Scanned channels",Nova News
+http://185.118.240.17:5000/udp/224.100.1.36:56000
+#EXTINF:-1 group-title="Scanned channels",TV Evropa
+http://185.118.240.17:5000/udp/224.100.1.35:56000
+#EXTINF:-1 group-title="Scanned channels",BNT 2
+http://185.118.240.17:5000/udp/224.100.1.34:56000
+#EXTINF:-1 group-title="Scanned channels",BNT 4
+http://185.118.240.17:5000/udp/224.100.1.33:56000
+#EXTINF:-1 group-title="Scanned channels",SAT.1
+http://185.118.240.17:5000/udp/224.100.1.32:56000
+#EXTINF:-1 group-title="Scanned channels",N 24
+http://185.118.240.17:5000/udp/224.100.1.31:56000
+#EXTINF:-1 group-title="Scanned channels",24 Kitchen
+http://185.118.240.17:5000/udp/224.100.1.30:56000
+#EXTINF:-1 group-title="Scanned channels",Nova TV
+http://185.118.240.17:5000/udp/224.100.1.3:56000
+#EXTINF:-1 group-title="Scanned channels",Food Network
+http://185.118.240.17:5000/udp/224.100.1.29:56000
+#EXTINF:-1 group-title="Scanned channels",EKids
+http://185.118.240.17:5000/udp/224.100.1.28:56000
+#EXTINF:-1 group-title="Scanned channels",Disney Channel Bulgaria
+http://185.118.240.17:5000/udp/224.100.1.27:56000
+#EXTINF:-1 group-title="Scanned channels",Disney Junior
+http://185.118.240.17:5000/udp/224.100.1.26:56000
+#EXTINF:-1 group-title="Scanned channels",TEAM:SAT:-http://185.118.240.17:5000/udp/224.100.1.254:56000
+http://185.118.240.17:5000/udp/224.100.1.254:56000
+#EXTINF:-1 group-title="Scanned channels",1:-http://185.118.240.17:5000/udp/224.100.1.253:56000
+http://185.118.240.17:5000/udp/224.100.1.253:56000
+#EXTINF:-1 group-title="Scanned channels",channel-http://185.118.240.17:5000/udp/224.100.1.252:56000
+http://185.118.240.17:5000/udp/224.100.1.252:56000
+#EXTINF:-1 group-title="Scanned channels",channel-http://185.118.240.17:5000/udp/224.100.1.251:56000
+http://185.118.240.17:5000/udp/224.100.1.251:56000
+#EXTINF:-1 group-title="Scanned channels",Parva Programa
+http://185.118.240.17:5000/udp/224.100.1.250:56000
+#EXTINF:-1 group-title="Scanned channels",Virgin Group:-http://185.118.240.17:5000/udp/224.100.1.25:56000
+http://185.118.240.17:5000/udp/224.100.1.25:56000
+#EXTINF:-1 group-title="Scanned channels",TV2:-http://185.118.240.17:5000/udp/224.100.1.249:56000
+http://185.118.240.17:5000/udp/224.100.1.249:56000
+#EXTINF:-1 group-title="Scanned channels",TV1
+http://185.118.240.17:5000/udp/224.100.1.248:56000
+#EXTINF:-1 group-title="Scanned channels",MGI - Bulgaria:-http://185.118.240.17:5000/udp/224.100.1.247:56000
+http://185.118.240.17:5000/udp/224.100.1.247:56000
+#EXTINF:-1 group-title="Scanned channels",Current Time
+http://185.118.240.17:5000/udp/224.100.1.246:56000
+#EXTINF:-1 group-title="Scanned channels",MIMYUNI:-http://185.118.240.17:5000/udp/224.100.1.245:56000
+http://185.118.240.17:5000/udp/224.100.1.245:56000
+#EXTINF:-1 group-title="Scanned channels",ULTRANET TV:-http://185.118.240.17:5000/udp/224.100.1.244:56000
+http://185.118.240.17:5000/udp/224.100.1.244:56000
+#EXTINF:-1 group-title="Scanned channels",Edge Sport SD
+http://185.118.240.17:5000/udp/224.100.1.243:56000
+#EXTINF:-1 group-title="Scanned channels",Motorvision
+http://185.118.240.17:5000/udp/224.100.1.242:56000
+#EXTINF:-1 group-title="Scanned channels",KHL
+http://185.118.240.17:5000/udp/224.100.1.241:56000
+#EXTINF:-1 group-title="Scanned channels",MAX Sport 4
+http://185.118.240.17:5000/udp/224.100.1.240:56000
+#EXTINF:-1 group-title="Scanned channels",Hit Mix Music
+http://185.118.240.17:5000/udp/224.100.1.24:56000
+#EXTINF:-1 group-title="Scanned channels",MAX Sport 3
+http://185.118.240.17:5000/udp/224.100.1.239:56000
+#EXTINF:-1 group-title="Scanned channels",MAX Sport 2
+http://185.118.240.17:5000/udp/224.100.1.238:56000
+#EXTINF:-1 group-title="Scanned channels",MAX Sport 1
+http://185.118.240.17:5000/udp/224.100.1.237:56000
+#EXTINF:-1 group-title="Scanned channels",Nova Broadcasting Group:-http://185.118.240.17:5000/udp/224.100.1.236:56000
+http://185.118.240.17:5000/udp/224.100.1.236:56000
+#EXTINF:-1 group-title="Scanned channels",MAX Sport 3 HD
+http://185.118.240.17:5000/udp/224.100.1.235:56000
+#EXTINF:-1 group-title="Scanned channels",Fight Network HD:-http://185.118.240.17:5000/udp/224.100.1.232:56000
+http://185.118.240.17:5000/udp/224.100.1.232:56000
+#EXTINF:-1 group-title="Scanned channels",MGI - Bulgaria:-http://185.118.240.17:5000/udp/224.100.1.231:56000
+http://185.118.240.17:5000/udp/224.100.1.231:56000
+#EXTINF:-1 group-title="Scanned channels",MGI - Bulgaria:-http://185.118.240.17:5000/udp/224.100.1.230:56000
+http://185.118.240.17:5000/udp/224.100.1.230:56000
+#EXTINF:-1 group-title="Scanned channels",Moviestar
+http://185.118.240.17:5000/udp/224.100.1.23:56000
+#EXTINF:-1 group-title="Scanned channels",1:-http://185.118.240.17:5000/udp/224.100.1.229:56000
+http://185.118.240.17:5000/udp/224.100.1.229:56000
+#EXTINF:-1 group-title="Scanned channels",channel-http://185.118.240.17:5000/udp/224.100.1.228:56000
+http://185.118.240.17:5000/udp/224.100.1.228:56000
+#EXTINF:-1 group-title="Scanned channels",1:-http://185.118.240.17:5000/udp/224.100.1.227:56000
+http://185.118.240.17:5000/udp/224.100.1.227:56000
+#EXTINF:-1 group-title="Scanned channels",M7 Group:-http://185.118.240.17:5000/udp/224.100.1.226:56000
+http://185.118.240.17:5000/udp/224.100.1.226:56000
+#EXTINF:-1 group-title="Scanned channels",Levira:-http://185.118.240.17:5000/udp/224.100.1.225:56000
+http://185.118.240.17:5000/udp/224.100.1.225:56000
+#EXTINF:-1 group-title="Scanned channels",PROVIDER:-http://185.118.240.17:5000/udp/224.100.1.224:56000
+http://185.118.240.17:5000/udp/224.100.1.224:56000
+#EXTINF:-1 group-title="Scanned channels",1:-http://185.118.240.17:5000/udp/224.100.1.223:56000
+http://185.118.240.17:5000/udp/224.100.1.223:56000
+#EXTINF:-1 group-title="Scanned channels",channel-http://185.118.240.17:5000/udp/224.100.1.222:56000
+http://185.118.240.17:5000/udp/224.100.1.222:56000
+#EXTINF:-1 group-title="Scanned channels",Fen TV:-http://185.118.240.17:5000/udp/224.100.1.221:56000
+http://185.118.240.17:5000/udp/224.100.1.221:56000
+#EXTINF:-1 group-title="Scanned channels",Fen TV:-http://185.118.240.17:5000/udp/224.100.1.220:56000
+http://185.118.240.17:5000/udp/224.100.1.220:56000
+#EXTINF:-1 group-title="Scanned channels",Nova Sport
+http://185.118.240.17:5000/udp/224.100.1.22:56000
+#EXTINF:-1 group-title="Scanned channels",1:-http://185.118.240.17:5000/udp/224.100.1.219:56000
+http://185.118.240.17:5000/udp/224.100.1.219:56000
+#EXTINF:-1 group-title="Scanned channels",Nova Broadcasting Group:-http://185.118.240.17:5000/udp/224.100.1.218:56000
+http://185.118.240.17:5000/udp/224.100.1.218:56000
+#EXTINF:-1 group-title="Scanned channels",1:-http://185.118.240.17:5000/udp/224.100.1.217:56000
+http://185.118.240.17:5000/udp/224.100.1.217:56000
+#EXTINF:-1 group-title="Scanned channels",Nova Broadcating Group:-http://185.118.240.17:5000/udp/224.100.1.216:56000
+http://185.118.240.17:5000/udp/224.100.1.216:56000
+#EXTINF:-1 group-title="Scanned channels",Diema Sport 3
+http://185.118.240.17:5000/udp/224.100.1.215:56000
+#EXTINF:-1 group-title="Scanned channels",PROVIDER:-http://185.118.240.17:5000/udp/224.100.1.214:56000
+http://185.118.240.17:5000/udp/224.100.1.214:56000
+#EXTINF:-1 group-title="Scanned channels",BHTV:-http://185.118.240.17:5000/udp/224.100.1.213:56000
+http://185.118.240.17:5000/udp/224.100.1.213:56000
+#EXTINF:-1 group-title="Scanned channels",Virgin Group:-http://185.118.240.17:5000/udp/224.100.1.212:56000
+http://185.118.240.17:5000/udp/224.100.1.212:56000
+#EXTINF:-1 group-title="Scanned channels",ECTV for Kids
+http://185.118.240.17:5000/udp/224.100.1.211:56000
+#EXTINF:-1 group-title="Scanned channels",channel-http://185.118.240.17:5000/udp/224.100.1.210:56000
+http://185.118.240.17:5000/udp/224.100.1.210:56000
+#EXTINF:-1 group-title="Scanned channels",AXN Black
+http://185.118.240.17:5000/udp/224.100.1.21:56000
+#EXTINF:-1 group-title="Scanned channels",Efficiency First Media:-http://185.118.240.17:5000/udp/224.100.1.209:56000
+http://185.118.240.17:5000/udp/224.100.1.209:56000
+#EXTINF:-1 group-title="Scanned channels",Duck TV:-http://185.118.240.17:5000/udp/224.100.1.208:56000
+http://185.118.240.17:5000/udp/224.100.1.208:56000
+#EXTINF:-1 group-title="Scanned channels",Leni Film:-http://185.118.240.17:5000/udp/224.100.1.207:56000
+http://185.118.240.17:5000/udp/224.100.1.207:56000
+#EXTINF:-1 group-title="Scanned channels",Levira:-http://185.118.240.17:5000/udp/224.100.1.206:56000
+http://185.118.240.17:5000/udp/224.100.1.206:56000
+#EXTINF:-1 group-title="Scanned channels",bTV Media Group:-http://185.118.240.17:5000/udp/224.100.1.205:56000
+http://185.118.240.17:5000/udp/224.100.1.205:56000
+#EXTINF:-1 group-title="Scanned channels",channel-http://185.118.240.17:5000/udp/224.100.1.204:56000
+http://185.118.240.17:5000/udp/224.100.1.204:56000
+#EXTINF:-1 group-title="Scanned channels",bTV Media Group:-http://185.118.240.17:5000/udp/224.100.1.203:56000
+http://185.118.240.17:5000/udp/224.100.1.203:56000
+#EXTINF:-1 group-title="Scanned channels",Medialooks:-http://185.118.240.17:5000/udp/224.100.1.202:56000
+http://185.118.240.17:5000/udp/224.100.1.202:56000
+#EXTINF:-1 group-title="Scanned channels",Nova TV:-http://185.118.240.17:5000/udp/224.100.1.201:56000
+http://185.118.240.17:5000/udp/224.100.1.201:56000
+#EXTINF:-1 group-title="Scanned channels",1:-http://185.118.240.17:5000/udp/224.100.1.200:56000
+http://185.118.240.17:5000/udp/224.100.1.200:56000
+#EXTINF:-1 group-title="Scanned channels",AXN White
+http://185.118.240.17:5000/udp/224.100.1.20:56000
+#EXTINF:-1 group-title="Scanned channels",bTV
+http://185.118.240.17:5000/udp/224.100.1.2:56000
+#EXTINF:-1 group-title="Scanned channels",Levira:-http://185.118.240.17:5000/udp/224.100.1.199:56000
+http://185.118.240.17:5000/udp/224.100.1.199:56000
+#EXTINF:-1 group-title="Scanned channels",Trofei
+http://185.118.240.17:5000/udp/224.100.1.198:56000
+#EXTINF:-1 group-title="Scanned channels",MGI - Bulgaria:-http://185.118.240.17:5000/udp/224.100.1.197:56000
+http://185.118.240.17:5000/udp/224.100.1.197:56000
+#EXTINF:-1 group-title="Scanned channels",Levira:-http://185.118.240.17:5000/udp/224.100.1.196:56000
+http://185.118.240.17:5000/udp/224.100.1.196:56000
+#EXTINF:-1 group-title="Scanned channels",Duck TV:-http://185.118.240.17:5000/udp/224.100.1.195:56000
+http://185.118.240.17:5000/udp/224.100.1.195:56000
+#EXTINF:-1 group-title="Scanned channels",bTV Media Group:-http://185.118.240.17:5000/udp/224.100.1.194:56000
+http://185.118.240.17:5000/udp/224.100.1.194:56000
+#EXTINF:-1 group-title="Scanned channels",Mi-Fi:-http://185.118.240.17:5000/udp/224.100.1.193:56000
+http://185.118.240.17:5000/udp/224.100.1.193:56000
+#EXTINF:-1 group-title="Scanned channels",Home Digital TV:-http://185.118.240.17:5000/udp/224.100.1.192:56000
+http://185.118.240.17:5000/udp/224.100.1.192:56000
+#EXTINF:-1 group-title="Scanned channels",Payner Music:-http://185.118.240.17:5000/udp/224.100.1.191:56000
+http://185.118.240.17:5000/udp/224.100.1.191:56000
+#EXTINF:-1 group-title="Scanned channels",AXN
+http://185.118.240.17:5000/udp/224.100.1.19:56000
+#EXTINF:-1 group-title="Scanned channels",channel-http://185.118.240.17:5000/udp/224.100.1.189:56000
+http://185.118.240.17:5000/udp/224.100.1.189:56000
+#EXTINF:-1 group-title="Scanned channels",channel-http://185.118.240.17:5000/udp/224.100.1.188:56000
+http://185.118.240.17:5000/udp/224.100.1.188:56000
+#EXTINF:-1 group-title="Scanned channels",A1 Broadcasting:-http://185.118.240.17:5000/udp/224.100.1.187:56000
+http://185.118.240.17:5000/udp/224.100.1.187:56000
+#EXTINF:-1 group-title="Scanned channels",channel-http://185.118.240.17:5000/udp/224.100.1.186:56000
+http://185.118.240.17:5000/udp/224.100.1.186:56000
+#EXTINF:-1 group-title="Scanned channels",1:-http://185.118.240.17:5000/udp/224.100.1.185:56000
+http://185.118.240.17:5000/udp/224.100.1.185:56000
+#EXTINF:-1 group-title="Scanned channels",TEST Nova TV -4
+http://185.118.240.17:5000/udp/224.100.1.184:56000
+#EXTINF:-1 group-title="Scanned channels",TEST bTV -4
+http://185.118.240.17:5000/udp/224.100.1.183:56000
+#EXTINF:-1 group-title="Scanned channels",TEST BNT 1 -4
+http://185.118.240.17:5000/udp/224.100.1.182:56000
+#EXTINF:-1 group-title="Scanned channels",TEST EK
+http://185.118.240.17:5000/udp/224.100.1.181:56000
+#EXTINF:-1 group-title="Scanned channels",France 24
+http://185.118.240.17:5000/udp/224.100.1.180:56000
+#EXTINF:-1 group-title="Scanned channels",Diema Family
+http://185.118.240.17:5000/udp/224.100.1.18:56000
+#EXTINF:-1 group-title="Scanned channels",Virgin Group:-http://185.118.240.17:5000/udp/224.100.1.179:56000
+http://185.118.240.17:5000/udp/224.100.1.179:56000
+#EXTINF:-1 group-title="Scanned channels",TEST TV Zapad
+http://185.118.240.17:5000/udp/224.100.1.178:56000
+#EXTINF:-1 group-title="Scanned channels",TEST Bulgaria On Air
+http://185.118.240.17:5000/udp/224.100.1.177:56000
+#EXTINF:-1 group-title="Scanned channels",TEST Nova TV
+http://185.118.240.17:5000/udp/224.100.1.176:56000
+#EXTINF:-1 group-title="Scanned channels",TEST bTV
+http://185.118.240.17:5000/udp/224.100.1.175:56000
+#EXTINF:-1 group-title="Scanned channels",TEST BNT 1
+http://185.118.240.17:5000/udp/224.100.1.174:56000
+#EXTINF:-1 group-title="Scanned channels",Ultranet TV:-http://185.118.240.17:5000/udp/224.100.1.173:56000
+http://185.118.240.17:5000/udp/224.100.1.173:56000
+#EXTINF:-1 group-title="Scanned channels",TWDC:-http://185.118.240.17:5000/udp/224.100.1.172:56000
+http://185.118.240.17:5000/udp/224.100.1.172:56000
+#EXTINF:-1 group-title="Scanned channels",TWDC:-http://185.118.240.17:5000/udp/224.100.1.171:56000
+http://185.118.240.17:5000/udp/224.100.1.171:56000
+#EXTINF:-1 group-title="Scanned channels",Das Erste HD
+http://185.118.240.17:5000/udp/224.100.1.170:56000
+#EXTINF:-1 group-title="Scanned channels",Kino Nova
+http://185.118.240.17:5000/udp/224.100.1.17:56000
+#EXTINF:-1 group-title="Scanned channels",DW Europe
+http://185.118.240.17:5000/udp/224.100.1.169:56000
+#EXTINF:-1 group-title="Scanned channels",ZDF
+http://185.118.240.17:5000/udp/224.100.1.168:56000
+#EXTINF:-1 group-title="Scanned channels",Das Erste
+http://185.118.240.17:5000/udp/224.100.1.167:56000
+#EXTINF:-1 group-title="Scanned channels",CoresNet:-http://185.118.240.17:5000/udp/224.100.1.166:56000
+http://185.118.240.17:5000/udp/224.100.1.166:56000
+#EXTINF:-1 group-title="Scanned channels",TVE International
+http://185.118.240.17:5000/udp/224.100.1.165:56000
+#EXTINF:-1 group-title="Scanned channels",TV5 Monde
+http://185.118.240.17:5000/udp/224.100.1.164:56000
+#EXTINF:-1 group-title="Scanned channels",Home Digital TV:-http://185.118.240.17:5000/udp/224.100.1.163:56000
+http://185.118.240.17:5000/udp/224.100.1.163:56000
+#EXTINF:-1 group-title="Scanned channels",Rai News 24
+http://185.118.240.17:5000/udp/224.100.1.162:56000
+#EXTINF:-1 group-title="Scanned channels",Rai 2
+http://185.118.240.17:5000/udp/224.100.1.161:56000
+#EXTINF:-1 group-title="Scanned channels",Rai 1
+http://185.118.240.17:5000/udp/224.100.1.160:56000
+#EXTINF:-1 group-title="Scanned channels",Diema
+http://185.118.240.17:5000/udp/224.100.1.16:56000
+#EXTINF:-1 group-title="Scanned channels",XYPlus
+http://185.118.240.17:5000/udp/224.100.1.159:56000
+#EXTINF:-1 group-title="Scanned channels",XXL
+http://185.118.240.17:5000/udp/224.100.1.157:56000
+#EXTINF:-1 group-title="Scanned channels",SCT PassionXXX
+http://185.118.240.17:5000/udp/224.100.1.156:56000
+#EXTINF:-1 group-title="Scanned channels",SCT Pink O TV
+http://185.118.240.17:5000/udp/224.100.1.152:56000
+#EXTINF:-1 group-title="Scanned channels",AB Sat:-http://185.118.240.17:5000/udp/224.100.1.151:56000
+http://185.118.240.17:5000/udp/224.100.1.151:56000
+#EXTINF:-1 group-title="Scanned channels",Wness TV
+http://185.118.240.17:5000/udp/224.100.1.150:56000
+#EXTINF:-1 group-title="Scanned channels",bTV Lady
+http://185.118.240.17:5000/udp/224.100.1.15:56000
+#EXTINF:-1 group-title="Scanned channels",B1B Action:-http://185.118.240.17:5000/udp/224.100.1.149:56000
+http://185.118.240.17:5000/udp/224.100.1.149:56000
+#EXTINF:-1 group-title="Scanned channels",B1B Action
+http://185.118.240.17:5000/udp/224.100.1.148:56000
+#EXTINF:-1 group-title="Scanned channels",Detelina Media:-http://185.118.240.17:5000/udp/224.100.1.147:56000
+http://185.118.240.17:5000/udp/224.100.1.147:56000
+#EXTINF:-1 group-title="Scanned channels",Bulgaria On Air:-http://185.118.240.17:5000/udp/224.100.1.146:56000
+http://185.118.240.17:5000/udp/224.100.1.146:56000
+#EXTINF:-1 group-title="Scanned channels",Vixen TV
+http://185.118.240.17:5000/udp/224.100.1.145:56000
+#EXTINF:-1 group-title="Scanned channels",M7 Group:-http://185.118.240.17:5000/udp/224.100.1.144:56000
+http://185.118.240.17:5000/udp/224.100.1.144:56000
+#EXTINF:-1 group-title="Scanned channels",Fantazzy TV
+http://185.118.240.17:5000/udp/224.100.1.143:56000
+#EXTINF:-1 group-title="Scanned channels",Media Content Hub:-http://185.118.240.17:5000/udp/224.100.1.142:56000
+http://185.118.240.17:5000/udp/224.100.1.142:56000
+#EXTINF:-1 group-title="Scanned channels",SPI International:-http://185.118.240.17:5000/udp/224.100.1.141:56000
+http://185.118.240.17:5000/udp/224.100.1.141:56000
+#EXTINF:-1 group-title="Scanned channels",SPI International:-http://185.118.240.17:5000/udp/224.100.1.140:56000
+http://185.118.240.17:5000/udp/224.100.1.140:56000
+#EXTINF:-1 group-title="Scanned channels",FOX Crime
+http://185.118.240.17:5000/udp/224.100.1.14:56000
+#EXTINF:-1 group-title="Scanned channels",CoresNet:-http://185.118.240.17:5000/udp/224.100.1.139:56000
+http://185.118.240.17:5000/udp/224.100.1.139:56000
+#EXTINF:-1 group-title="Scanned channels",CoresNet:-http://185.118.240.17:5000/udp/224.100.1.138:56000
+http://185.118.240.17:5000/udp/224.100.1.138:56000
+#EXTINF:-1 group-title="Scanned channels",Dorcel TV HD:-http://185.118.240.17:5000/udp/224.100.1.137:56000
+http://185.118.240.17:5000/udp/224.100.1.137:56000
+#EXTINF:-1 group-title="Scanned channels",Hustler
+http://185.118.240.17:5000/udp/224.100.1.136:56000
+#EXTINF:-1 group-title="Scanned channels",Brazzers TV
+http://185.118.240.17:5000/udp/224.100.1.135:56000
+#EXTINF:-1 group-title="Scanned channels",NOSTALGIA
+http://185.118.240.17:5000/udp/224.100.1.134:56000
+#EXTINF:-1 group-title="Scanned channels",Dorcel XXX
+http://185.118.240.17:5000/udp/224.100.1.133:56000
+#EXTINF:-1 group-title="Scanned channels",Dorcel TV
+http://185.118.240.17:5000/udp/224.100.1.132:56000
+#EXTINF:-1 group-title="Scanned channels",Nasha TV
+http://185.118.240.17:5000/udp/224.100.1.131:56000
+#EXTINF:-1 group-title="Scanned channels",НАША ТВ:-http://185.118.240.17:5000/udp/224.100.1.130:56000
+http://185.118.240.17:5000/udp/224.100.1.130:56000
+#EXTINF:-1 group-title="Scanned channels",FOX
+http://185.118.240.17:5000/udp/224.100.1.13:56000
+#EXTINF:-1 group-title="Scanned channels",Nova Broadcasting Group:-http://185.118.240.17:5000/udp/224.100.1.129:56000
+http://185.118.240.17:5000/udp/224.100.1.129:56000
+#EXTINF:-1 group-title="Scanned channels",Home Digital TV:-http://185.118.240.17:5000/udp/224.100.1.128:56000
+http://185.118.240.17:5000/udp/224.100.1.128:56000
+#EXTINF:-1 group-title="Scanned channels",1:-http://185.118.240.17:5000/udp/224.100.1.127:56000
+http://185.118.240.17:5000/udp/224.100.1.127:56000
+#EXTINF:-1 group-title="Scanned channels",English Club TV
+http://185.118.240.17:5000/udp/224.100.1.126:56000
+#EXTINF:-1 group-title="Scanned channels",Levira:-http://185.118.240.17:5000/udp/224.100.1.125:56000
+http://185.118.240.17:5000/udp/224.100.1.125:56000
+#EXTINF:-1 group-title="Scanned channels",PROVIDER:-http://185.118.240.17:5000/udp/224.100.1.124:56000
+http://185.118.240.17:5000/udp/224.100.1.124:56000
+#EXTINF:-1 group-title="Scanned channels",PROVIDER:-http://185.118.240.17:5000/udp/224.100.1.123:56000
+http://185.118.240.17:5000/udp/224.100.1.123:56000
+#EXTINF:-1 group-title="Scanned channels",The World
+http://185.118.240.17:5000/udp/224.100.1.122:56000
+#EXTINF:-1 group-title="Scanned channels",MAKSNET:-http://185.118.240.17:5000/udp/224.100.1.120:56000
+http://185.118.240.17:5000/udp/224.100.1.120:56000
+#EXTINF:-1 group-title="Scanned channels",FOX Life
+http://185.118.240.17:5000/udp/224.100.1.12:56000
+#EXTINF:-1 group-title="Scanned channels",Trace Sport Channel
+http://185.118.240.17:5000/udp/224.100.1.119:56000
+#EXTINF:-1 group-title="Scanned channels",Diema Sport 2
+http://185.118.240.17:5000/udp/224.100.1.118:56000
+#EXTINF:-1 group-title="Scanned channels",Diema Sport
+http://185.118.240.17:5000/udp/224.100.1.117:56000
+#EXTINF:-1 group-title="Scanned channels",Scripps:-http://185.118.240.17:5000/udp/224.100.1.116:56000
+http://185.118.240.17:5000/udp/224.100.1.116:56000
+#EXTINF:-1 group-title="Scanned channels",This is Bulgaria
+http://185.118.240.17:5000/udp/224.100.1.115:56000
+#EXTINF:-1 group-title="Scanned channels",Travel TV
+http://185.118.240.17:5000/udp/224.100.1.114:56000
+#EXTINF:-1 group-title="Scanned channels",TVT
+http://185.118.240.17:5000/udp/224.100.1.113:56000
+#EXTINF:-1 group-title="Scanned channels",DaVinci Learning
+http://185.118.240.17:5000/udp/224.100.1.112:56000
+#EXTINF:-1 group-title="Scanned channels",Travel Channel
+http://185.118.240.17:5000/udp/224.100.1.111:56000
+#EXTINF:-1 group-title="Scanned channels",Viasat Nature
+http://185.118.240.17:5000/udp/224.100.1.110:56000
+#EXTINF:-1 group-title="Scanned channels",bTV Cinema
+http://185.118.240.17:5000/udp/224.100.1.11:56000
+#EXTINF:-1 group-title="Scanned channels",Viasat History
+http://185.118.240.17:5000/udp/224.100.1.109:56000
+#EXTINF:-1 group-title="Scanned channels",Viasat Explorer
+http://185.118.240.17:5000/udp/224.100.1.108:56000
+#EXTINF:-1 group-title="Scanned channels",Discovery Science
+http://185.118.240.17:5000/udp/224.100.1.107:56000
+#EXTINF:-1 group-title="Scanned channels",TLC
+http://185.118.240.17:5000/udp/224.100.1.106:56000
+#EXTINF:-1 group-title="Scanned channels",Discovery Channel
+http://185.118.240.17:5000/udp/224.100.1.105:56000
+#EXTINF:-1 group-title="Scanned channels",Animal Planet
+http://185.118.240.17:5000/udp/224.100.1.104:56000
+#EXTINF:-1 group-title="Scanned channels",Nat Geo Wild
+http://185.118.240.17:5000/udp/224.100.1.103:56000
+#EXTINF:-1 group-title="Scanned channels",TWDC:-http://185.118.240.17:5000/udp/224.100.1.102:56000
+http://185.118.240.17:5000/udp/224.100.1.102:56000
+#EXTINF:-1 group-title="Scanned channels",BG Music Channel
+http://185.118.240.17:5000/udp/224.100.1.101:56000
+#EXTINF:-1 group-title="Scanned channels",MTV Rocks
+http://185.118.240.17:5000/udp/224.100.1.100:56000
+#EXTINF:-1 group-title="Scanned channels",bTV Comedy
+http://185.118.240.17:5000/udp/224.100.1.10:56000
+#EXTINF:-1 group-title="Scanned channels",BNT 1
+http://185.118.240.17:5000/udp/224.100.1.1:56000
