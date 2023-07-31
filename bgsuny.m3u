@@ -1,0 +1,37 @@
+#EXTM3U
+#EXTINF:-1,Tvn bg
+https://obs.friendshipchurch.eu//tvn/mystream.m3u8
+#EXTINF:-1,TeleMedia bg
+https://cache0.playtv.platform24.tv/hlsjwt/f84c6fa1e5396d60dfd66fdf49cb8c042999ecc0-4021-0-net18455-4-3162260288-1690759929-e128-9t3fuLQgm-_2C7884nTzfkT8pmIU0XOllYMrRXXF8o8/index.m3u8
+#EXTINF:-1,TV SHUMEN
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/42cfb9b3064c453ea8472d0db057df96/chunklist_b732000.m3u8
+#EXTINF:-1,DARIK TV
+https://e105-ts.cdn.bg/darikradio/fls/darikradio-live.smil/playlist.m3u8
+#EXTINF:-1,VATIM TV
+https://tv1.dragonsclan.org/tva/tvn/playlist.m3u8
+#EXTINF:-1,MAKEDONSKO SLANCE SAT
+https://media2.streambrothers.com:1936/8128/8128/playlist.m3u8
+#EXTINF:-1,MAKEDONSKO SLANCE TV
+https://media2.streambrothers.com:1936/8142/8142/playlist.m3u8
+#EXTINF:-1,MU-VI.TV
+http://e119-ts.cdn.bg/mu_varna/fls/livetv-dvr.stream/at=O0U9MTY5MDgxNDU3MztBPTE7Sz0zO1A9MDExMTA7Uz1jNmI4OWQ5NGQ4ZDMxOGFkMTIzNDdmYTFmY2JjYWVmYzRlZTQ5NjBi/chunklist_DVR.m3u8
+#EXTINF:-1,ETV HASKOVO
+http://195.24.89.81/ETV/video.m3u8
+#EXTINF:-1,100 GAZ
+http://100automoto.tv:1935/100gaz/shukerov/playlist.m3u8
+#EXTINF:-1,100 AUTO
+http://100automoto.tv:1935/bgtv1/Stream1/playlist.m3u8
+#EXTINF:-1,TV ART BG
+https://stream.osc.bg/tvart/Stream3/chunklist_w1654654491.m3u8
+#EXTINF:-1,DEIMOS TV BG
+http://84.54.148.38:8080/DTV_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1,motor vision tv
+https://cdn-nms-01.iptv.bulsat.com/tv7/smil:motorvision_hd_sd.smil/tv7/motorvision_hd-high.stream/chunks.m3u8?nimblesessionid=658611899&wmsAuthSign=Q3VzdG9tUGFyYW1ldGVyPTI3MzkyNV9fMjczOTI1X05VTExfcGN3ZWJfZTY3MDgzOGQzODZiNzRlM2NlODFlNDAxNzIxNDQ3ZDlfJnNlcnZlcl90aW1lPTcvMzEvMjAyMyA5OjI2OjI5IEFNJmhhc2hfdmFsdWU9ZktXeU91ZG9HcmpGRTlKSFJKNXE2dz09JnZhbGlkbWludXRlcz02MDAmc3RybV9sZW49MzE=
+#EXTINF:-1,soul tv
+https://cdn-nms-07.iptv.bulsat.com/tv3/smil:soulandp_sd.smil/tv3/soulandp-med.stream/chunks.m3u8?nimblesessionid=589861928&wmsAuthSign=Q3VzdG9tUGFyYW1ldGVyPTI3MzkyNV9fMjczOTI1X05VTExfcGN3ZWJfZTY3MDgzOGQzODZiNzRlM2NlODFlNDAxNzIxNDQ3ZDlfJnNlcnZlcl90aW1lPTcvMzEvMjAyMyA5OjI2OjI5IEFNJmhhc2hfdmFsdWU9eUdMNVVqV0ZRUmNVREp1TzJHQnNJZz09JnZhbGlkbWludXRlcz02MDAmc3RybV9sZW49MjU=
+#EXTINF:-1,tv 999
+https://cdn-nms-06.iptv.bulsat.com/tv9/smil:hmtv_hd_sd.smil/tv9/hmtv_hd-low.stream/chunks.m3u8?nimblesessionid=574684503&wmsAuthSign=Q3VzdG9tUGFyYW1ldGVyPTI3MzkyNV9fMjczOTI1X05VTExfcGN3ZWJfZTY3MDgzOGQzODZiNzRlM2NlODFlNDAxNzIxNDQ3ZDlfJnNlcnZlcl90aW1lPTcvMzEvMjAyMyA5OjI2OjI5IEFNJmhhc2hfdmFsdWU9U0JsNG1TaTM3a0N2VW9xZXExOG5SUT09JnZhbGlkbWludXRlcz02MDAmc3RybV9sZW49MjQ=
+#EXTINF:-1,tv stara zagora 3
+https://cdn-nms-06.iptv.bulsat.com/tv228/smil:stara_zagora_tv_sd.smil/tv228/stara_zagora_tv-med.stream/chunks.m3u8?nimblesessionid=574684742&wmsAuthSign=Q3VzdG9tUGFyYW1ldGVyPTI3MzkyNV9fMjczOTI1X05VTExfcGN3ZWJfZTY3MDgzOGQzODZiNzRlM2NlODFlNDAxNzIxNDQ3ZDlfJnNlcnZlcl90aW1lPTcvMzEvMjAyMyA5OjI2OjI5IEFNJmhhc2hfdmFsdWU9Mk5JcnlTcjl1SmM0bnZNVkN3aEpVdz09JnZhbGlkbWludXRlcz02MDAmc3RybV9sZW49MzQ=
+#EXTINF:-1,kiss 13
+https://cdn-nms-03.iptv.bulsat.com/tv11/smil:kiss13_sd.smil/tv11/kiss13-med.stream/chunks.m3u8?nimblesessionid=356394123&wmsAuthSign=Q3VzdG9tUGFyYW1ldGVyPTI3MzkyNV9fMjczOTI1X05VTExfcGN3ZWJfZTY3MDgzOGQzODZiNzRlM2NlODFlNDAxNzIxNDQ3ZDlfJnNlcnZlcl90aW1lPTcvMzEvMjAyMyA5OjI2OjI5IEFNJmhhc2hfdmFsdWU9M2hFT3lIc1UrWVJ3NEtJSWNXV2p1QT09JnZhbGlkbWludXRlcz02MDAmc3RybV9sZW49MjQ=
