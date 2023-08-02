@@ -1,0 +1,2583 @@
+#EXTM3U
+#EXTINF:-1,MCM Top
+http://37.17.12.124:8906/play/a001
+#EXTINF:-1,Gulli Girl
+http://37.17.12.124:8911/play/a00c
+#EXTINF:-1,TiJi
+http://37.17.12.124:8911/play/a00e
+#EXTINF:-1,CIRA TV
+http://176.10.117.18:8000/play/a00m
+#EXTINF:-1,Iran International HD
+http://176.10.117.18:8000/play/a025
+#EXTINF:-1,Iraqia News HD
+http://176.10.117.18:8000/play/a02a
+#EXTINF:-1,Kurdistan 24 HD
+http://176.10.117.18:8000/play/a028
+#EXTINF:-1,Kurdsat SD
+http://176.10.117.18:8000/play/a01i
+#EXTINF:-1,Med Music
+http://176.10.117.18:8000/play/a00k
+#EXTINF:-1,Medya Haber
+http://176.10.117.18:8000/play/a01j
+#EXTINF:-1,NASA TV HD
+http://176.10.117.18:8000/play/a026
+#EXTINF:-1,NHK WORLD-JAPAN
+http://176.10.117.18:8000/play/a029
+#EXTINF:-1,RUDAW HD
+http://176.10.117.18:8000/play/a027
+#EXTINF:-1,Ronahi TV
+http://176.10.117.18:8000/play/a00j
+#EXTINF:-1,STERK TV HD
+http://176.10.117.18:8000/play/a00l
+#EXTINF:-1, KHL TV
+http://37.17.12.119:8904/play/a00l
+#EXTINF:-1,Extreme Sports
+http://37.17.12.119:8904/play/a00n
+#EXTINF:-1,Mezzo
+http://37.17.12.119:8904/play/a00e
+#EXTINF:-1,AFAQ TV
+http://149.62.183.198:8001/play/a01i/index.m3u8
+#EXTINF:-1,AL AHAD HD
+http://149.62.183.198:8001/play/a01r/index.m3u8
+#EXTINF:-1,AL ALAM TV HD
+http://149.62.183.198:8001/play/a00c/index.m3u8
+#EXTINF:-1,AL AYAM HD
+http://149.62.183.198:8001/play/a01o/index.m3u8
+#EXTINF:-1,AL SHARQIYA NEWS HD
+http://149.62.183.198:8001/play/a01m/index.m3u8
+#EXTINF:-1,ALMASAR TV HD
+http://149.62.183.198:8001/play/a005/index.m3u8
+#EXTINF:-1,ALMOHTADI HD
+http://149.62.183.198:8001/play/a00d/index.m3u8
+#EXTINF:-1,ALNOJABA TV
+http://149.62.183.198:8001/play/a01l/index.m3u8
+#EXTINF:-1,ALRabiaa Sport
+http://149.62.183.198:8001/play/a01q/index.m3u8
+#EXTINF:-1,Al Aoula Inter HD
+http://149.62.183.198:8001/play/a011/index.m3u8
+#EXTINF:-1,Al Ghadeer
+http://149.62.183.198:8001/play/a01k/index.m3u8
+#EXTINF:-1,Al Hadath HD
+http://149.62.183.198:8001/play/a002/index.m3u8
+#EXTINF:-1,Al Maghribia HD
+http://149.62.183.198:8001/play/a015/index.m3u8
+#EXTINF:-1,Al Rabiaa TV
+http://149.62.183.198:8001/play/a01p/index.m3u8
+#EXTINF:-1,Almajd General
+http://149.62.183.198:8001/play/a007/index.m3u8
+#EXTINF:-1,Arryadia HD
+http://149.62.183.198:8001/play/a013/index.m3u8
+#EXTINF:-1,Asharq News Channel HD
+http://149.62.183.198:8001/play/a003/index.m3u8
+#EXTINF:-1,Assadissa HD
+http://149.62.183.198:8001/play/a016/index.m3u8
+#EXTINF:-1,Atfal Mawaheb
+http://149.62.183.198:8001/play/a00b/index.m3u8
+#EXTINF:-1,Athaqafia HD
+http://149.62.183.198:8001/play/a014/index.m3u8
+#EXTINF:-1,Dijlah Zaman HD
+http://149.62.183.198:8001/play/a00f/index.m3u8
+#EXTINF:-1,Iraqi Edu HD
+http://149.62.183.198:8001/play/a021/index.m3u8
+#EXTINF:-1,Iraqia Ent HD
+http://149.62.183.198:8001/play/a020/index.m3u8
+#EXTINF:-1,Iraqia Entertainment
+http://149.62.183.198:8001/play/a01v/index.m3u8
+#EXTINF:-1,Iraqia Kurd 
+http://149.62.183.198:8001/play/a01x/index.m3u8
+#EXTINF:-1,Iraqia News HD
+http://149.62.183.198:8001/play/a01t/index.m3u8
+#EXTINF:-1,Iraqia News SD 
+http://149.62.183.198:8001/play/a01u/index.m3u8
+#EXTINF:-1,Iraqia Sport HD
+http://149.62.183.198:8001/play/a01y/index.m3u8
+#EXTINF:-1,Iraqia Turkuman
+http://149.62.183.198:8001/play/a01w/index.m3u8
+#EXTINF:-1,LIBYA BUSINESS HD
+http://149.62.183.198:8001/play/a006/index.m3u8
+#EXTINF:-1,Laayoune TV HD
+http://149.62.183.198:8001/play/a012/index.m3u8
+#EXTINF:-1,LuaLua TV
+http://149.62.183.198:8001/play/a00e/index.m3u8
+#EXTINF:-1,M CLASSIC
+http://149.62.183.198:8001/play/a01j/index.m3u8
+#EXTINF:-1,Medi1 TV Arabic
+http://149.62.183.198:8001/play/a009/index.m3u8
+#EXTINF:-1,Medi1 TV Maghreb HD
+http://149.62.183.198:8001/play/a018/index.m3u8
+#EXTINF:-1,RT Arabic HD
+http://149.62.183.198:8001/play/a004/index.m3u8
+#EXTINF:-1,RUDAW TV
+http://149.62.183.198:8001/play/a01n/index.m3u8
+#EXTINF:-1,SHEHAB TV HD
+http://149.62.183.198:8001/play/a00a/index.m3u8
+#EXTINF:-1,TURKMENELI HD
+http://149.62.183.198:8001/play/a008/index.m3u8
+#EXTINF:-1,Tamazight HD
+http://149.62.183.198:8001/play/a017/index.m3u8
+#EXTINF:-1, RADIO NAMA ZANJAN
+http://92.246.85.119:8000/play/a0eg
+#EXTINF:-1, SABALAN
+http://92.246.85.119:8000/play/a0d6
+#EXTINF:-1,IRANKALA
+http://92.246.85.119:8000/play/a0ev
+#EXTINF:-1,IRIB - ESHRAGH
+http://92.246.85.119:8000/play/a0ef
+#EXTINF:-1,IRIB AMOOZESH
+http://92.246.85.119:8000/play/a0er
+#EXTINF:-1,IRIB AZARBAYJAN
+http://92.246.85.119:8000/play/a0e3
+#EXTINF:-1,IRIB BUSHEHR
+http://92.246.85.119:8000/play/a0da
+#EXTINF:-1,IRIB DENA
+http://92.246.85.119:8000/play/a0db
+#EXTINF:-1,IRIB ESFAHAN
+http://92.246.85.119:8000/play/a0eb
+#EXTINF:-1,IRIB FARS
+http://92.246.85.119:8000/play/a0d9
+#EXTINF:-1,IRIB KH.JONOOBI
+http://92.246.85.119:8000/play/a0ff
+#EXTINF:-1,IRIB KH.JONOOBI
+http://92.246.85.119:8000/play/a0fa
+#EXTINF:-1,IRIB KH.RAZAVI
+http://92.246.85.119:8000/play/a0fe
+#EXTINF:-1,IRIB KH.RAZAVI
+http://92.246.85.119:8000/play/a0f9
+#EXTINF:-1,IRIB KH.SHOMALI
+http://92.246.85.119:8000/play/a0fb
+#EXTINF:-1,IRIB MAZANDARAN
+http://92.246.85.119:8000/play/a0e0
+#EXTINF:-1,IRIB NAMAYESH
+http://92.246.85.119:8000/play/a0ew
+#EXTINF:-1,IRIB NASIM
+http://92.246.85.119:8000/play/a0f4
+#EXTINF:-1,IRIB OFOGH
+http://92.246.85.119:8000/play/a0ex
+#EXTINF:-1,IRIB QURAN
+http://92.246.85.119:8000/play/a0es
+#EXTINF:-1,IRIB SAHAND
+http://92.246.85.119:8000/play/a0d5
+#EXTINF:-1,IRIB SALAMAT
+http://92.246.85.119:8000/play/a0f3
+#EXTINF:-1,IRIB SEMNAN
+http://92.246.85.119:8000/play/a0eh
+#EXTINF:-1,IRIB SEPEHR
+http://92.246.85.119:8000/play/a0f5
+#EXTINF:-1,IRIB TV1
+http://92.246.85.119:8000/play/a0el
+#EXTINF:-1,IRIB TV2
+http://92.246.85.119:8000/play/a0em
+#EXTINF:-1,IRIB TV3
+http://92.246.85.119:8000/play/a0en
+#EXTINF:-1,IRIB TV4
+http://92.246.85.119:8000/play/a0eo
+#EXTINF:-1,IRIB TV5
+http://92.246.85.119:8000/play/a0ep
+#EXTINF:-1,IRIB VARZESH
+http://92.246.85.119:8000/play/a0f1
+#EXTINF:-1,IRIB YAZD
+http://92.246.85.119:8000/play/a0ej
+#EXTINF:-1,IRIB-AFLAK
+http://92.246.85.119:8000/play/a0df
+#EXTINF:-1,IRIB-AFTAB      
+http://92.246.85.119:8000/play/a0dl
+#EXTINF:-1,IRIB-BARAN
+http://92.246.85.119:8000/play/a0dp
+#EXTINF:-1,IRIB-GOLESTAN
+http://92.246.85.119:8000/play/a0dz
+#EXTINF:-1,IRIB-HAMEDAN
+http://92.246.85.119:8000/play/a0dk
+#EXTINF:-1,IRIB-HAMOON
+http://92.246.85.119:8000/play/a0du
+#EXTINF:-1,IRIB-ILAM
+http://92.246.85.119:8000/play/a0e5
+#EXTINF:-1,IRIB-JAHANBIN   
+http://92.246.85.119:8000/play/a0ed
+#EXTINF:-1,IRIB-KHOOZESTAN
+http://92.246.85.119:8000/play/a0dg
+#EXTINF:-1,IRIB-KORDESTAN
+http://92.246.85.119:8000/play/a0ea
+#EXTINF:-1,IRIB-Kerman
+http://92.246.85.119:8000/play/a0dt
+#EXTINF:-1,IRIB-Kermanshah
+http://92.246.85.119:8000/play/a0e6
+#EXTINF:-1,IRIB-Khalijefars
+http://92.246.85.119:8000/play/a0dy
+#EXTINF:-1,IRIB-NOOR
+http://92.246.85.119:8000/play/a0dj
+#EXTINF:-1,IRIB-Qazvin
+http://92.246.85.119:8000/play/a0dq
+#EXTINF:-1,IRINN
+http://92.246.85.119:8000/play/a0eq
+#EXTINF:-1,MOSTANAD
+http://92.246.85.119:8000/play/a0et
+#EXTINF:-1,MOSTANAD  HD
+http://92.246.85.119:8000/play/a0f7
+#EXTINF:-1,OMID
+http://92.246.85.119:8000/play/a0eu
+#EXTINF:-1,POUYA
+http://92.246.85.119:8000/play/a0f2
+#EXTINF:-1,RAADIO NAMA HAMEDAN
+http://92.246.85.119:8000/play/a0dn
+#EXTINF:-1,RADIO NAMA AZARBAYJANE GHARBI
+http://92.246.85.119:8000/play/a0e4
+#EXTINF:-1,RADIO NAMA BUSHEHR
+http://92.246.85.119:8000/play/a0dd
+#EXTINF:-1,RADIO NAMA ESFAHAN
+http://92.246.85.119:8000/play/a0ec
+#EXTINF:-1,RADIO NAMA FARS
+http://92.246.85.119:8000/play/a0dc
+#EXTINF:-1,RADIO NAMA GORGAN
+http://92.246.85.119:8000/play/a0e1
+#EXTINF:-1,RADIO NAMA JAHANBIN
+http://92.246.85.119:8000/play/a0ee
+#EXTINF:-1,RADIO NAMA KHOOZESTAN
+http://92.246.85.119:8000/play/a0di
+#EXTINF:-1,RADIO NAMA QAZVIN
+http://92.246.85.119:8000/play/a0ds
+#EXTINF:-1,RADIO NAMA QOM
+http://92.246.85.119:8000/play/a0dm
+#EXTINF:-1,RADIO NAMA TABRIZ
+http://92.246.85.119:8000/play/a0d7
+#EXTINF:-1,RADIO NAMA YAZD
+http://92.246.85.119:8000/play/a0ek
+#EXTINF:-1,RADIO NAMA- ILAM
+http://92.246.85.119:8000/play/a0e8
+#EXTINF:-1,RADIONAMA  KOHGILUYE VA BOYERAHMAD
+http://92.246.85.119:8000/play/a0de
+#EXTINF:-1,RADIONAMA ARDABIL
+http://92.246.85.119:8000/play/a0d8
+#EXTINF:-1,Ra.Na.kermanshah
+http://92.246.85.119:8000/play/a0e9
+#EXTINF:-1,Radio Nama Kerman
+http://92.246.85.119:8000/play/a0dw
+#EXTINF:-1,Radio Nama Mazandaran
+http://92.246.85.119:8000/play/a0e2
+#EXTINF:-1,Radio Nama ZAHEDAN
+http://92.246.85.119:8000/play/a0dx
+#EXTINF:-1,Radio-Nama-Kurdistan
+http://92.246.85.119:8000/play/a0e7
+#EXTINF:-1,Radio-Nama-LORESTAN
+http://92.246.85.119:8000/play/a0dh
+#EXTINF:-1,Radio-Nama-Markazi
+http://92.246.85.119:8000/play/a0do
+#EXTINF:-1,Radionama_Guilan
+http://92.246.85.119:8000/play/a0dr
+#EXTINF:-1,SHOMA
+http://92.246.85.119:8000/play/a0f0
+#EXTINF:-1,Semnan-Radio-Nama
+http://92.246.85.119:8000/play/a0ei
+#EXTINF:-1,TAMASHA
+http://92.246.85.119:8000/play/a0ez
+#EXTINF:-1,TAMASHA HD
+http://92.246.85.119:8000/play/a0f6
+#EXTINF:-1,TV3 HD
+http://92.246.85.119:8000/play/a0fc
+#EXTINF:-1,VARZESH HD
+http://92.246.85.119:8000/play/a0f8
+#EXTINF:-1,iFILM
+http://92.246.85.119:8000/play/a0ey
+#EXTINF:-1,radionama_KHALIJEFARS
+http://92.246.85.119:8000/play/a0dv
+#EXTINF:-1,31 канал
+http://89.218.32.187:18000/play/a06s/index.m3u8
+#EXTINF:-1,7 канал
+http://89.218.32.187:18000/play/a06t/index.m3u8
+#EXTINF:-1,ABAI TV
+http://89.218.32.187:18000/play/a078/index.m3u8
+#EXTINF:-1,ASTANA TV
+http://89.218.32.187:18000/play/a06u/index.m3u8
+#EXTINF:-1,Almaty
+http://89.218.32.187:18000/play/a06v/index.m3u8
+#EXTINF:-1,Amedia
+http://89.218.32.187:18000/play/a086/index.m3u8
+#EXTINF:-1,BRIDGE TV HITS
+http://89.218.32.187:18000/play/a07g/index.m3u8
+#EXTINF:-1,Balapan
+http://89.218.32.187:18000/play/a06x/index.m3u8
+#EXTINF:-1,El Arna
+http://89.218.32.187:18000/play/a06z/index.m3u8
+#EXTINF:-1,HTK
+http://89.218.32.187:18000/play/a072/index.m3u8
+#EXTINF:-1,Habar
+http://89.218.32.187:18000/play/a073/index.m3u8
+#EXTINF:-1,Habar 24
+http://89.218.32.187:18000/play/a074/index.m3u8
+#EXTINF:-1,KTK
+http://89.218.32.187:18000/play/a075/index.m3u8
+#EXTINF:-1,Kazakh TV
+http://89.218.32.187:18000/play/a07c/index.m3u8
+#EXTINF:-1,MUZ TV
+http://89.218.32.187:18000/play/a077/index.m3u8
+#EXTINF:-1,Moya planeta
+http://89.218.32.187:18000/play/a07h/index.m3u8
+#EXTINF:-1,Ocean TV
+http://89.218.32.187:18000/play/a082/index.m3u8
+#EXTINF:-1,QAZAQSTAN
+http://89.218.32.187:18000/play/a079/index.m3u8
+#EXTINF:-1,QAZSPORT
+http://89.218.32.187:18000/play/a050/index.m3u8
+#EXTINF:-1,Sony SciFi
+http://89.218.32.187:18000/play/a08j/index.m3u8
+#EXTINF:-1,TV1000
+http://89.218.32.187:18000/play/a087/index.m3u8
+#EXTINF:-1,TV1000 Action
+http://89.218.32.187:18000/play/a08b/index.m3u8
+#EXTINF:-1,TV1000 Russkoe kino
+http://89.218.32.187:18000/play/a089/index.m3u8
+#EXTINF:-1,Zhetesu
+http://89.218.32.187:18000/play/a07b/index.m3u8
+#EXTINF:-1,Детский мир
+http://89.218.32.187:18000/play/a07x/index.m3u8
+#EXTINF:-1,Дом кино
+http://89.218.32.187:18000/play/a07v/index.m3u8
+#EXTINF:-1,Живая Планета
+http://89.218.32.187:18000/play/a07f/index.m3u8
+#EXTINF:-1,Загородная Жизнь
+http://89.218.32.187:18000/play/a085/index.m3u8
+#EXTINF:-1,Карусель
+http://89.218.32.187:18000/play/a08a/index.m3u8
+#EXTINF:-1,МУЗ ТВ
+http://89.218.32.187:18000/play/a08i/index.m3u8
+#EXTINF:-1,Мир Сериала
+http://89.218.32.187:18000/play/a07i/index.m3u8
+#EXTINF:-1,Мир Увлечений
+http://89.218.32.187:18000/play/a07k/index.m3u8
+#EXTINF:-1,НТВ
+http://89.218.32.187:18000/play/a08c/index.m3u8
+#EXTINF:-1,Первый канал
+http://89.218.32.187:18000/play/a08d/index.m3u8
+#EXTINF:-1,Первый канал Евразия
+http://89.218.32.187:18000/play/a06r/index.m3u8
+#EXTINF:-1,Пятница
+http://89.218.32.187:18000/play/a07z/index.m3u8
+#EXTINF:-1,РЕН
+http://89.218.32.187:18000/play/a08e/index.m3u8
+#EXTINF:-1,Россия 1
+http://89.218.32.187:18000/play/a08f/index.m3u8
+#EXTINF:-1,Россия 24
+http://89.218.32.187:18000/play/a08g/index.m3u8
+#EXTINF:-1,Россия К
+http://89.218.32.187:18000/play/a08h/index.m3u8
+#EXTINF:-1,Русский Бестселлер
+http://89.218.32.187:18000/play/a080/index.m3u8
+#EXTINF:-1,Русский Детектив
+http://89.218.32.187:18000/play/a083/index.m3u8
+#EXTINF:-1,СТВ
+http://89.218.32.187:18000/play/a06y/index.m3u8
+#EXTINF:-1,Синема
+http://89.218.32.187:18000/play/a07y/index.m3u8
+#EXTINF:-1,Тайны галактики
+http://89.218.32.187:18000/play/a07t/index.m3u8
+#EXTINF:-1,Театр
+http://89.218.32.187:18000/play/a07u/index.m3u8
+#EXTINF:-1,Black
+http://37.17.12.119:8907/play/a00b
+#EXTINF:-1,O!
+http://37.17.12.119:8907/play/a010
+#EXTINF:-1,RTG TV
+http://37.17.12.119:8907/play/a00p
+#EXTINF:-1,Red
+http://37.17.12.119:8907/play/a00l
+#EXTINF:-1,Sci Fi
+http://37.17.12.119:8907/play/a009
+#EXTINF:-1,Авто 24
+http://37.17.12.119:8907/play/a00s
+#EXTINF:-1,БелРос
+http://37.17.12.119:8907/play/a00g
+#EXTINF:-1,Дом кино
+http://37.17.12.119:8907/play/a00e
+#EXTINF:-1,Дом кино Премиум
+http://37.17.12.119:8907/play/a006
+#EXTINF:-1,Еврокино
+http://37.17.12.119:8907/play/a00o
+#EXTINF:-1,Зоопарк
+http://37.17.12.119:8907/play/a00d
+#EXTINF:-1,Иллюзион +
+http://37.17.12.119:8907/play/a00r
+#EXTINF:-1,Карусель
+http://37.17.12.119:8907/play/a00c
+#EXTINF:-1,Киноман
+http://37.17.12.119:8907/play/a007
+#EXTINF:-1,Оружие
+http://37.17.12.119:8907/play/a00h
+#EXTINF:-1,Психология
+http://37.17.12.119:8907/play/a00a
+#EXTINF:-1,Русский иллюзион
+http://37.17.12.119:8907/play/a00u
+#EXTINF:-1,3ABN Latino SD
+http://45.5.8.78:8000/play/a026
+#EXTINF:-1,A&E HD
+http://45.5.8.78:8000/play/a021
+#EXTINF:-1,A&E sd
+http://45.5.8.78:8000/play/a00j
+#EXTINF:-1,A24 HD
+http://45.5.8.78:8000/play/a056
+#EXTINF:-1,AME 47 sd
+http://45.5.8.78:8000/play/a05i
+#EXTINF:-1,AUTOMOTIVE TV
+http://45.5.8.78:8000/play/a06i
+#EXTINF:-1,AXN HD
+http://45.5.8.78:8000/play/a01z
+#EXTINF:-1,AXN sd
+http://45.5.8.78:8000/play/a00x
+#EXTINF:-1,AZCorazon
+http://45.5.8.78:8000/play/a06s
+#EXTINF:-1,Alegrando Tv sd
+http://45.5.8.78:8000/play/a02t
+#EXTINF:-1,Aliento Vision sd
+http://45.5.8.78:8000/play/a05c
+#EXTINF:-1,AmericanSports sd
+http://45.5.8.78:8000/play/a00g
+#EXTINF:-1,Animal Planet HD
+http://45.5.8.78:8000/play/a05v
+#EXTINF:-1,Antena 21 sd
+http://45.5.8.78:8000/play/a001
+#EXTINF:-1,Antena 3 sd
+http://45.5.8.78:8000/play/a031
+#EXTINF:-1,Antena 7 sd
+http://45.5.8.78:8000/play/a04h
+#EXTINF:-1,Azmundo sd
+http://45.5.8.78:8000/play/a03z
+#EXTINF:-1,Azteca Uno Hd
+http://45.5.8.78:8000/play/a06y
+#EXTINF:-1,BBC WORLD HD
+http://45.5.8.78:8000/play/a05q
+#EXTINF:-1,BEIN SPORTS HD
+http://45.5.8.78:8000/play/a05x
+#EXTINF:-1,BONAO TV CANAL 12
+http://45.5.8.78:8000/play/a04b
+#EXTINF:-1,BRAZZERS XXX
+http://45.5.8.78:8000/play/a029
+#EXTINF:-1,BYU-TV HD
+http://45.5.8.78:8000/play/a020
+#EXTINF:-1,BabyTv sd
+http://45.5.8.78:8000/play/a02j
+#EXTINF:-1,Bolivia Deportes HD
+http://45.5.8.78:8000/play/a051
+#EXTINF:-1,Boomerang sd
+http://45.5.8.78:8000/play/a00i
+#EXTINF:-1,Boreal TV HD
+http://45.5.8.78:8000/play/a04s
+#EXTINF:-1,C-SPAN HD
+http://45.5.8.78:8000/play/a063
+#EXTINF:-1,CANAL 13 sd
+http://45.5.8.78:8000/play/a01c
+#EXTINF:-1,CANAL 49
+http://45.5.8.78:8000/play/a06n
+#EXTINF:-1,CANAL CAPITAL SD
+http://45.5.8.78:8000/play/a01b
+#EXTINF:-1,CANAL UNO (R) SD
+http://45.5.8.78:8000/play/a01a
+#EXTINF:-1,CATV SD
+http://45.5.8.78:8000/play/a033
+#EXTINF:-1,CDN Sportmax sd
+http://45.5.8.78:8000/play/a04k
+#EXTINF:-1,CDN sd
+http://45.5.8.78:8000/play/a00b
+#EXTINF:-1,CERTV
+http://45.5.8.78:8000/play/a06z
+#EXTINF:-1,CGTN Documentary SD
+http://45.5.8.78:8000/play/a019
+#EXTINF:-1,CHINOLA TV
+http://45.5.8.78:8000/play/a06o
+#EXTINF:-1,CIVILIZATION SPA
+http://45.5.8.78:8000/play/a02e
+#EXTINF:-1,CNN Espanol SD
+http://45.5.8.78:8000/play/a02q
+#EXTINF:-1,CNN Inges
+http://45.5.8.78:8000/play/a03e
+#EXTINF:-1,CNN internacional
+http://45.5.8.78:8000/play/a06p
+#EXTINF:-1,CRTV sd
+http://45.5.8.78:8000/play/a05f
+#EXTINF:-1,Cala Weather
+http://45.5.8.78:8000/play/a06c
+#EXTINF:-1,Canal 56
+http://45.5.8.78:8000/play/a052
+#EXTINF:-1,Canal del Sol
+http://45.5.8.78:8000/play/a06j
+#EXTINF:-1,Canal las Estrellas
+http://45.5.8.78:8000/play/a03y
+#EXTINF:-1,Cartoon Network sd
+http://45.5.8.78:8000/play/a02o
+#EXTINF:-1,Cielo TV
+http://45.5.8.78:8000/play/a05a
+#EXTINF:-1,Cinecanal SD
+http://45.5.8.78:8000/play/a038
+#EXTINF:-1,Cinema Premier A sd
+http://45.5.8.78:8000/play/a00m
+#EXTINF:-1,Cinema Premier C sd
+http://45.5.8.78:8000/play/a00n
+#EXTINF:-1,Cinema Premier F SD
+http://45.5.8.78:8000/play/a00k
+#EXTINF:-1,Cinema Premier sd
+http://45.5.8.78:8000/play/a00l
+#EXTINF:-1,Cinevision
+http://45.5.8.78:8000/play/a005
+#EXTINF:-1,City Tv SD
+http://45.5.8.78:8000/play/a007
+#EXTINF:-1,Classic Arts HD Pri
+http://45.5.8.78:8000/play/a017
+#EXTINF:-1,ColorVision HD
+http://45.5.8.78:8000/play/a02a
+#EXTINF:-1,Conciencia TV
+http://45.5.8.78:8000/play/a05m
+#EXTINF:-1,Coral 39 SD
+http://45.5.8.78:8000/play/a044
+#EXTINF:-1,Cultura HD
+http://45.5.8.78:8000/play/a00c
+#EXTINF:-1,DANTV HD
+http://45.5.8.78:8000/play/a066
+#EXTINF:-1,DELTA TV
+http://45.5.8.78:8000/play/a06l
+#EXTINF:-1,DHE HD
+http://45.5.8.78:8000/play/a067
+#EXTINF:-1,DISCOVERY SCIENCE SPA HD
+http://45.5.8.78:8000/play/a02f
+#EXTINF:-1,DISCOVERY TURBO Latin HD
+http://45.5.8.78:8000/play/a02d
+#EXTINF:-1,DW Aleman
+http://45.5.8.78:8000/play/a065
+#EXTINF:-1,DW SD
+http://45.5.8.78:8000/play/a064
+#EXTINF:-1,De Pelicula sd
+http://45.5.8.78:8000/play/a01w
+#EXTINF:-1,Digital 15 SD
+http://45.5.8.78:8000/play/a00d
+#EXTINF:-1,Discovery HH HD
+http://45.5.8.78:8000/play/a05u
+#EXTINF:-1,Discovery ID HD
+http://45.5.8.78:8000/play/a05w
+#EXTINF:-1,Disney Jr Norte HD
+http://45.5.8.78:8000/play/a02h
+#EXTINF:-1,Disney Multicountry HD
+http://45.5.8.78:8000/play/a02k
+#EXTINF:-1,Disney XD SD
+http://45.5.8.78:8000/play/a060
+#EXTINF:-1,E!
+http://45.5.8.78:8000/play/a024
+#EXTINF:-1,E! sd
+http://45.5.8.78:8000/play/a00v
+#EXTINF:-1,ESPN HD
+http://45.5.8.78:8000/play/a008
+#EXTINF:-1,ESPN News sd
+http://45.5.8.78:8000/play/a03u
+#EXTINF:-1,ESPN+ HD
+http://45.5.8.78:8000/play/a01p
+#EXTINF:-1,ESPN+ SD
+http://45.5.8.78:8000/play/a03d
+#EXTINF:-1,ESPN2 HD
+http://45.5.8.78:8000/play/a06v
+#EXTINF:-1,ESPN2 SD
+http://45.5.8.78:8000/play/a032
+#EXTINF:-1,EWTN HD
+http://45.5.8.78:8000/play/a057
+#EXTINF:-1,Ecovision SD
+http://45.5.8.78:8000/play/a006
+#EXTINF:-1,En Television SD
+http://45.5.8.78:8000/play/a003
+#EXTINF:-1,Enlace sd
+http://45.5.8.78:8000/play/a009
+#EXTINF:-1,Enlce Juvenil HD
+http://45.5.8.78:8000/play/a05b
+#EXTINF:-1,Espiga TV SD
+http://45.5.8.78:8000/play/a04d
+#EXTINF:-1,F1 SPORT SD
+http://45.5.8.78:8000/play/a02z
+#EXTINF:-1,FOX SD
+http://45.5.8.78:8000/play/a03f
+#EXTINF:-1,FX Colombia HD
+http://45.5.8.78:8000/play/a02i
+#EXTINF:-1,FX Latino SD
+http://45.5.8.78:8000/play/a00f
+#EXTINF:-1,FXM HD
+http://45.5.8.78:8000/play/a05t
+#EXTINF:-1,FXM SD
+http://45.5.8.78:8000/play/a03a
+#EXTINF:-1,Fashion HD
+http://45.5.8.78:8000/play/a014
+#EXTINF:-1,Fox Action HD
+http://45.5.8.78:8000/play/a05n
+#EXTINF:-1,Fox Deportes
+http://45.5.8.78:8000/play/a01g
+#EXTINF:-1,Fox Life SD
+http://45.5.8.78:8000/play/a03j
+#EXTINF:-1,Fox Premium Series HD
+http://45.5.8.78:8000/play/a05p
+#EXTINF:-1,Fox Sports 2 SD
+http://45.5.8.78:8000/play/a03h
+#EXTINF:-1,Fox Sports 3 SD
+http://45.5.8.78:8000/play/a03i
+#EXTINF:-1,Fox Sports SD
+http://45.5.8.78:8000/play/a03g
+#EXTINF:-1,Fox sport 3 HD
+http://45.5.8.78:8000/play/a06w
+#EXTINF:-1,France 24 English sd
+http://45.5.8.78:8000/play/a018
+#EXTINF:-1,Fuego TV SD
+http://45.5.8.78:8000/play/a02u
+#EXTINF:-1,GLITZ SD
+http://45.5.8.78:8000/play/a03m
+#EXTINF:-1,Galaxia TV HD
+http://45.5.8.78:8000/play/a04m
+#EXTINF:-1,Guacara TV HD
+http://45.5.8.78:8000/play/a04e
+#EXTINF:-1,H2 HD
+http://45.5.8.78:8000/play/a027
+#EXTINF:-1,HBO HD
+http://45.5.8.78:8000/play/a01t
+#EXTINF:-1,HTV HD
+http://45.5.8.78:8000/play/a02m
+#EXTINF:-1,Headlines News SD
+http://45.5.8.78:8000/play/a03r
+#EXTINF:-1,Hilando Fino HD
+http://45.5.8.78:8000/play/a04a
+#EXTINF:-1,Hilando Fino SD
+http://45.5.8.78:8000/play/a069
+#EXTINF:-1,History HD
+http://45.5.8.78:8000/play/a023
+#EXTINF:-1,History Latino SD
+http://45.5.8.78:8000/play/a00h
+#EXTINF:-1,Imagen HD
+http://45.5.8.78:8000/play/a012
+#EXTINF:-1,LIFETIME HD
+http://45.5.8.78:8000/play/a028
+#EXTINF:-1,La Voz de Maria SD
+http://45.5.8.78:8000/play/a058
+#EXTINF:-1,Lifetime SD
+http://45.5.8.78:8000/play/a00w
+#EXTINF:-1,Luna TV SD
+http://45.5.8.78:8000/play/a04x
+#EXTINF:-1,METV HD
+http://45.5.8.78:8000/play/a05y
+#EXTINF:-1,MICROVISION SD
+http://45.5.8.78:8000/play/a02s
+#EXTINF:-1,MLB
+http://45.5.8.78:8000/play/06q
+#EXTINF:-1,MOVIE ROOM ADVEN SD
+http://45.5.8.78:8000/play/a00s
+#EXTINF:-1,MOVIE ROOM COMED SD
+http://45.5.8.78:8000/play/a00r
+#EXTINF:-1,MOVIE ROOM DRAMA SD
+http://45.5.8.78:8000/play/a00t
+#EXTINF:-1,MOVIE ROOM SD
+http://45.5.8.78:8000/play/a00q
+#EXTINF:-1,MTV SD
+http://45.5.8.78:8000/play/a016
+#EXTINF:-1,Maimon TV SD
+http://45.5.8.78:8000/play/a048
+#EXTINF:-1,MariaVision SD
+http://45.5.8.78:8000/play/a01x
+#EXTINF:-1,Mega
+http://45.5.8.78:8000/play/a02r
+#EXTINF:-1,Microvision HD
+http://45.5.8.78:8000/play/a04p
+#EXTINF:-1,Mocavision HD
+http://45.5.8.78:8000/play/a04w
+#EXTINF:-1,Movie Room Adventure HD
+http://45.5.8.78:8000/play/a01l
+#EXTINF:-1,Movie Room Comedy HD
+http://45.5.8.78:8000/play/a01o
+#EXTINF:-1,Movie Room Comedy HD
+http://45.5.8.78:8000/play/a01n
+#EXTINF:-1,Movie Room HD
+http://45.5.8.78:8000/play/a01m
+#EXTINF:-1,Movie Room SD
+http://45.5.8.78:8000/play/a01k
+#EXTINF:-1,NATGEO WILD SD
+http://45.5.8.78:8000/play/a06f
+#EXTINF:-1,NBA TV
+http://45.5.8.78:8000/play/a06r
+#EXTINF:-1,NBC UNIVERSO
+http://45.5.8.78:8000/play/a030
+#EXTINF:-1,NTN24 SD
+http://45.5.8.78:8000/play/a01s
+#EXTINF:-1,Nat Geo Kids SD
+http://45.5.8.78:8000/play/a036
+#EXTINF:-1,Nat Geo Love Nature HD
+http://45.5.8.78:8000/play/a05l
+#EXTINF:-1,Natgeo Wild HD
+http://45.5.8.78:8000/play/a02c
+#EXTINF:-1,Nexxo SD
+http://45.5.8.78:8000/play/a04g
+#EXTINF:-1,PLAYBOY XXX
+http://45.5.8.78:8000/play/a03b
+#EXTINF:-1,Pasiones
+http://45.5.8.78:8000/play/a054
+#EXTINF:-1,PenHouse Wold SD
+http://45.5.8.78:8000/play/a02n
+#EXTINF:-1,Prime SD
+http://45.5.8.78:8000/play/a013
+#EXTINF:-1,Punal TV HD
+http://45.5.8.78:8000/play/a04n
+#EXTINF:-1,RATIMBU SD
+http://45.5.8.78:8000/play/a06a
+#EXTINF:-1,RCN Internacional SD
+http://45.5.8.78:8000/play/a01r
+#EXTINF:-1,READY TV SD
+http://45.5.8.78:8000/play/a02v
+#EXTINF:-1,RNN SD
+http://45.5.8.78:8000/play/a004
+#EXTINF:-1,RT ESP HD
+http://45.5.8.78:8000/play/a041
+#EXTINF:-1,RT ESP SD
+http://45.5.8.78:8000/play/a042
+#EXTINF:-1,RT SD
+http://45.5.8.78:8000/play/a06g
+#EXTINF:-1,RTVE 24 SD
+http://45.5.8.78:8000/play/a062
+#EXTINF:-1,Ready HD
+http://45.5.8.78:8000/play/a05j
+#EXTINF:-1,Real TV SD
+http://45.5.8.78:8000/play/a05d
+#EXTINF:-1,Red Advenir Internacional SD
+http://45.5.8.78:8000/play/a068
+#EXTINF:-1,Renacer en el espiritu SD
+http://45.5.8.78:8000/play/a046
+#EXTINF:-1,SONY SD
+http://45.5.8.78:8000/play/a039
+#EXTINF:-1,SPACE HD
+http://45.5.8.78:8000/play/a01q
+#EXTINF:-1,SPACE SD
+http://45.5.8.78:8000/play/a02p
+#EXTINF:-1,SUPER TV 8
+http://45.5.8.78:8000/play/a047
+#EXTINF:-1,SYFY SD
+http://45.5.8.78:8000/play/a02w
+#EXTINF:-1,Santiago TV
+http://45.5.8.78:8000/play/a01h
+#EXTINF:-1,Senal Colombia SD
+http://45.5.8.78:8000/play/a01y
+#EXTINF:-1,SexTreme xxx
+http://45.5.8.78:8000/play/a01u
+#EXTINF:-1,Sony HD
+http://45.5.8.78:8000/play/a025
+#EXTINF:-1,Studio Universal HD
+http://45.5.8.78:8000/play/a00o
+#EXTINF:-1,Studio Universal SD
+http://45.5.8.78:8000/play/a040
+#EXTINF:-1,Super Canal 33 SD
+http://45.5.8.78:8000/play/a06b
+#EXTINF:-1,Supertv55 SD
+http://45.5.8.78:8000/play/a04z
+#EXTINF:-1,SyFy HD
+http://45.5.8.78:8000/play/a02l
+#EXTINF:-1,TBS Very Funny SD
+http://45.5.8.78:8000/play/a03s
+#EXTINF:-1,TCM SD
+http://45.5.8.78:8000/play/a03p
+#EXTINF:-1,TELECAFE sd
+http://45.5.8.78:8000/play/a01e
+#EXTINF:-1,TELEMILENIO
+http://45.5.8.78:8000/play/a06k
+#EXTINF:-1,TELEPACIFICO SD
+http://45.5.8.78:8000/play/a01d
+#EXTINF:-1,TENNIS SD
+http://45.5.8.78:8000/play/a02x
+#EXTINF:-1,TERRENA TV
+http://45.5.8.78:8000/play/a03l
+#EXTINF:-1,THEATER HD SPA
+http://45.5.8.78:8000/play/a010
+#EXTINF:-1,TL Novelas
+http://45.5.8.78:8000/play/a01j
+#EXTINF:-1,TLC Latin HD
+http://45.5.8.78:8000/play/a02g
+#EXTINF:-1,TNE 58 HD
+http://45.5.8.78:8000/play/a050
+#EXTINF:-1,TNT Ing SD
+http://45.5.8.78:8000/play/a03t
+#EXTINF:-1,TNT Series  SD
+http://45.5.8.78:8000/play/a00y
+#EXTINF:-1,TRA
+http://45.5.8.78:8000/play/a070
+#EXTINF:-1,TRA sd
+http://45.5.8.78:8000/play/a05h
+#EXTINF:-1,TRACE HD
+http://45.5.8.78:8000/play/a06x
+#EXTINF:-1,TRO SD
+http://45.5.8.78:8000/play/a01f
+#EXTINF:-1,TRT WORLD HD
+http://45.5.8.78:8000/play/a05s
+#EXTINF:-1,TRT World SD
+http://45.5.8.78:8000/play/a00z
+#EXTINF:-1,TV  DOMINICANA
+http://45.5.8.78:8000/play/a04i
+#EXTINF:-1,TV Plata HD
+http://45.5.8.78:8000/play/a04r
+#EXTINF:-1,TVE
+http://45.5.8.78:8000/play/a061
+#EXTINF:-1,TYC SPORTS
+http://45.5.8.78:8000/play/a011
+#EXTINF:-1,TYC SPORTS SD
+http://45.5.8.78:8000/play/a034
+#EXTINF:-1,TeleCinema
+http://45.5.8.78:8000/play/a053
+#EXTINF:-1,TeleSur HD
+http://45.5.8.78:8000/play/a043
+#EXTINF:-1,Teleantillas SD
+http://45.5.8.78:8000/play/a045
+#EXTINF:-1,Teleantioquia
+http://45.5.8.78:8000/play/a05k
+#EXTINF:-1,Teleazul
+http://45.5.8.78:8000/play/a06m
+#EXTINF:-1,Telebendicion HD
+http://45.5.8.78:8000/play/a04c
+#EXTINF:-1,Telecaribe SD
+http://45.5.8.78:8000/play/a055
+#EXTINF:-1,Telecentro SD
+http://45.5.8.78:8000/play/a04f
+#EXTINF:-1,Telecontacto HD
+http://45.5.8.78:8000/play/a04j
+#EXTINF:-1,Telecotui TV SD
+http://45.5.8.78:8000/play/a01v
+#EXTINF:-1,Telefuturo SD
+http://45.5.8.78:8000/play/a05g
+#EXTINF:-1,Teleislas HD
+http://45.5.8.78:8000/play/a015
+#EXTINF:-1,Telemedios 25 sd
+http://45.5.8.78:8000/play/a002
+#EXTINF:-1,Telemicro HD
+http://45.5.8.78:8000/play/a00e
+#EXTINF:-1,Telemundo Int SD
+http://45.5.8.78:8000/play/a03x
+#EXTINF:-1,Telemundo SD
+http://45.5.8.78:8000/play/a035
+#EXTINF:-1,Telenord 10 HD
+http://45.5.8.78:8000/play/a04u
+#EXTINF:-1,Telenord 14
+http://45.5.8.78:8000/play/a04v
+#EXTINF:-1,Telenord 8 HD
+http://45.5.8.78:8000/play/a04t
+#EXTINF:-1,Telesistema SD
+http://45.5.8.78:8000/play/a00a
+#EXTINF:-1,Teleunion HD
+http://45.5.8.78:8000/play/a04y
+#EXTINF:-1,Teleuniverso HD
+http://45.5.8.78:8000/play/a022
+#EXTINF:-1,Telever SD
+http://45.5.8.78:8000/play/a04q
+#EXTINF:-1,Televiaducto HD
+http://45.5.8.78:8000/play/a05e
+#EXTINF:-1,Televida sd
+http://45.5.8.78:8000/play/a059
+#EXTINF:-1,Toon Cast SD
+http://45.5.8.78:8000/play/a03q
+#EXTINF:-1,Travel HD
+http://45.5.8.78:8000/play/015
+#EXTINF:-1,UNIMAS SD
+http://45.5.8.78:8000/play/a02y
+#EXTINF:-1,UNIVERSAL CHANNEL SD
+http://45.5.8.78:8000/play/a037
+#EXTINF:-1,USA SD
+http://45.5.8.78:8000/play/a03v
+#EXTINF:-1,Universal HD
+http://45.5.8.78:8000/play/a00p
+#EXTINF:-1,VENUS XXX
+http://45.5.8.78:8000/play/a03c
+#EXTINF:-1,VIENDO MOVIES HD
+http://45.5.8.78:8000/play/a05r
+#EXTINF:-1,VIENDO MOVIES SD
+http://45.5.8.78:8000/play/a03n
+#EXTINF:-1,VTV
+http://45.5.8.78:8000/play/a06t
+#EXTINF:-1,Vallevision HD
+http://45.5.8.78:8000/play/a04o
+#EXTINF:-1,Vallevision SD
+http://45.5.8.78:8000/play/a06h
+#EXTINF:-1,Ve Plus SD
+http://45.5.8.78:8000/play/a01i
+#EXTINF:-1,Venevision
+http://45.5.8.78:8000/play/a04l
+#EXTINF:-1,Vm Kids SD
+http://45.5.8.78:8000/play/a00u
+#EXTINF:-1,WOOHOO SD
+http://45.5.8.78:8000/play/a03k
+#EXTINF:-1,Warner
+http://45.5.8.78:8000/play/a06u
+#EXTINF:-1,Wobi sd
+http://45.5.8.78:8000/play/a02b
+#EXTINF:-1,YUNA VISION HD
+http://45.5.8.78:8000/play/a049
+#EXTINF:-1,ZOO MO SD
+http://45.5.8.78:8000/play/a05z
+#EXTINF:-1,Zoo Moo HD
+http://45.5.8.78:8000/play/a05o
+#EXTINF:-1,agrotendencia tv sd
+http://45.5.8.78:8000/play/a03w
+#EXTINF:-1,Al Ekhbaria HD
+http://185.236.229.31:9981/play/a019
+#EXTINF:-1,BAYYINAT
+http://185.236.229.31:9981/play/a06f
+#EXTINF:-1,BBC Arabic HD
+http://185.236.229.31:9981/play/a069
+#EXTINF:-1,BBC World News
+http://185.236.229.31:9981/play/a072
+#EXTINF:-1,CCTV 4E
+http://185.236.229.31:9981/play/a05y
+#EXTINF:-1,CGTN
+http://185.236.229.31:9981/play/a05z
+#EXTINF:-1,CGTN Documentary
+http://185.236.229.31:9981/play/a060
+#EXTINF:-1,CGTN E
+http://185.236.229.31:9981/play/a061
+#EXTINF:-1,CGTN F
+http://185.236.229.31:9981/play/a062
+#EXTINF:-1,Current Time HD ch1
+http://185.236.229.31:9981/play/a06g
+#EXTINF:-1,DW English HD
+http://185.236.229.31:9981/play/a068
+#EXTINF:-1,ERT World Europe
+http://185.236.229.31:9981/play/a07s
+#EXTINF:-1,FTV UHD
+http://185.236.229.31:9981/play/a07w
+#EXTINF:-1,Fashion TV HD
+http://185.236.229.31:9981/play/a07v
+#EXTINF:-1,FashionTV L'Original
+http://185.236.229.31:9981/play/a07u
+#EXTINF:-1,Iran International HD
+http://185.236.229.31:9981/play/a05n
+#EXTINF:-1,Iraqia News HD
+http://185.236.229.31:9981/play/a05w
+#EXTINF:-1,KBS WORLD  HD
+http://185.236.229.31:9981/play/a06b
+#EXTINF:-1,Kanali Voulis
+http://185.236.229.31:9981/play/a07t
+#EXTINF:-1,Kurdistan 24 HD
+http://185.236.229.31:9981/play/a05s
+#EXTINF:-1,NASA TV HD
+http://185.236.229.31:9981/play/a05q
+#EXTINF:-1,NHK WORLD-JAPAN
+http://185.236.229.31:9981/play/a05v
+#EXTINF:-1,Parole di Vita
+http://185.236.229.31:9981/play/a05t
+#EXTINF:-1,RIK SAT HD
+http://185.236.229.31:9981/play/a07r
+#EXTINF:-1,RUDAW HD
+http://185.236.229.31:9981/play/a05r
+#EXTINF:-1,SAUDI TV HD
+http://185.236.229.31:9981/play/a01a
+#EXTINF:-1,SBC HD
+http://185.236.229.31:9981/play/a016
+#EXTINF:-1,SMTv San Marino HD
+http://185.236.229.31:9981/play/a06e
+#EXTINF:-1,Saudi Ch for Sunnah HD
+http://185.236.229.31:9981/play/a017
+#EXTINF:-1,Saudi ch for Quran HD
+http://185.236.229.31:9981/play/a018
+#EXTINF:-1,TG NORBA 24
+http://185.236.229.31:9981/play/a07i
+#EXTINF:-1,Tunisie Nationale
+http://185.236.229.31:9981/play/a06c
+#EXTINF:-1,Ultra Nature 4K
+http://185.236.229.31:9981/play/a01d
+#EXTINF:-1,Vidrodjennya
+http://185.236.229.31:9981/play/a08a
+#EXTINF:-1,|AM| ARMENIA 1 TV | Armenia
+http://185.236.229.31:9981/play/a08b
+#EXTINF:-1,|AR| AL JAZEERA ENGLISH HD | Qatar
+http://185.236.229.31:9981/play/a04m
+#EXTINF:-1,|AR| HADI TV 3 | Iraq
+http://185.236.229.31:9981/play/a04v
+#EXTINF:-1,|CH| RSI LA 1 HD
+http://185.236.229.31:9981/play/a00m
+#EXTINF:-1,|CH| RSI LA 2 HD
+http://185.236.229.31:9981/play/a00n
+#EXTINF:-1,|CH| RTS DEUX HD
+http://185.236.229.31:9981/play/a00k
+#EXTINF:-1,|CH| RTS UN HD
+http://185.236.229.31:9981/play/a00j
+#EXTINF:-1,|CH| SRF 1 HD
+http://185.236.229.31:9981/play/a00h
+#EXTINF:-1,|CH| SRF INFO HD
+http://185.236.229.31:9981/play/a00l
+#EXTINF:-1,|CH| SRF ZWEI HD
+http://185.236.229.31:9981/play/a00i
+#EXTINF:-1,|DE| ARTI TV HD | Turkey
+http://185.236.229.31:9981/play/a04a
+#EXTINF:-1,|IL| SENDER NEU JERUSALEM
+http://185.236.229.31:9981/play/a08d
+#EXTINF:-1,|IR| IRAN INT.
+http://185.236.229.31:9981/play/a04n
+#EXTINF:-1,|IT| ARTE INVESTIMENTI HQ
+http://185.236.229.31:9981/play/a051
+#EXTINF:-1,|IT| CANALE ITALIA
+http://185.236.229.31:9981/play/a08g
+#EXTINF:-1,|IT| CANALE ITALIA 83
+http://185.236.229.31:9981/play/a04y
+#EXTINF:-1,|IT| CANALE ITALIA 84
+http://185.236.229.31:9981/play/a04z
+#EXTINF:-1,|IT| ORLER TV
+http://185.236.229.31:9981/play/a050
+#EXTINF:-1,|IT| RADIO RADIO TV
+http://185.236.229.31:9981/play/a08f
+#EXTINF:-1,|IT| SOLO CALCIO HQ
+http://185.236.229.31:9981/play/a08i
+#EXTINF:-1,|IT| TELECUPOLE
+http://185.236.229.31:9981/play/a052
+#EXTINF:-1,|RU| TBN | Russia
+http://185.236.229.31:9981/play/a087
+#EXTINF:-1,|TR| BRAVO TV
+http://185.236.229.31:9981/play/a08c
+#EXTINF:-1,|TR| CAN TV HQ
+http://185.236.229.31:9981/play/a04d
+#EXTINF:-1,|TR| MC EU
+http://185.236.229.31:9981/play/a04b
+#EXTINF:-1,|UA| WORLD REVIVAL MISSION
+http://185.236.229.31:9981/play/a088
+#EXTINF:-1,|UK| JIN TV | Middle-East
+http://185.236.229.31:9981/play/a04c
+#EXTINF:-1,|UK| MANOTO | Kurde*
+http://185.236.229.31:9981/play/a04p
+#EXTINF:-1,|US| ALKARMA TV | Middle-East
+http://185.236.229.31:9981/play/a04q
+#EXTINF:-1,|US| BLOOMBERG EUROPEAN TV
+http://185.236.229.31:9981/play/a04k
+#EXTINF:-1,|US| IRAN E ARYAEE TV | Iran
+http://185.236.229.31:9981/play/a04e
+#EXTINF:-1,|UZ| GNC | Kazakhstan
+http://185.236.229.31:9981/play/a086
+#EXTINF:-1,|UZ| MY5 | Uzbekistan
+http://185.236.229.31:9981/play/a085
+#EXTINF:-1,|UZ| PERVIY KANAL EURASIA | Kazakhstan
+http://185.236.229.31:9981/play/a089
+#EXTINF:-1,HDL
+http://109.200.130.124:7001/play/a00j/index.m3u8
+#EXTINF:-1,KHL Prime
+http://109.200.130.124:7001/play/a00i/index.m3u8
+#EXTINF:-1,THTHD
+http://109.200.130.124:7001/play/a008/index.m3u8
+#EXTINF:-1,КИНОПРЕМЬЕРА HD
+http://109.200.130.124:7001/play/a00k/index.m3u8
+#EXTINF:-1,МАТЧ! АРЕНА HD
+http://109.200.130.124:7001/play/a00f/index.m3u8
+#EXTINF:-1,МАТЧ! ИГРА HD
+http://109.200.130.124:7001/play/a00g/index.m3u8
+#EXTINF:-1,МАТЧ! ИГРА HD
+http://109.200.130.124:7001/play/a00l/index.m3u8
+#EXTINF:-1,МАТЧ! СТРАНА HD
+http://109.200.130.124:7001/play/a00h/index.m3u8
+#EXTINF:-1,МАТЧ!HD
+http://109.200.130.124:7001/play/a005/index.m3u8
+#EXTINF:-1,2M Maroc
+http://149.100.19.226:8001/play/2M_Maroc
+#EXTINF:-1,A3 HD
+http://149.100.19.226:8001/play/A3_HD
+#EXTINF:-1,AD Nat Geo HD
+http://149.100.19.226:8001/play/AD_Nat_Geo_HD
+#EXTINF:-1,AD Sport 1 HD
+http://149.100.19.226:8001/play/AD_Sport_1_HD
+#EXTINF:-1,AD Sport 2 HD
+http://149.100.19.226:8001/play/AD_Sport_2_HD
+#EXTINF:-1,AFAQ TV
+http://149.100.19.226:8001/play/AFAQ_TV
+#EXTINF:-1,AGHAPY TV
+http://149.100.19.226:8001/play/AGHAPY_TV
+#EXTINF:-1,AJMAN HD
+http://149.100.19.226:8001/play/AJMAN_HD
+#EXTINF:-1,AL AHAD HD
+http://149.100.19.226:8001/play/AL_AHAD_HD
+#EXTINF:-1,AL DAFRA HD
+http://149.100.19.226:8001/play/AL_DAFRA_HD
+#EXTINF:-1,AL ESHRAQ TV
+http://149.100.19.226:8001/play/AL_ESHRAQ_TV
+#EXTINF:-1,AL JANOUBIA TV
+http://149.100.19.226:8001/play/AL_JANOUBIA_TV
+#EXTINF:-1,AL MAAREF
+http://149.100.19.226:8001/play/AL_MAAREF
+#EXTINF:-1,AL MALAKOOT SAT-THE KINGDOM SAT
+http://149.100.19.226:8001/play/THE_KINGDOM_SAT
+#EXTINF:-1,AL MAYADEEN TV
+http://149.100.19.226:8001/play/AL_MAYADEEN_TV
+#EXTINF:-1,AL NADA TV
+http://149.100.19.226:8001/play/AL_NADA_TV
+#EXTINF:-1,AL RAHMA
+http://149.100.19.226:8001/play/AL_RAHMA
+#EXTINF:-1,AL RASHEED TV HD
+http://149.100.19.226:8001/play/AL_RASHEED_TV_HD
+#EXTINF:-1,AL Resala
+http://149.100.19.226:8001/play/AL_Resala
+#EXTINF:-1,AL SHARQIYA
+http://149.100.19.226:8001/play/AL_SHARQIYA
+#EXTINF:-1,AL SHARQIYA HD
+http://149.100.19.226:8001/play/AL_SHARQIYA_HD
+#EXTINF:-1,AL SHARQIYA NEWS HD
+http://149.100.19.226:8001/play/AL_SHARQIYA_NEWS_HD
+#EXTINF:-1,AL SIRAT TV
+http://149.100.19.226:8001/play/AL_SIRAT_TV
+#EXTINF:-1,AL SUMARIA HD
+http://149.100.19.226:8001/play/AL_SUMARIA_HD
+#EXTINF:-1,AL Shams
+http://149.100.19.226:8001/play/AL_Shams
+#EXTINF:-1,AL oula
+http://149.100.19.226:8001/play/AL_oula
+#EXTINF:-1,AL-Anbar
+http://149.100.19.226:8001/play/AL-Anbar
+#EXTINF:-1,AL-MUSTAKILA
+http://149.100.19.226:8001/play/AL-MUSTAKILA
+#EXTINF:-1,AL24 News
+http://149.100.19.226:8001/play/AL24_News
+#EXTINF:-1,ALAAN TV HD
+http://149.100.19.226:8001/play/ALAAN_TV_HD
+#EXTINF:-1,ALIMAN TV
+http://149.100.19.226:8001/play/ALIMAN_TV
+#EXTINF:-1,ALISTIQAMA TV
+http://149.100.19.226:8001/play/ALISTIQAMA_TV
+#EXTINF:-1,ALKOFIYA
+http://149.100.19.226:8001/play/ALKOFIYA
+#EXTINF:-1,ALMASAR TV HD
+http://149.100.19.226:8001/play/ALMASAR_TV_HD
+#EXTINF:-1,ALNAEEM TV
+http://149.100.19.226:8001/play/ALNAEEM_TV
+#EXTINF:-1,ALQUDS TODAY TV
+http://149.100.19.226:8001/play/ALQUDS_TODAY_TV
+#EXTINF:-1,ALSahraa
+http://149.100.19.226:8001/play/ALSahraa
+#EXTINF:-1,ALhayat
+http://149.100.19.226:8001/play/ALhayat
+#EXTINF:-1,ASHARQ NEWS CHANNEL
+http://149.100.19.226:8001/play/ASHARQ_NEWS_CHANNEL
+#EXTINF:-1,Abu Dhabi TV HD
+http://149.100.19.226:8001/play/Abu_Dhabi_TV_HD
+#EXTINF:-1,Ahlu Alquran
+http://149.100.19.226:8001/play/Ahlu_Alquran
+#EXTINF:-1,Al Ahly HD
+http://149.100.19.226:8001/play/a0r6
+#EXTINF:-1,Al Ahly SD
+http://149.100.19.226:8001/play/Al_Ahly_SD
+#EXTINF:-1,Al Alam
+http://149.100.19.226:8001/play/Al_Alam
+#EXTINF:-1,Al Alam Syria
+http://149.100.19.226:8001/play/Al_Alam_Syria
+#EXTINF:-1,Al Aoula inter
+http://149.100.19.226:8001/play/Al_Aoula_inter
+#EXTINF:-1,Al Arabiya
+http://149.100.19.226:8001/play/a0yf
+#EXTINF:-1,Al Arabiya
+http://149.100.19.226:8001/play/Al_Arabiya
+#EXTINF:-1,Al Araby 2 HD
+http://149.100.19.226:8001/play/Al_Araby_2_HD
+#EXTINF:-1,Al Emarat TV HD
+http://149.100.19.226:8001/play/Al_Emarat_TV_HD
+#EXTINF:-1,Al Forat
+http://149.100.19.226:8001/play/Al_Forat
+#EXTINF:-1,Al Ghad HD
+http://149.100.19.226:8001/play/Al_Ghad_HD
+#EXTINF:-1,Al Ghadeer
+http://149.100.19.226:8001/play/Al_Ghadeer
+#EXTINF:-1,Al Hadath
+http://149.100.19.226:8001/play/Al_Hadath
+#EXTINF:-1,Al Hadath HD
+http://149.100.19.226:8001/play/Al_Hadath_HD
+#EXTINF:-1,Al Hayat
+http://149.100.19.226:8001/play/Al_Hayat
+#EXTINF:-1,Al Insen TV
+http://149.100.19.226:8001/play/Al_Insen_TV
+#EXTINF:-1,Al Kahera Wal Nas
+http://149.100.19.226:8001/play/Al_Kahera_Wal_Nas
+#EXTINF:-1,Al Kahera Wal Nas +2
+http://149.100.19.226:8001/play/Al_Kahera_Wal_Nas_2
+#EXTINF:-1,Al Kawthar
+http://149.100.19.226:8001/play/Al_Kawthar
+#EXTINF:-1,Al Masryia
+http://149.100.19.226:8001/play/Al_Masryia
+#EXTINF:-1,Al Masryia HD
+http://149.100.19.226:8001/play/a0z6
+#EXTINF:-1,Al Mawsleya
+http://149.100.19.226:8001/play/Al_Mawsleya
+#EXTINF:-1,Al Mergab
+http://149.100.19.226:8001/play/Al_Mergab
+#EXTINF:-1,Al Nas
+http://149.100.19.226:8001/play/Al_Nas
+#EXTINF:-1,Al Qahera News SD
+http://149.100.19.226:8001/play/Al_Qahera_News_SD
+#EXTINF:-1,Al Rafidain TV HD
+http://149.100.19.226:8001/play/Al_Rafidain_TV_HD
+#EXTINF:-1,Al-Arabiya Alhadath
+http://149.100.19.226:8001/play/a0yg
+#EXTINF:-1,Al-EKhbaria
+http://149.100.19.226:8001/play/Al-EKhbaria
+#EXTINF:-1,Al-Etejah TV
+http://149.100.19.226:8001/play/Al-Etejah_TV
+#EXTINF:-1,Al-Khabar TV
+http://149.100.19.226:8001/play/a10d
+#EXTINF:-1,Al-Khabar TV
+http://149.100.19.226:8001/play/Al-Khabar_TV
+#EXTINF:-1,Al-Majd3
+http://149.100.19.226:8001/play/Al-Majd3
+#EXTINF:-1,Al-Nahar Cinema
+http://149.100.19.226:8001/play/Al-Nahar_Cinema
+#EXTINF:-1,Al-Nahar Drama
+http://149.100.19.226:8001/play/Al-Nahar_Drama
+#EXTINF:-1,Al-Nahar Nour
+http://149.100.19.226:8001/play/Al-Nahar_Nour
+#EXTINF:-1,Al-Nahar One
+http://149.100.19.226:8001/play/Al-Nahar_One
+#EXTINF:-1,Al-Nahar Sport
+http://149.100.19.226:8001/play/Al-Nahar_Sport
+#EXTINF:-1,AlHadath Alyoum
+http://149.100.19.226:8001/play/AlHadath_Alyoum
+#EXTINF:-1,AlHayat 3
+http://149.100.19.226:8001/play/a0oq
+#EXTINF:-1,AlHayat HD
+http://149.100.19.226:8001/play/AlHayat_HD
+#EXTINF:-1,AlHayat Sport
+http://149.100.19.226:8001/play/a0or
+#EXTINF:-1,AlKass three HD
+http://149.100.19.226:8001/play/AlKass_three_HD
+#EXTINF:-1,AlSaeedah
+http://149.100.19.226:8001/play/AlSaeedah
+#EXTINF:-1,Alhayat 2
+http://149.100.19.226:8001/play/Alhayat_2
+#EXTINF:-1,Alhayat Muslsalat
+http://149.100.19.226:8001/play/Alhayat_Muslsalat
+#EXTINF:-1,Alhayat We Alnas
+http://149.100.19.226:8001/play/Alhayat_We_Alnas
+#EXTINF:-1,Alhurra
+http://149.100.19.226:8001/play/Alhurra
+#EXTINF:-1,Alhurra HD
+http://149.100.19.226:8001/play/Alhurra_HD
+#EXTINF:-1,Alhurra Iraq
+http://149.100.19.226:8001/play/a0wt
+#EXTINF:-1,Alhurra Iraq HD
+http://149.100.19.226:8001/play/Alhurra_Iraq_HD
+#EXTINF:-1,Alkass four HD
+http://149.100.19.226:8001/play/Alkass_four_HD
+#EXTINF:-1,Alkass one HD
+http://149.100.19.226:8001/play/Alkass_one_HD
+#EXTINF:-1,Alkass two HD
+http://149.100.19.226:8001/play/Alkass_two_HD
+#EXTINF:-1,Almajd General
+http://149.100.19.226:8001/play/Almajd_General
+#EXTINF:-1,Almamlaka TV
+http://149.100.19.226:8001/play/Almamlaka_TV
+#EXTINF:-1,Altaghier HD
+http://149.100.19.226:8001/play/Altaghier_HD
+#EXTINF:-1,Althanya
+http://149.100.19.226:8001/play/Althanya
+#EXTINF:-1,Amman TV
+http://149.100.19.226:8001/play/Amman_TV
+#EXTINF:-1,Asharq News Channel HD
+http://149.100.19.226:8001/play/Asharq_News_Channel_HD
+#EXTINF:-1,Atfal Mawaheb
+http://149.100.19.226:8001/play/Atfal_Mawaheb
+#EXTINF:-1,Attessia TV
+http://149.100.19.226:8001/play/Attessia_TV
+#EXTINF:-1,Azhari
+http://149.100.19.226:8001/play/Azhari
+#EXTINF:-1,B4U AFLAM
+http://149.100.19.226:8001/play/B4U_Aflam
+#EXTINF:-1,B4U PLUS
+http://149.100.19.226:8001/play/B4U_Plus
+#EXTINF:-1,BBC Arabic
+http://149.100.19.226:8001/play/BBC_Arabic
+#EXTINF:-1,BBCW
+http://149.100.19.226:8001/play/BBCW
+#EXTINF:-1,Baynounah TV HD
+http://149.100.19.226:8001/play/Baynounah_TV_HD
+#EXTINF:-1,Bedaya
+http://149.100.19.226:8001/play/Bedaya
+#EXTINF:-1,CBC
+http://149.100.19.226:8001/play/CBC
+#EXTINF:-1,CBC Drama
+http://149.100.19.226:8001/play/CBC_Drama
+#EXTINF:-1,CBC Sofra
+http://149.100.19.226:8001/play/CBC_Sofra
+#EXTINF:-1,CGTN
+http://149.100.19.226:8001/play/CGTN
+#EXTINF:-1,CGTN-Arabic
+http://149.100.19.226:8001/play/CGTN-Arabic
+#EXTINF:-1,CIRA TV
+http://149.100.19.226:8001/play/CIRA_TV
+#EXTINF:-1,CN ARABIA
+http://149.100.19.226:8001/play/CN_Arabia
+#EXTINF:-1,CNN
+http://149.100.19.226:8001/play/CNN
+#EXTINF:-1,CTV
+http://149.100.19.226:8001/play/CTV
+#EXTINF:-1,Canal Algerie HD
+http://149.100.19.226:8001/play/Canal_Algerie_HD
+#EXTINF:-1,Carthage+
+http://149.100.19.226:8001/play/Carthage
+#EXTINF:-1,Cima
+http://149.100.19.226:8001/play/Cima
+#EXTINF:-1,DUBAI RACING 1 HD
+http://149.100.19.226:8001/play/a105
+#EXTINF:-1,DUBAI SPORTS 1 HD
+http://149.100.19.226:8001/play/a103
+#EXTINF:-1,DUBAI SPORTS 2 HD
+http://149.100.19.226:8001/play/a104
+#EXTINF:-1,Dijlah TV HD
+http://149.100.19.226:8001/play/Dijlah_TV_HD
+#EXTINF:-1,Dijlah Zaman TV HD
+http://149.100.19.226:8001/play/Dijlah_Zaman_TV_HD
+#EXTINF:-1,Dubai One HD
+http://149.100.19.226:8001/play/a102
+#EXTINF:-1,Dubai TV HD
+http://149.100.19.226:8001/play/a100
+#EXTINF:-1,EL BILAD 
+http://149.100.19.226:8001/play/EL_BILAD
+#EXTINF:-1,EL HEDDAF TV
+http://149.100.19.226:8001/play/EL_HEDDAF_TV
+#EXTINF:-1,ETIHAD TV
+http://149.100.19.226:8001/play/ETIHAD_TV
+#EXTINF:-1,Echorouk NEWS
+http://149.100.19.226:8001/play/Echorouk_NEWS
+#EXTINF:-1,Echorouk TV
+http://149.100.19.226:8001/play/Echorouk_TV
+#EXTINF:-1,El Barlamaniya
+http://149.100.19.226:8001/play/El_Barlamaniya
+#EXTINF:-1,El Djazair N1
+http://149.100.19.226:8001/play/El_Djazair_N1
+#EXTINF:-1,Elhiwar Ettounsi
+http://149.100.19.226:8001/play/Elhiwar_Ettounsi
+#EXTINF:-1,Elwatania Algerie
+http://149.100.19.226:8001/play/Elwatania_Algerie
+#EXTINF:-1,Ennahar TV
+http://149.100.19.226:8001/play/ENNAHAR_TV
+#EXTINF:-1,Extra News
+http://149.100.19.226:8001/play/Extra_News
+#EXTINF:-1,France 24
+http://149.100.19.226:8001/play/France_24
+#EXTINF:-1,France 24 Eng
+http://149.100.19.226:8001/play/France_24_Eng
+#EXTINF:-1,Free TV
+http://149.100.19.226:8001/play/Free_TV
+#EXTINF:-1,Fujairah TV HD
+http://149.100.19.226:8001/play/Fujairah_TV_HD
+#EXTINF:-1,HANNIBAL TV
+http://149.100.19.226:8001/play/HANNIBAL_TV
+#EXTINF:-1,Hona Baghdad
+http://149.100.19.226:8001/play/Hona_Baghdad
+#EXTINF:-1,I Film Arabic
+http://149.100.19.226:8001/play/I_Film_Arabic
+#EXTINF:-1,IRAQ 24 HD
+http://149.100.19.226:8001/play/IRAQ_24_HD
+#EXTINF:-1,Iqraa
+http://149.100.19.226:8001/play/Iqraa
+#EXTINF:-1,Iraq Now
+http://149.100.19.226:8001/play/a10e
+#EXTINF:-1,Iraq Now
+http://149.100.19.226:8001/play/Iraq_Now
+#EXTINF:-1,JORDAN NOW
+http://149.100.19.226:8001/play/JORDAN_NOW
+#EXTINF:-1,JORDAN SAMA
+http://149.100.19.226:8001/play/JORDAN_SAMA
+#EXTINF:-1,Jordan
+http://149.100.19.226:8001/play/Jordan
+#EXTINF:-1,Jordan Amen
+http://149.100.19.226:8001/play/Jordan_Amen
+#EXTINF:-1,Jordan Sport 
+http://149.100.19.226:8001/play/Jordan_Sport
+#EXTINF:-1,K24 HD
+http://149.100.19.226:8001/play/K24_HD
+#EXTINF:-1,KARBALA TV HD
+http://149.100.19.226:8001/play/KARBALA_TV_HD
+#EXTINF:-1,KSA Sport 1
+http://149.100.19.226:8001/play/KSA_Sport_1
+#EXTINF:-1,KSA Sports +1
+http://149.100.19.226:8001/play/KSA_Sports_plus1
+#EXTINF:-1,KSA Sports 2
+http://149.100.19.226:8001/play/KSA_Sports_2
+#EXTINF:-1,KURDISTAN TV
+http://149.100.19.226:8001/play/KURDISTAN_TV
+#EXTINF:-1,Karameesh TV
+http://149.100.19.226:8001/play/Karameesh_TV
+#EXTINF:-1,LANA TV HD
+http://149.100.19.226:8001/play/LANA_TV_HD
+#EXTINF:-1,LBC SAT
+http://149.100.19.226:8001/play/LBC_SAT
+#EXTINF:-1,LIBYA ALHADATH HD
+http://149.100.19.226:8001/play/LIBYA_ALHADATH_HD
+#EXTINF:-1,LIBYA ALMASAR TV
+http://149.100.19.226:8001/play/LIBYA_ALMASAR_TV
+#EXTINF:-1,LIBYA BUSINESS HD
+http://149.100.19.226:8001/play/LIBYA_BUSINESS_HD
+#EXTINF:-1,LIBYA DRAMA
+http://149.100.19.226:8001/play/LIBYA_DRAMA
+#EXTINF:-1,LIBYA SPORT 1 HD
+http://149.100.19.226:8001/play/LIBYA_SPORT_1_HD
+#EXTINF:-1,Lebanon TV
+http://149.100.19.226:8001/play/Lebanon_TV
+#EXTINF:-1,Libya Al Ahrar HD
+http://149.100.19.226:8001/play/Libya_Al_Ahrar_HD
+#EXTINF:-1,Libya Alrasmia
+http://149.100.19.226:8001/play/Libya_Alrasmia
+#EXTINF:-1,Libya Alwataniya
+http://149.100.19.226:8001/play/Libya_Alwataniya
+#EXTINF:-1,Libya Education
+http://149.100.19.226:8001/play/Libya_Education
+#EXTINF:-1,Libya LY TV
+http://149.100.19.226:8001/play/Libya_LY_TV
+#EXTINF:-1,M CLASSIC
+http://149.100.19.226:8001/play/M_CLASSIC
+#EXTINF:-1,M24 MAROC
+http://149.100.19.226:8001/play/M24_MAROC
+#EXTINF:-1,MBC 2
+http://149.100.19.226:8001/play/MBC_2
+#EXTINF:-1,MBC 2
+http://149.100.19.226:8001/play/MBC_2_
+#EXTINF:-1,MBC 3
+http://149.100.19.226:8001/play/MBC_3
+#EXTINF:-1,MBC 4
+http://149.100.19.226:8001/play/MBC_4
+#EXTINF:-1,MBC 5
+http://149.100.19.226:8001/play/MBC_5
+#EXTINF:-1,MBC Action
+http://149.100.19.226:8001/play/MBC_Action
+#EXTINF:-1,MBC Bollywood
+http://149.100.19.226:8001/play/MBC_Bollywood
+#EXTINF:-1,MBC Drama
+http://149.100.19.226:8001/play/MBC_Drama
+#EXTINF:-1,MBC IRAQ
+http://149.100.19.226:8001/play/MBC_IRAQ
+#EXTINF:-1,MBC IRAQ HD
+http://149.100.19.226:8001/play/MBC_IRAQ_HD
+#EXTINF:-1,MBC MASR
+http://149.100.19.226:8001/play/MBC_MASR
+#EXTINF:-1,MBC MAX
+http://149.100.19.226:8001/play/MBC_MAX
+#EXTINF:-1,MBC Masr 2
+http://149.100.19.226:8001/play/MBC_Masr_2
+#EXTINF:-1,MESat
+http://149.100.19.226:8001/play/MESat
+#EXTINF:-1,Madrastna 1
+http://149.100.19.226:8001/play/a0zy
+#EXTINF:-1,Majd Kids TV HD
+http://149.100.19.226:8001/play/Majd_Kids_TV_HD
+#EXTINF:-1,Maspero Zaman
+http://149.100.19.226:8001/play/Maspero_Zaman
+#EXTINF:-1,Mazzika
+http://149.100.19.226:8001/play/Mazzika
+#EXTINF:-1,Mecca
+http://149.100.19.226:8001/play/Mecca
+#EXTINF:-1,Medi1 TV Arabic
+http://149.100.19.226:8001/play/Medi1_TV_Arabic
+#EXTINF:-1,Mehwer
+http://149.100.19.226:8001/play/Mehwer
+#EXTINF:-1,Misr Quran Kareem
+http://149.100.19.226:8001/play/Misr_Quran_Kareem
+#EXTINF:-1,Mix
+http://149.100.19.226:8001/play/Mix
+#EXTINF:-1,Mix Bel Araby
+http://149.100.19.226:8001/play/Mix_Bel_Araby
+#EXTINF:-1,Mix One
+http://149.100.19.226:8001/play/Mix_One
+#EXTINF:-1,Moga
+http://149.100.19.226:8001/play/Moga
+#EXTINF:-1,Musawa HD
+http://149.100.19.226:8001/play/Musawa_HD
+#EXTINF:-1,NABA TV
+http://149.100.19.226:8001/play/NABA_TV
+#EXTINF:-1,NHK World Japan
+http://149.100.19.226:8001/play/NHK_World_Japan
+#EXTINF:-1,NRT Arabic
+http://149.100.19.226:8001/play/NRT_Arabic
+#EXTINF:-1,Nessma Ejdida
+http://149.100.19.226:8001/play/Nessma_Ejdida
+#EXTINF:-1,Nile Cinema
+http://149.100.19.226:8001/play/Nile_Cinema
+#EXTINF:-1,Nile Comedy
+http://149.100.19.226:8001/play/Nile_Comedy
+#EXTINF:-1,Nile Culture
+http://149.100.19.226:8001/play/Nile_Culture
+#EXTINF:-1,Nile Drama
+http://149.100.19.226:8001/play/Nile_Drama
+#EXTINF:-1,Nile Family
+http://149.100.19.226:8001/play/Nile_Family
+#EXTINF:-1,Nile Life
+http://149.100.19.226:8001/play/Nile_Life
+#EXTINF:-1,Nile News
+http://149.100.19.226:8001/play/Nile_News
+#EXTINF:-1,Nile Sport
+http://149.100.19.226:8001/play/Nile_Sport
+#EXTINF:-1,Nile TV
+http://149.100.19.226:8001/play/Nile_TV
+#EXTINF:-1,Nogoum FM TV
+http://149.100.19.226:8001/play/Nogoum_FM_TV
+#EXTINF:-1,Nour Elsham
+http://149.100.19.226:8001/play/Nour_Elsham
+#EXTINF:-1,NourSat
+http://149.100.19.226:8001/play/NourSat
+#EXTINF:-1,Noursat Alchabab
+http://149.100.19.226:8001/play/Noursat_Alchabab
+#EXTINF:-1,ON  E
+http://149.100.19.226:8001/play/ON_E
+#EXTINF:-1,ON Drama
+http://149.100.19.226:8001/play/ON_Drama
+#EXTINF:-1,ONTIME SPORTS
+http://149.100.19.226:8001/play/ONTIME_SPORTS
+#EXTINF:-1,ONTIME SPORTS2
+http://149.100.19.226:8001/play/ONTIME_SPORTS2
+#EXTINF:-1,ONTIME SPORTS3
+http://149.100.19.226:8001/play/a0zz
+#EXTINF:-1,Oman TV Culture HD
+http://149.100.19.226:8001/play/Oman_TV_Culture_HD
+#EXTINF:-1,Oman TV General HD
+http://149.100.19.226:8001/play/Oman_TV_General_HD
+#EXTINF:-1,Oman TV General SD
+http://149.100.19.226:8001/play/Oman_TV_General_SD
+#EXTINF:-1,Oman TV Live HD
+http://149.100.19.226:8001/play/Oman_TV_Live_HD
+#EXTINF:-1,Oman TV Sport HD
+http://149.100.19.226:8001/play/Oman_TV_Sport_HD
+#EXTINF:-1,Oscar TV
+http://149.100.19.226:8001/play/Oscar_TV
+#EXTINF:-1,PALESTINE TODAY
+http://149.100.19.226:8001/play/PALESTINE_TODAY
+#EXTINF:-1,Palestine
+http://149.100.19.226:8001/play/Palestine
+#EXTINF:-1,Palestine EDU
+http://149.100.19.226:8001/play/Palestine_EDU
+#EXTINF:-1,Palestine HD
+http://149.100.19.226:8001/play/Palestine_HD
+#EXTINF:-1,Palestine News HD
+http://149.100.19.226:8001/play/Palestine_News_HD
+#EXTINF:-1,Panorama Drama
+http://149.100.19.226:8001/play/Panorama_Drama
+#EXTINF:-1,Panorama Drama 2
+http://149.100.19.226:8001/play/Panorama_Drama_2
+#EXTINF:-1,Panorama Film
+http://149.100.19.226:8001/play/Panorama_Film
+#EXTINF:-1,Panorama Food
+http://149.100.19.226:8001/play/Panorama_Food
+#EXTINF:-1,Press TV
+http://149.100.19.226:8001/play/Press_TV
+#EXTINF:-1,QATAR TV HD
+http://149.100.19.226:8001/play/QATAR_TV_HD
+#EXTINF:-1,RO'YA
+http://149.100.19.226:8001/play/ROAYA
+#EXTINF:-1,RO'YA HD
+http://149.100.19.226:8001/play/ROYA_HD
+#EXTINF:-1,RT ARABIC HD
+http://149.100.19.226:8001/play/RT_ARABIC_HD
+#EXTINF:-1,RT Arabic HD
+http://149.100.19.226:8001/play/RT_Arabic_HD1
+#EXTINF:-1,RUDAW TV
+http://149.100.19.226:8001/play/RUDAW_TV
+#EXTINF:-1,Ronahi TV
+http://149.100.19.226:8001/play/Ronahi_TV
+#EXTINF:-1,Rotana Cinema EGY
+http://149.100.19.226:8001/play/Rotana_Cinema_EGY
+#EXTINF:-1,Rotana Cinema KSA
+http://149.100.19.226:8001/play/Rotana_Cinema_KSA
+#EXTINF:-1,Rotana Classic
+http://149.100.19.226:8001/play/Rotana_Classic
+#EXTINF:-1,Rotana Clip
+http://149.100.19.226:8001/play/Rotana_Clip
+#EXTINF:-1,Rotana Drama
+http://149.100.19.226:8001/play/Rotana_Drama
+#EXTINF:-1,Rotana Khalijia
+http://149.100.19.226:8001/play/Rotana_Khalijia
+#EXTINF:-1,Rotana Music
+http://149.100.19.226:8001/play/Rotana_Music
+#EXTINF:-1,SAFA TV
+http://149.100.19.226:8001/play/SAFA_TV
+#EXTINF:-1,SALAM HD
+http://149.100.19.226:8001/play/SALAM_HD
+#EXTINF:-1,SAMA DUBAI HD
+http://149.100.19.226:8001/play/a101
+#EXTINF:-1,SAMA TV
+http://149.100.19.226:8001/play/SAMA_TV
+#EXTINF:-1,SAT-7 ARABIC
+http://149.100.19.226:8001/play/SAT-7_ARABIC
+#EXTINF:-1,SAT-7 KIDS
+http://149.100.19.226:8001/play/SAT-7_KIDS
+#EXTINF:-1,SBC
+http://149.100.19.226:8001/play/SBC
+#EXTINF:-1,SPACETOON ARABIC
+http://149.100.19.226:8001/play/SPACETOON_ARABIC
+#EXTINF:-1,SUHAIL TV
+http://149.100.19.226:8001/play/SUHAIL_TV
+#EXTINF:-1,SYRIA TV HD
+http://149.100.19.226:8001/play/SYRIA_TV_HD
+#EXTINF:-1,Sada El Balad
+http://149.100.19.226:8001/play/Sada_El_Balad
+#EXTINF:-1,Sada El Balad 2
+http://149.100.19.226:8001/play/Sada_El_Balad_2
+#EXTINF:-1,Sada ElBalad 3
+http://149.100.19.226:8001/play/Sada_El_Balad_3
+#EXTINF:-1,Salam TV
+http://149.100.19.226:8001/play/Salam_TV
+#EXTINF:-1,Samira TV
+http://149.100.19.226:8001/play/SamiraTV
+#EXTINF:-1,Saudi Ch. For Quran
+http://149.100.19.226:8001/play/Saudi_Ch_For_Quran
+#EXTINF:-1,Saudi Ch. For Sunnah
+http://149.100.19.226:8001/play/Saudi_Ch_For_Sunnah
+#EXTINF:-1,Saudi-1
+http://149.100.19.226:8001/play/Saudi-1
+#EXTINF:-1,Saudi-2
+http://149.100.19.226:8001/play/Saudi-2
+#EXTINF:-1,Sky News Arabia
+http://149.100.19.226:8001/play/Sky_News_Arabia
+#EXTINF:-1,Souryana
+http://149.100.19.226:8001/play/Souryana
+#EXTINF:-1,Sudan TV
+http://149.100.19.226:8001/play/Sudan_TV
+#EXTINF:-1,Syria Drama
+http://149.100.19.226:8001/play/Syria_Drama
+#EXTINF:-1,Syria Education
+http://149.100.19.226:8001/play/Syria_Education
+#EXTINF:-1,Syria News
+http://149.100.19.226:8001/play/Syria_News
+#EXTINF:-1,Syria Satellite
+http://149.100.19.226:8001/play/Syria_Satellite
+#EXTINF:-1,TAHA 
+http://149.100.19.226:8001/play/TAHA
+#EXTINF:-1,TRT Arabi HD
+http://149.100.19.226:8001/play/TRT_Arabi_HD
+#EXTINF:-1,TRT_ELARABIYE
+http://149.100.19.226:8001/play/TRT_ELARABIYE
+#EXTINF:-1,TRT_KURDI
+http://149.100.19.226:8001/play/TRT_KURDI
+#EXTINF:-1,TUNISNA
+http://149.100.19.226:8001/play/TUNISNA
+#EXTINF:-1,TV 4
+http://149.100.19.226:8001/play/TV_4
+#EXTINF:-1,TV 5
+http://149.100.19.226:8001/play/TV_5
+#EXTINF:-1,TV 6 HD
+http://149.100.19.226:8001/play/TV_6_HD
+#EXTINF:-1,TV5
+http://149.100.19.226:8001/play/TV5
+#EXTINF:-1,TV7 ELMAARIFA
+http://149.100.19.226:8001/play/TV7_ELMAARIFA
+#EXTINF:-1,TV8 EDHAKIRA
+http://149.100.19.226:8001/play/TV8_EDHAKIRA
+#EXTINF:-1,Tanasuh TV
+http://149.100.19.226:8001/play/TANASUH_TV
+#EXTINF:-1,TeN TV
+http://149.100.19.226:8001/play/TeN_TV
+#EXTINF:-1,Telvza TV
+http://149.100.19.226:8001/play/Telvza_TV
+#EXTINF:-1,The Way
+http://149.100.19.226:8001/play/The_Way
+#EXTINF:-1,Thikrayat
+http://149.100.19.226:8001/play/Thikrayat
+#EXTINF:-1,Toyor Aljanah
+http://149.100.19.226:8001/play/Toyor_Aljanah
+#EXTINF:-1,Tunisia Educ 1
+http://149.100.19.226:8001/play/Tunisia_Educ_1
+#EXTINF:-1,Tunisia NAT 1
+http://149.100.19.226:8001/play/Tunisia_NAT_1
+#EXTINF:-1,Tunisia NAT 2
+http://149.100.19.226:8001/play/Tunisia_NAT_2
+#EXTINF:-1,Tunisia Nat 2
+http://149.100.19.226:8001/play/a0yu
+#EXTINF:-1,Tunisia Nat1 HD
+http://149.100.19.226:8001/play/a0we
+#EXTINF:-1,Tunisie Televsion 1
+http://149.100.19.226:8001/play/Tunisie_Televsion_1
+#EXTINF:-1,Wanasah
+http://149.100.19.226:8001/play/Wanasah
+#EXTINF:-1,YEMEN SHABAB
+http://149.100.19.226:8001/play/YEMEN_SHABAB
+#EXTINF:-1,Yemen Today
+http://149.100.19.226:8001/play/Yemen_Today
+#EXTINF:-1,ZAD TV
+http://149.100.19.226:8001/play/ZAD_TV
+#EXTINF:-1,ZAGROS TV HD
+http://149.100.19.226:8001/play/Zagros_TV_HD
+#EXTINF:-1,ZAYTOONA
+http://149.100.19.226:8001/play/ZAYTOONA
+#EXTINF:-1,ZEE AFLAM
+http://149.100.19.226:8001/play/ZEE_AFLAM
+#EXTINF:-1,ZEE ALWAN
+http://149.100.19.226:8001/play/ZEE_ALWAN
+#EXTINF:-1,Zamalek Sports
+http://149.100.19.226:8001/play/Zamalek_Sports
+#EXTINF:-1,dmc
+http://149.100.19.226:8001/play/dmc
+#EXTINF:-1,dmc drama
+http://149.100.19.226:8001/play/dmc_drama
+#EXTINF:-1,Amedia Hit HD
+http://109.200.130.123:7029/play/a025
+#EXTINF:-1,Глазами Туриста HD
+http://109.200.130.123:7029/play/a027
+#EXTINF:-1,Кино ТВ HD
+http://109.200.130.123:7029/play/a02b
+#EXTINF:-1,viju+ Megahit
+http://109.200.130.123:7029/play/a023
+#EXTINF:-1,viju+ Comedy
+http://109.200.130.123:7029/play/a024
+#EXTINF:-1,Енисей HD
+http://109.200.130.123:7029/play/a02e
+#EXTINF:-1,viju+ Premiere
+http://109.200.130.123:7029/play/a022
+#EXTINF:-1,Мульт HD
+http://109.200.130.123:7029/play/a026
+#EXTINF:-1,iConcerts HD
+http://109.200.130.123:7029/play/a02a
+#EXTINF:-1,Живая Природа HD
+http://109.200.130.123:7029/play/a028
+#EXTINF:-1,viju+ Serial
+http://109.200.130.123:7029/play/a02d
+#EXTINF:-1,viju+ Planet
+http://109.200.130.123:7029/play/a02c
+#EXTINF:-1,RTG HD
+http://109.200.130.123:7029/play/a029
+#EXTINF:-1,Amedia Premium HD
+http://37.17.12.124:8903/play/a00h
+#EXTINF:-1,Mezzo Live HD
+http://37.17.12.124:8903/play/a00a
+#EXTINF:-1,START Air
+http://37.17.12.124:8903/play/a00f
+#EXTINF:-1,Витебск
+http://37.17.12.124:8903/play/a005
+#EXTINF:-1,Amedia HIT
+http://37.17.14.149:8903/play/a007
+#EXTINF:-1,Amedia Premium
+http://37.17.14.149:8903/play/a00n
+#EXTINF:-1,CTC Kids
+http://37.17.14.149:8903/play/a006
+#EXTINF:-1,Hollywood
+http://37.17.14.149:8903/play/a009
+#EXTINF:-1,Иллюзион +
+http://37.17.14.149:8903/play/a00i
+#EXTINF:-1,Русский иллюзион
+http://37.17.14.149:8903/play/a00h
+#EXTINF:-1,5 USA
+http://185.99.253.46:8000/play/a04f/index.m3u8
+#EXTINF:-1,5 USA
+http://185.99.253.46:8000/play/a04p/index.m3u8
+#EXTINF:-1,5ACTION
+http://185.99.253.46:8000/play/a04m/index.m3u8
+#EXTINF:-1 tvg-id="123",5ACTION
+http://185.99.253.46:8000/play/a04w/index.m3u8
+#EXTINF:-1,5SELECT
+http://185.99.253.46:8000/play/a04s/index.m3u8
+#EXTINF:-1,5SELECT
+http://185.99.253.46:8000/play/a04i/index.m3u8
+#EXTINF:-1,5STAR
+http://185.99.253.46:8000/play/a04h/index.m3u8
+#EXTINF:-1,5STAR
+http://185.99.253.46:8000/play/a04r/index.m3u8
+#EXTINF:-1,5STAR+1
+http://185.99.253.46:8000/play/a04t/index.m3u8
+#EXTINF:-1,5STAR+1
+http://185.99.253.46:8000/play/a04j/index.m3u8
+#EXTINF:-1,5STAR+1
+http://185.99.253.46:8000/play/a03m/index.m3u8
+#EXTINF:-1,5USA+1
+http://185.99.253.46:8000/play/a04q/index.m3u8
+#EXTINF:-1,5USA+1
+http://185.99.253.46:8000/play/a04g/index.m3u8
+#EXTINF:-1,5USA+1
+http://185.99.253.46:8000/play/a03j/index.m3u8
+#EXTINF:-1,6945
+http://185.99.253.46:8000/play/a052/index.m3u8
+#EXTINF:-1,6945
+http://185.99.253.46:8000/play/a005/index.m3u8
+#EXTINF:-1,Ahlulbayt TV
+http://185.99.253.46:8000/play/a045/index.m3u8
+#EXTINF:-1,Al Jazeera Eng
+http://185.99.253.46:8000/play/a04d/index.m3u8
+#EXTINF:-1,Arirang TV HD
+http://185.99.253.46:8000/play/a05b/index.m3u8
+#EXTINF:-1,Arirang TV HD
+http://185.99.253.46:8000/play/a01g/index.m3u8
+#EXTINF:-1,BBC 6 Music
+http://185.99.253.46:8000/play/a06b/index.m3u8
+#EXTINF:-1,BBC ALBA
+http://185.99.253.46:8000/play/a06i/index.m3u8
+#EXTINF:-1,BBC Asian
+http://185.99.253.46:8000/play/a06s/index.m3u8
+#EXTINF:-1,BBC Four
+http://185.99.253.46:8000/play/a06w/index.m3u8
+#EXTINF:-1,BBC Four
+http://185.99.253.46:8000/play/a061/index.m3u8
+#EXTINF:-1,BBC Four HD
+http://185.99.253.46:8000/play/a075/index.m3u8
+#EXTINF:-1,BBC Four HD
+http://185.99.253.46:8000/play/a071/index.m3u8
+#EXTINF:-1,BBC NEWS
+http://185.99.253.46:8000/play/a062/index.m3u8
+#EXTINF:-1,BBC NEWS HD
+http://185.99.253.46:8000/play/a03u/index.m3u8
+#EXTINF:-1,BBC One
+http://185.99.253.46:8000/play/a06t/index.m3u8
+#EXTINF:-1,BBC One
+http://185.99.253.46:8000/play/a065/index.m3u8
+#EXTINF:-1,BBC One
+http://185.99.253.46:8000/play/a064/index.m3u8
+#EXTINF:-1,BBC One
+http://185.99.253.46:8000/play/a063/index.m3u8
+#EXTINF:-1,BBC One
+http://185.99.253.46:8000/play/a05y/index.m3u8
+#EXTINF:-1,BBC One CI
+http://185.99.253.46:8000/play/a016/index.m3u8
+#EXTINF:-1,BBC One EMidHD
+http://185.99.253.46:8000/play/a074/index.m3u8
+#EXTINF:-1,BBC One East W
+http://185.99.253.46:8000/play/a015/index.m3u8
+#EXTINF:-1,BBC One EastHD
+http://185.99.253.46:8000/play/a073/index.m3u8
+#EXTINF:-1,BBC One HD
+http://185.99.253.46:8000/play/a055/index.m3u8
+#EXTINF:-1,BBC One HD
+http://185.99.253.46:8000/play/a050/index.m3u8
+#EXTINF:-1,BBC One HD
+http://185.99.253.46:8000/play/a008/index.m3u8
+#EXTINF:-1,BBC One Lon
+http://185.99.253.46:8000/play/a00v/index.m3u8
+#EXTINF:-1,BBC One Lon
+http://185.99.253.46:8000/play/a010/index.m3u8
+#EXTINF:-1,BBC One Lon HD
+http://185.99.253.46:8000/play/a06z/index.m3u8
+#EXTINF:-1,BBC One NI HD
+http://185.99.253.46:8000/play/a056/index.m3u8
+#EXTINF:-1,BBC One NI HD
+http://185.99.253.46:8000/play/a051/index.m3u8
+#EXTINF:-1,BBC One NI HD
+http://185.99.253.46:8000/play/a004/index.m3u8
+#EXTINF:-1,BBC One NI HD
+http://185.99.253.46:8000/play/a009/index.m3u8
+#EXTINF:-1,BBC One ScotHD
+http://185.99.253.46:8000/play/a03s/index.m3u8
+#EXTINF:-1,BBC One Wal HD
+http://185.99.253.46:8000/play/a03t/index.m3u8
+#EXTINF:-1,BBC One West
+http://185.99.253.46:8000/play/a014/index.m3u8
+#EXTINF:-1,BBC R Cymru
+http://185.99.253.46:8000/play/a06l/index.m3u8
+#EXTINF:-1,BBC R Cymru 2
+http://185.99.253.46:8000/play/a06m/index.m3u8
+#EXTINF:-1,BBC R Foyle
+http://185.99.253.46:8000/play/a06q/index.m3u8
+#EXTINF:-1,BBC R Scot.
+http://185.99.253.46:8000/play/a06n/index.m3u8
+#EXTINF:-1,BBC R Ulster
+http://185.99.253.46:8000/play/a06p/index.m3u8
+#EXTINF:-1,BBC R Wales
+http://185.99.253.46:8000/play/a06k/index.m3u8
+#EXTINF:-1,BBC R n Gael
+http://185.99.253.46:8000/play/a06o/index.m3u8
+#EXTINF:-1,BBC R1
+http://185.99.253.46:8000/play/a066/index.m3u8
+#EXTINF:-1,BBC R1X
+http://185.99.253.46:8000/play/a06f/index.m3u8
+#EXTINF:-1,BBC R2
+http://185.99.253.46:8000/play/a067/index.m3u8
+#EXTINF:-1,BBC R3
+http://185.99.253.46:8000/play/a068/index.m3u8
+#EXTINF:-1,BBC R4 Ex
+http://185.99.253.46:8000/play/a06e/index.m3u8
+#EXTINF:-1,BBC R4 FM
+http://185.99.253.46:8000/play/a069/index.m3u8
+#EXTINF:-1,BBC R4 LW
+http://185.99.253.46:8000/play/a06c/index.m3u8
+#EXTINF:-1,BBC R5L
+http://185.99.253.46:8000/play/a06a/index.m3u8
+#EXTINF:-1,BBC R5SX
+http://185.99.253.46:8000/play/a06d/index.m3u8
+#EXTINF:-1,BBC RB 1
+http://185.99.253.46:8000/play/a017/index.m3u8
+#EXTINF:-1,BBC RLondon
+http://185.99.253.46:8000/play/a06r/index.m3u8
+#EXTINF:-1,BBC Three
+http://185.99.253.46:8000/play/a06v/index.m3u8
+#EXTINF:-1,BBC Three
+http://185.99.253.46:8000/play/a060/index.m3u8
+#EXTINF:-1,BBC Three HD
+http://185.99.253.46:8000/play/a057/index.m3u8
+#EXTINF:-1,BBC Three HD
+http://185.99.253.46:8000/play/a053/index.m3u8
+#EXTINF:-1,BBC Two
+http://185.99.253.46:8000/play/a06u/index.m3u8
+#EXTINF:-1,BBC Two
+http://185.99.253.46:8000/play/a05z/index.m3u8
+#EXTINF:-1,BBC Two
+http://185.99.253.46:8000/play/a011/index.m3u8
+#EXTINF:-1,BBC Two
+http://185.99.253.46:8000/play/a00w/index.m3u8
+#EXTINF:-1,BBC Two HD
+http://185.99.253.46:8000/play/a04z/index.m3u8
+#EXTINF:-1,BBC Two HD
+http://185.99.253.46:8000/play/a007/index.m3u8
+#EXTINF:-1,BBC Two Wal HD
+http://185.99.253.46:8000/play/a070/index.m3u8
+#EXTINF:-1,BBC Two Wal HD
+http://185.99.253.46:8000/play/a04y/index.m3u8
+#EXTINF:-1,BBC Two Wal HD
+http://185.99.253.46:8000/play/a001/index.m3u8
+#EXTINF:-1,BBC WS
+http://185.99.253.46:8000/play/a06j/index.m3u8
+#EXTINF:-1,BBCScotlandHD
+http://185.99.253.46:8000/play/a03v/index.m3u8
+#EXTINF:-1,BLAZE
+http://185.99.253.46:8000/play/a04a/index.m3u8
+#EXTINF:-1,Bloomberg HD
+http://185.99.253.46:8000/play/a01t/index.m3u8
+#EXTINF:-1,CBBC
+http://185.99.253.46:8000/play/a06x/index.m3u8
+#EXTINF:-1,CBBC
+http://185.99.253.46:8000/play/a06g/index.m3u8
+#EXTINF:-1,CBBC HD
+http://185.99.253.46:8000/play/a058/index.m3u8
+#EXTINF:-1,CBBC HD
+http://185.99.253.46:8000/play/a054/index.m3u8
+#EXTINF:-1,CBBC HD
+http://185.99.253.46:8000/play/a006/index.m3u8
+#EXTINF:-1,CBBC HD
+http://185.99.253.46:8000/play/a00a/index.m3u8
+#EXTINF:-1,CBeebies
+http://185.99.253.46:8000/play/a06y/index.m3u8
+#EXTINF:-1,CBeebies
+http://185.99.253.46:8000/play/a06h/index.m3u8
+#EXTINF:-1,CBeebies
+http://185.99.253.46:8000/play/a00z/index.m3u8
+#EXTINF:-1,CBeebies HD
+http://185.99.253.46:8000/play/a072/index.m3u8
+#EXTINF:-1,CBeebies HD
+http://185.99.253.46:8000/play/a076/index.m3u8
+#EXTINF:-1,CBeebies HD
+http://185.99.253.46:8000/play/a03z/index.m3u8
+#EXTINF:-1,CGTN HD
+http://185.99.253.46:8000/play/a01h/index.m3u8
+#EXTINF:-1,CNN
+http://185.99.253.46:8000/play/a043/index.m3u8
+#EXTINF:-1,CNN HD
+http://185.99.253.46:8000/play/a01p/index.m3u8
+#EXTINF:-1,Challenge
+http://185.99.253.46:8000/play/a05u/index.m3u8
+#EXTINF:-1,Challenge
+http://185.99.253.46:8000/play/a02r/index.m3u8
+#EXTINF:-1,Channel 4
+http://185.99.253.46:8000/play/a00b/index.m3u8
+#EXTINF:-1,Channel 5
+http://185.99.253.46:8000/play/a04o/index.m3u8
+#EXTINF:-1,Channel 5
+http://185.99.253.46:8000/play/a04e/index.m3u8
+#EXTINF:-1,Channel 5
+http://185.99.253.46:8000/play/a03h/index.m3u8
+#EXTINF:-1 tvg-id="5",Channel 5 HD
+http://185.99.253.46:8000/play/a04l/index.m3u8
+#EXTINF:-1,Channel 5 HD
+http://185.99.253.46:8000/play/a04v/index.m3u8
+#EXTINF:-1,Channel 5+1
+http://185.99.253.46:8000/play/a04u/index.m3u8
+#EXTINF:-1,Channel 5+1
+http://185.99.253.46:8000/play/a04k/index.m3u8
+#EXTINF:-1,Channel 5+1
+http://185.99.253.46:8000/play/a03n/index.m3u8
+#EXTINF:-1,Create&CraftHD
+http://185.99.253.46:8000/play/a01m/index.m3u8
+#EXTINF:-1,DAYSTAR HD
+http://185.99.253.46:8000/play/a01r/index.m3u8
+#EXTINF:-1,DMAX
+http://185.99.253.46:8000/play/a02w/index.m3u8
+#EXTINF:-1,DMAX+1
+http://185.99.253.46:8000/play/a02t/index.m3u8
+#EXTINF:-1,Dave
+http://185.99.253.46:8000/play/a01x/index.m3u8
+#EXTINF:-1,Dave ja vu
+http://185.99.253.46:8000/play/a027/index.m3u8
+#EXTINF:-1,Drama
+http://185.99.253.46:8000/play/a024/index.m3u8
+#EXTINF:-1,Drama+1
+http://185.99.253.46:8000/play/a026/index.m3u8
+#EXTINF:-1,E!
+http://185.99.253.46:8000/play/a05e/index.m3u8
+#EXTINF:-1,E4
+http://185.99.253.46:8000/play/a00f/index.m3u8
+#EXTINF:-1,ETV1
+http://185.99.253.46:8000/play/a00x/index.m3u8
+#EXTINF:-1,Elmo
+http://185.99.253.46:8000/play/a05w/index.m3u8
+#EXTINF:-1,Film4
+http://185.99.253.46:8000/play/a00c/index.m3u8
+#EXTINF:-1,Food Network
+http://185.99.253.46:8000/play/a02u/index.m3u8
+#EXTINF:-1,Food Netwrk+1
+http://185.99.253.46:8000/play/a02v/index.m3u8
+#EXTINF:-1,Forces TV
+http://185.99.253.46:8000/play/a02s/index.m3u8
+#EXTINF:-1,Hillsong
+http://185.99.253.46:8000/play/a049/index.m3u8
+#EXTINF:-1,ITV HD
+http://185.99.253.46:8000/play/a01d/index.m3u8
+#EXTINF:-1,ITV Wales HD
+http://185.99.253.46:8000/play/a01a/index.m3u8
+#EXTINF:-1,ITV2 HD
+http://185.99.253.46:8000/play/a05x/index.m3u8
+#EXTINF:-1,Ideal World HD
+http://185.99.253.46:8000/play/a01l/index.m3u8
+#EXTINF:-1,Inspiration TV
+http://185.99.253.46:8000/play/a04c/index.m3u8
+#EXTINF:-1,Iran Int'l HD
+http://185.99.253.46:8000/play/a01n/index.m3u8
+#EXTINF:-1,JewelleryMaker
+http://185.99.253.46:8000/play/a042/index.m3u8
+#EXTINF:-1,LoveWorld HD
+http://185.99.253.46:8000/play/a01o/index.m3u8
+#EXTINF:-1,MTA1 World HD
+http://185.99.253.46:8000/play/a05c/index.m3u8
+#EXTINF:-1,More4+1
+http://185.99.253.46:8000/play/a00d/index.m3u8
+#EXTINF:-1,NHK World HD
+http://185.99.253.46:8000/play/a059/index.m3u8
+#EXTINF:-1,NHK World HD
+http://185.99.253.46:8000/play/a01e/index.m3u8
+#EXTINF:-1,NOW 80s
+http://185.99.253.46:8000/play/a041/index.m3u8
+#EXTINF:-1,Nat Geo
+http://185.99.253.46:8000/play/a05n/index.m3u8
+#EXTINF:-1,Nat Geo Wild
+http://185.99.253.46:8000/play/a05p/index.m3u8
+#EXTINF:-1,Nat Geo+1
+http://185.99.253.46:8000/play/a05o/index.m3u8
+#EXTINF:-1,Nick Jr. Too
+http://185.99.253.46:8000/play/a04x/index.m3u8
+#EXTINF:-1,Nick Jr. Too
+http://185.99.253.46:8000/play/a04n/index.m3u8
+#EXTINF:-1,Paramount
+http://185.99.253.46:8000/play/a03q/index.m3u8
+#EXTINF:-1,Pick
+http://185.99.253.46:8000/play/a03e/index.m3u8
+#EXTINF:-1,Pick+1
+http://185.99.253.46:8000/play/a03f/index.m3u8
+#EXTINF:-1,QUEST
+http://185.99.253.46:8000/play/a031/index.m3u8
+#EXTINF:-1,QUEST+1
+http://185.99.253.46:8000/play/a033/index.m3u8
+#EXTINF:-1,Quest Red
+http://185.99.253.46:8000/play/a032/index.m3u8
+#EXTINF:-1,Quest Red+1
+http://185.99.253.46:8000/play/a030/index.m3u8
+#EXTINF:-1,RT HD
+http://185.99.253.46:8000/play/a01f/index.m3u8
+#EXTINF:-1,Record TV HD
+http://185.99.253.46:8000/play/a01s/index.m3u8
+#EXTINF:-1,SNR
+http://185.99.253.46:8000/play/a039/index.m3u8
+#EXTINF:-1,Sikh Channel
+http://185.99.253.46:8000/play/a047/index.m3u8
+#EXTINF:-1,Sky Arts
+http://185.99.253.46:8000/play/a03d/index.m3u8
+#EXTINF:-1,Sky Crime
+http://185.99.253.46:8000/play/a05g/index.m3u8
+#EXTINF:-1,Sky Crime+1
+http://185.99.253.46:8000/play/a05t/index.m3u8
+#EXTINF:-1,Sky Max
+http://185.99.253.46:8000/play/a05l/index.m3u8
+#EXTINF:-1,Sky News
+http://185.99.253.46:8000/play/a05m/index.m3u8
+#EXTINF:-1,Sky News
+http://185.99.253.46:8000/play/a03g/index.m3u8
+#EXTINF:-1,Sky Replay
+http://185.99.253.46:8000/play/a05r/index.m3u8
+#EXTINF:-1,Sky Sci-Fi
+http://185.99.253.46:8000/play/a05d/index.m3u8
+#EXTINF:-1,Sky Witness
+http://185.99.253.46:8000/play/a05k/index.m3u8
+#EXTINF:-1,Sky Witness
+http://185.99.253.46:8000/play/a05i/index.m3u8
+#EXTINF:-1,SkyDocumntrs
+http://185.99.253.46:8000/play/a05h/index.m3u8
+#EXTINF:-1,SkySp Mix
+http://185.99.253.46:8000/play/a05v/index.m3u8
+#EXTINF:-1,SkySp Mix
+http://185.99.253.46:8000/play/a05f/index.m3u8
+#EXTINF:-1,Smithsonian HD
+http://185.99.253.46:8000/play/a01i/index.m3u8
+#EXTINF:-1,Spotlight TV
+http://185.99.253.46:8000/play/a046/index.m3u8
+#EXTINF:-1,TRT World HD
+http://185.99.253.46:8000/play/a01k/index.m3u8
+#EXTINF:-1,Together
+http://185.99.253.46:8000/play/a05s/index.m3u8
+#EXTINF:-1,Together
+http://185.99.253.46:8000/play/a02o/index.m3u8
+#EXTINF:-1,Virgin One
+http://185.99.253.46:8000/play/a05j/index.m3u8
+#EXTINF:-1,Virgin Three
+http://185.99.253.46:8000/play/a05q/index.m3u8
+#EXTINF:-1,YESTERDAY
+http://185.99.253.46:8000/play/a01w/index.m3u8
+#EXTINF:-1,YESTERDAY+1
+http://185.99.253.46:8000/play/a029/index.m3u8
+#EXTINF:-1,Zee TV HD
+http://185.99.253.46:8000/play/a05a/index.m3u8
+#EXTINF:-1,c4 l
+http://185.99.253.46:8000/play/a00i/index.m3u8
+#EXTINF:-1,Erox
+http://94.229.250.73:8008/play/a002
+#EXTINF:-1,VIP Serial
+http://94.229.250.73:8008/play/a003
+#EXTINF:-1,Vostok-TV_nkh
+http://94.229.250.73:8008/play/a001
+#EXTINF:-1,AMC
+http://187.94.148.10:8090/play/a043/index.m3u8
+#EXTINF:-1,AXN
+http://187.94.148.10:8090/play/a016/index.m3u8
+#EXTINF:-1,Arte 1
+http://187.94.148.10:8090/play/a01a/index.m3u8
+#EXTINF:-1,Band News
+http://187.94.148.10:8090/play/a00r/index.m3u8
+#EXTINF:-1,Band Sports
+http://187.94.148.10:8090/play/a00g/index.m3u8
+#EXTINF:-1,Canal Brasil
+http://187.94.148.10:8090/play/a03u/index.m3u8
+#EXTINF:-1,Canal Sony
+http://187.94.148.10:8090/play/a00j/index.m3u8
+#EXTINF:-1,Discovery Channel
+http://187.94.148.10:8090/play/a041/index.m3u8
+#EXTINF:-1,Discovery H&H
+http://187.94.148.10:8090/play/a00e/index.m3u8
+#EXTINF:-1,Discovery Turbo
+http://187.94.148.10:8090/play/a00m/index.m3u8
+#EXTINF:-1,EPTV Campinas
+http://187.94.148.10:8090/play/a04b/index.m3u8
+#EXTINF:-1,EPTV Ribeirªo Preto
+http://187.94.148.10:8090/play/a03k/index.m3u8
+#EXTINF:-1,EPTV Sªo Carlos
+http://187.94.148.10:8090/play/a04c/index.m3u8
+#EXTINF:-1,ESPN
+http://187.94.148.10:8090/play/a010/index.m3u8
+#EXTINF:-1,ESPN Brasil
+http://187.94.148.10:8090/play/a00f/index.m3u8
+#EXTINF:-1,FX
+http://187.94.148.10:8090/play/a00i/index.m3u8
+#EXTINF:-1,Food Network
+http://187.94.148.10:8090/play/a03o/index.m3u8
+#EXTINF:-1,Fox Sports 2
+http://187.94.148.10:8090/play/a00x/index.m3u8
+#EXTINF:-1,Globo SP
+http://187.94.148.10:8090/play/a046/index.m3u8
+#EXTINF:-1,GloboNews
+http://187.94.148.10:8090/play/a00z/index.m3u8
+#EXTINF:-1,Gloob
+http://187.94.148.10:8090/play/a03y/index.m3u8
+#EXTINF:-1,HBO
+http://187.94.148.10:8090/play/a03v/index.m3u8
+#EXTINF:-1,HBO Signature
+http://187.94.148.10:8090/play/a015/index.m3u8
+#EXTINF:-1,HBO2
+http://187.94.148.10:8090/play/a00h/index.m3u8
+#EXTINF:-1,History 2
+http://187.94.148.10:8090/play/a00k/index.m3u8
+#EXTINF:-1,ID - InvestigaĿªo Discovery
+http://187.94.148.10:8090/play/a00p/index.m3u8
+#EXTINF:-1,National Geographic
+http://187.94.148.10:8090/play/a00o/index.m3u8
+#EXTINF:-1,Nickelodeon
+http://187.94.148.10:8090/play/a00l/index.m3u8
+#EXTINF:-1,OFF
+http://187.94.148.10:8090/play/a03r/index.m3u8
+#EXTINF:-1,Paramount Network
+http://187.94.148.10:8090/play/a03q/index.m3u8
+#EXTINF:-1,Paramount+
+http://187.94.148.10:8090/play/a044/index.m3u8
+#EXTINF:-1,Premiere 2
+http://187.94.148.10:8090/play/a00t/index.m3u8
+#EXTINF:-1,Premiere 5
+http://187.94.148.10:8090/play/a01e/index.m3u8
+#EXTINF:-1,Premiere 8
+http://187.94.148.10:8090/play/a045/index.m3u8
+#EXTINF:-1,Premiere Clubes
+http://187.94.148.10:8090/play/a00v/index.m3u8
+#EXTINF:-1,Prime Box Brazil
+http://187.94.148.10:8090/play/a014/index.m3u8
+#EXTINF:-1,RECORDTV
+http://187.94.148.10:8090/play/a01b/index.m3u8
+#EXTINF:-1,RPC TV Curitiba
+http://187.94.148.10:8090/play/a049/index.m3u8
+#EXTINF:-1,Record News
+http://187.94.148.10:8090/play/a040/index.m3u8
+#EXTINF:-1,Rede Vida
+http://187.94.148.10:8090/play/a017/index.m3u8
+#EXTINF:-1,SBT
+http://187.94.148.10:8090/play/a00w/index.m3u8
+#EXTINF:-1,SporTV
+http://187.94.148.10:8090/play/a03p/index.m3u8
+#EXTINF:-1,SporTV 2
+http://187.94.148.10:8090/play/a00y/index.m3u8
+#EXTINF:-1,TLC
+http://187.94.148.10:8090/play/a00q/index.m3u8
+#EXTINF:-1,TNT 
+http://187.94.148.10:8090/play/a011/index.m3u8
+#EXTINF:-1,TV Centro AmØrica CuiabÆ
+http://187.94.148.10:8090/play/a048/index.m3u8
+#EXTINF:-1,TV Tem Sªo JosØ do Rio Preto
+http://187.94.148.10:8090/play/a047/index.m3u8
+#EXTINF:-1,TV Vanguarda S. J. dos Campos
+http://187.94.148.10:8090/play/a03n/index.m3u8
+#EXTINF:-1,Telecine Cult
+http://187.94.148.10:8090/play/a012/index.m3u8
+#EXTINF:-1,Telecine Premium
+http://187.94.148.10:8090/play/a03s/index.m3u8
+#EXTINF:-1,Telecine Touch
+http://187.94.148.10:8090/play/a03t/index.m3u8
+#EXTINF:-1,Tooncast
+http://187.94.148.10:8090/play/a03z/index.m3u8
+#EXTINF:-1,TruTV
+http://187.94.148.10:8090/play/a03w/index.m3u8
+#EXTINF:-1,Universal TV
+http://187.94.148.10:8090/play/a01c/index.m3u8
+#EXTINF:-1,ZooMoo
+http://187.94.148.10:8090/play/a042/index.m3u8
+#EXTINF:-1,1-2-3.tv HD
+http://178.251.29.83:7242/play/a03n
+#EXTINF:-1,ANIXE HD
+http://178.251.29.83:7242/play/a03g
+#EXTINF:-1,BILD HD
+http://178.251.29.83:7242/play/a038
+#EXTINF:-1,BR Fernsehen Süd HD
+http://178.251.29.83:7242/play/a03u
+#EXTINF:-1,Channel21 HD
+http://178.251.29.83:7242/play/a03c
+#EXTINF:-1,Comedy Central HD
+http://178.251.29.83:7242/play/a02t
+#EXTINF:-1,Deluxe Music HD
+http://178.251.29.83:7242/play/a03q
+#EXTINF:-1,Disney Channel HD
+http://178.251.29.83:7242/play/a03o
+#EXTINF:-1,Genius Plus
+http://178.251.29.83:7242/play/a03l
+#EXTINF:-1,HSE Extra HD
+http://178.251.29.83:7242/play/a03p
+#EXTINF:-1,HSE HD
+http://178.251.29.83:7242/play/a03i
+#EXTINF:-1,Handystar TV HD
+http://178.251.29.83:7242/play/a03a
+#EXTINF:-1,MDR Sachsen HD
+http://178.251.29.83:7242/play/a034
+#EXTINF:-1,MTV HD
+http://178.251.29.83:7242/play/a03b
+#EXTINF:-1,NDR FS NDS HD
+http://178.251.29.83:7242/play/a03v
+#EXTINF:-1,Nicer Dicer TV
+http://178.251.29.83:7242/play/a03k
+#EXTINF:-1,Nick/Comedy Central+1
+http://178.251.29.83:7242/play/a02v
+#EXTINF:-1,QVC HD
+http://178.251.29.83:7242/play/a03h
+#EXTINF:-1,QVC STYLE HD
+http://178.251.29.83:7242/play/a03d
+#EXTINF:-1,QVC ZWEI HD
+http://178.251.29.83:7242/play/a03r
+#EXTINF:-1,SPORT1 HD
+http://178.251.29.83:7242/play/a03s
+#EXTINF:-1,ShopLC HD
+http://178.251.29.83:7242/play/a03j
+#EXTINF:-1,TLC HD
+http://178.251.29.83:7242/play/a039
+#EXTINF:-1,WDR HD Köln
+http://178.251.29.83:7242/play/a045
+#EXTINF:-1,WELT HD
+http://178.251.29.83:7242/play/a03f
+#EXTINF:-1,hr-fernsehen HD
+http://178.251.29.83:7242/play/a032
+#EXTINF:-1,phoenix HD
+http://178.251.29.83:7242/play/a03w
+#EXTINF:-1,rbb Brandenburg HD
+http://178.251.29.83:7242/play/a033
+#EXTINF:-1,Amedia 1
+http://37.17.12.124:8912/play/a00q
+#EXTINF:-1,Amedia 2 HD
+http://37.17.12.124:8912/play/a00e
+#EXTINF:-1,Cinema
+http://37.17.12.124:8912/play/a01p
+#EXTINF:-1,KHL Prime HD
+http://37.17.12.124:8912/play/a00b
+#EXTINF:-1,KHL TV
+http://37.17.12.124:8912/play/a00z
+#EXTINF:-1,RTG HD
+http://37.17.12.124:8912/play/a01x
+#EXTINF:-1,TB-21 M
+http://37.17.12.124:8912/play/a01r
+#EXTINF:-1,viju+ Comedy HD
+http://37.17.12.124:8912/play/a01h
+#EXTINF:-1,viju+ Megahit HD
+http://37.17.12.124:8912/play/a01g
+#EXTINF:-1,viju+ Planet HD
+http://37.17.12.124:8912/play/a01i
+#EXTINF:-1,viju+ Premiere HD
+http://37.17.12.124:8912/play/a01f
+#EXTINF:-1,viju+ Serial HD
+http://37.17.12.124:8912/play/a01j
+#EXTINF:-1,viju+ Sport
+http://37.17.12.124:8912/play/a01m
+#EXTINF:-1,Моя Планета HD
+http://37.17.12.124:8912/play/a01e
+#EXTINF:-1,Мульт
+http://37.17.12.124:8912/play/a01o
+#EXTINF:-1,НСТВ
+http://37.17.12.124:8912/play/a01c
+#EXTINF:-1,Наука HD
+http://37.17.12.124:8912/play/a01n
+#EXTINF:-1,Сарафан
+http://37.17.12.124:8912/play/a01b
+#EXTINF:-1,Техно 24
+http://37.17.12.124:8912/play/a01d
+#EXTINF:-1,Шансон ТВ Int.
+http://37.17.12.124:8912/play/a01u
+#EXTINF:-1,BRIDGE DELUXE HD
+http://37.17.12.124:8905/play/a009
+#EXTINF:-1,THT Music
+http://37.17.12.124:8905/play/a00z
+#EXTINF:-1,Кто есть кто
+http://37.17.12.124:8905/play/a00i
+#EXTINF:-1,2X2
+http://185.44.75.202:38166/play/a053/index.m3u8
+#EXTINF:-1,365dney-213
+http://185.44.75.202:38166/play/a05v/index.m3u8
+#EXTINF:-1,A1
+http://185.44.75.202:38166/play/a08i/index.m3u8
+#EXTINF:-1,A2
+http://185.44.75.202:38166/play/a06e/index.m3u8
+#EXTINF:-1,ABTO24
+http://185.44.75.202:38166/play/a06y/index.m3u8
+#EXTINF:-1,AMEDIA HIT
+http://185.44.75.202:38166/play/a08k/index.m3u8
+#EXTINF:-1,Ani
+http://185.44.75.202:38166/play/a0ad/index.m3u8
+#EXTINF:-1,BRIDGE TV
+http://185.44.75.202:38166/play/a04y/index.m3u8
+#EXTINF:-1,BRIDGE TV Русский Хит
+http://185.44.75.202:38166/play/a04z/index.m3u8
+#EXTINF:-1,Barely legal
+http://185.44.75.202:38166/play/a0av/index.m3u8
+#EXTINF:-1,Blue Hustler
+http://185.44.75.202:38166/play/a0as/index.m3u8
+#EXTINF:-1,E TV
+http://185.44.75.202:38166/play/a0ap/index.m3u8
+#EXTINF:-1,Extreme Sports
+http://185.44.75.202:38166/play/a022/index.m3u8
+#EXTINF:-1,FAN
+http://185.44.75.202:38166/play/a0a4/index.m3u8
+#EXTINF:-1,FOX
+http://185.44.75.202:38166/play/a028/index.m3u8
+#EXTINF:-1,Fox Life
+http://185.44.75.202:38166/play/a07x/index.m3u8
+#EXTINF:-1,Gulli Girl
+http://185.44.75.202:38166/play/a04w/index.m3u8
+#EXTINF:-1,Hollywood
+http://185.44.75.202:38166/play/a08m/index.m3u8
+#EXTINF:-1,M-1 Global
+http://185.44.75.202:38166/play/a01f/index.m3u8
+#EXTINF:-1,MCM Top
+http://185.44.75.202:38166/play/a04m/index.m3u8
+#EXTINF:-1,Mezzo
+http://185.44.75.202:38166/play/a02i/index.m3u8
+#EXTINF:-1,National Geographic
+http://185.44.75.202:38166/play/a084/index.m3u8
+#EXTINF:-1,O!
+http://185.44.75.202:38166/play/a07z/index.m3u8
+#EXTINF:-1,Playboy TV
+http://185.44.75.202:38166/play/a0at/index.m3u8
+#EXTINF:-1,RU.TV
+http://185.44.75.202:38166/play/a04p/index.m3u8
+#EXTINF:-1,SHOT TV
+http://185.44.75.202:38166/play/a098/index.m3u8
+#EXTINF:-1,Sony Sci-Fi
+http://185.44.75.202:38166/play/a077/index.m3u8
+#EXTINF:-1,Sony Turbo
+http://185.44.75.202:38166/play/a078/index.m3u8
+#EXTINF:-1,TB 1000 Русское кино-213
+http://185.44.75.202:38166/play/a060/index.m3u8
+#EXTINF:-1,THT MUSIC
+http://185.44.75.202:38166/play/a01e/index.m3u8
+#EXTINF:-1,TV 1000 Action-213
+http://185.44.75.202:38166/play/a05z/index.m3u8
+#EXTINF:-1,TV 1000-213
+http://185.44.75.202:38166/play/a05y/index.m3u8
+#EXTINF:-1,TiJi
+http://185.44.75.202:38166/play/a058/index.m3u8
+#EXTINF:-1,Travel+Adventure
+http://185.44.75.202:38166/play/a079/index.m3u8
+#EXTINF:-1,Viasat History
+http://185.44.75.202:38166/play/a01z/index.m3u8
+#EXTINF:-1,Viasat Nature
+http://185.44.75.202:38166/play/a020/index.m3u8
+#EXTINF:-1,Viasat Sport
+http://185.44.75.202:38166/play/a021/index.m3u8
+#EXTINF:-1,amedPRHD-212
+http://185.44.75.202:38166/play/a04f/index.m3u8
+#EXTINF:-1,dom kino pr
+http://185.44.75.202:38166/play/a06a/index.m3u8
+#EXTINF:-1,karusel+2-213
+http://185.44.75.202:38166/play/a055/index.m3u8
+#EXTINF:-1,kinohit-213
+http://185.44.75.202:38166/play/a05n/index.m3u8
+#EXTINF:-1,kinokom-213
+http://185.44.75.202:38166/play/a05k/index.m3u8
+#EXTINF:-1,kinomix-213
+http://185.44.75.202:38166/play/a05l/index.m3u8
+#EXTINF:-1,kinoser-213
+http://185.44.75.202:38166/play/a05m/index.m3u8
+#EXTINF:-1,mosfilm-213
+http://185.44.75.202:38166/play/a05j/index.m3u8
+#EXTINF:-1,ntv+2-213
+http://185.44.75.202:38166/play/a052/index.m3u8
+#EXTINF:-1,perv+2-213
+http://185.44.75.202:38166/play/a04x/index.m3u8
+#EXTINF:-1,piatii+2-213
+http://185.44.75.202:38166/play/a051/index.m3u8
+#EXTINF:-1,piatnica
+http://185.44.75.202:38166/play/a05i/index.m3u8
+#EXTINF:-1,rossia+2-213
+http://185.44.75.202:38166/play/a04t/index.m3u8
+#EXTINF:-1,sts-love-213
+http://185.44.75.202:38166/play/a05t/index.m3u8
+#EXTINF:-1,tnt+2-213
+http://185.44.75.202:38166/play/a04u/index.m3u8
+#EXTINF:-1,tnt4-213
+http://185.44.75.202:38166/play/a05u/index.m3u8
+#EXTINF:-1,tvc+2-213
+http://185.44.75.202:38166/play/a04v/index.m3u8
+#EXTINF:-1,worldFash-213
+http://185.44.75.202:38166/play/a05w/index.m3u8
+#EXTINF:-1,zvezda+2-213
+http://185.44.75.202:38166/play/a054/index.m3u8
+#EXTINF:-1,Авто Плюс
+http://185.44.75.202:38166/play/a08p/index.m3u8
+#EXTINF:-1,БОБЁР
+http://185.44.75.202:38166/play/a089/index.m3u8
+#EXTINF:-1,БОКС ТВ
+http://185.44.75.202:38166/play/a0ao/index.m3u8
+#EXTINF:-1,БелРос
+http://185.44.75.202:38166/play/a04k/index.m3u8
+#EXTINF:-1,В гостях у сказки
+http://185.44.75.202:38166/play/a0ar/index.m3u8
+#EXTINF:-1,Время: далекое и близкое
+http://185.44.75.202:38166/play/a08a/index.m3u8
+#EXTINF:-1,ДОМАШНИЕ ЖИВОТНЫЕ
+http://185.44.75.202:38166/play/a025/index.m3u8
+#EXTINF:-1,Детский
+http://185.44.75.202:38166/play/a09y/index.m3u8
+#EXTINF:-1,Дикий
+http://185.44.75.202:38166/play/a09c/index.m3u8
+#EXTINF:-1,Доктор
+http://185.44.75.202:38166/play/a010/index.m3u8
+#EXTINF:-1,Дом Кино
+http://185.44.75.202:38166/play/a08b/index.m3u8
+#EXTINF:-1,Дорама
+http://185.44.75.202:38166/play/a0aw/index.m3u8
+#EXTINF:-1,Европа Плюс ТВ
+http://185.44.75.202:38166/play/a08q/index.m3u8
+#EXTINF:-1,ЖАРА
+http://185.44.75.202:38166/play/a09a/index.m3u8
+#EXTINF:-1,ЖИВИ!
+http://185.44.75.202:38166/play/a0ak/index.m3u8
+#EXTINF:-1,ИНДИЙСКОЕ КИНО
+http://185.44.75.202:38166/play/a08r/index.m3u8
+#EXTINF:-1,Известия
+http://185.44.75.202:38166/play/a071/index.m3u8
+#EXTINF:-1,История
+http://185.44.75.202:38166/play/a07k/index.m3u8
+#EXTINF:-1,КВН ТВ
+http://185.44.75.202:38166/play/a09b/index.m3u8
+#EXTINF:-1,Канал Disney
+http://185.44.75.202:38166/play/a012/index.m3u8
+#EXTINF:-1,Кто есть кто
+http://185.44.75.202:38166/play/a08w/index.m3u8
+#EXTINF:-1,Кухня ТВ
+http://185.44.75.202:38166/play/a08x/index.m3u8
+#EXTINF:-1,Ля-минор ТВ
+http://185.44.75.202:38166/play/a08y/index.m3u8
+#EXTINF:-1,МАТЧ prem
+http://185.44.75.202:38166/play/a066/index.m3u8
+#EXTINF:-1,МАТЧ! -213
+http://185.44.75.202:38166/play/a05p/index.m3u8
+#EXTINF:-1,МАТЧ! ФУТБОЛ 1(hd)
+http://185.44.75.202:38166/play/a062/index.m3u8
+#EXTINF:-1,МАТЧ! ФУТБОЛ 2(hd)
+http://185.44.75.202:38166/play/a063/index.m3u8
+#EXTINF:-1,МАТЧ! ФУТБОЛ 3(hd)
+http://185.44.75.202:38166/play/a064/index.m3u8
+#EXTINF:-1,МИР
+http://185.44.75.202:38166/play/a0bp/index.m3u8
+#EXTINF:-1,МИР 24
+http://185.44.75.202:38166/play/a050/index.m3u8
+#EXTINF:-1,Мама
+http://185.44.75.202:38166/play/a02c/index.m3u8
+#EXTINF:-1,Мир Баскетбола
+http://185.44.75.202:38166/play/a01g/index.m3u8
+#EXTINF:-1,Москва Доверие
+http://185.44.75.202:38166/play/a0aj/index.m3u8
+#EXTINF:-1,Моторспорт ТВ
+http://185.44.75.202:38166/play/a08g/index.m3u8
+#EXTINF:-1,Моя Планета
+http://185.44.75.202:38166/play/a07l/index.m3u8
+#EXTINF:-1,Музыка Первого
+http://185.44.75.202:38166/play/a08e/index.m3u8
+#EXTINF:-1,Мульт
+http://185.44.75.202:38166/play/a0aa/index.m3u8
+#EXTINF:-1,Мультимузыка
+http://185.44.75.202:38166/play/a0am/index.m3u8
+#EXTINF:-1,НСТ sd-213
+http://185.44.75.202:38166/play/a061/index.m3u8
+#EXTINF:-1,НТВ Право
+http://185.44.75.202:38166/play/a0a9/index.m3u8
+#EXTINF:-1,НТВ Стиль
+http://185.44.75.202:38166/play/a0ah/index.m3u8
+#EXTINF:-1,НТВ-ХИТ
+http://185.44.75.202:38166/play/a0ae/index.m3u8
+#EXTINF:-1,Наука 2.0
+http://185.44.75.202:38166/play/a07m/index.m3u8
+#EXTINF:-1,Ностальгия
+http://185.44.75.202:38166/play/a094/index.m3u8
+#EXTINF:-1,ПOЕХАЛИ!!
+http://185.44.75.202:38166/play/a07w/index.m3u8
+#EXTINF:-1,Продвижение
+http://185.44.75.202:38166/play/a07a/index.m3u8
+#EXTINF:-1,Радость моя
+http://185.44.75.202:38166/play/a07c/index.m3u8
+#EXTINF:-1,Россия 24-213
+http://185.44.75.202:38166/play/a05r/index.m3u8
+#EXTINF:-1,Россия К-213
+http://185.44.75.202:38166/play/a05q/index.m3u8
+#EXTINF:-1,Русская ночь
+http://185.44.75.202:38166/play/a097/index.m3u8
+#EXTINF:-1,Русский бестселлер
+http://185.44.75.202:38166/play/a0an/index.m3u8
+#EXTINF:-1,Русский роман
+http://185.44.75.202:38166/play/a0aq/index.m3u8
+#EXTINF:-1,СПАС
+http://185.44.75.202:38166/play/a0bm/index.m3u8
+#EXTINF:-1,Сарафан
+http://185.44.75.202:38166/play/a0al/index.m3u8
+#EXTINF:-1,ТЕЛЕКАФЕ
+http://185.44.75.202:38166/play/a08f/index.m3u8
+#EXTINF:-1,ТНВ-Планета
+http://185.44.75.202:38166/play/a09u/index.m3u8
+#EXTINF:-1,Танцуй!
+http://185.44.75.202:38166/play/a09p/index.m3u8
+#EXTINF:-1,Телеканал 360
+http://185.44.75.202:38166/play/a016/index.m3u8
+#EXTINF:-1,Телеканал Да Винчи
+http://185.44.75.202:38166/play/a01v/index.m3u8
+#EXTINF:-1,Телеканал КХЛ-sd-213
+http://185.44.75.202:38166/play/a05o/index.m3u8
+#EXTINF:-1,Точка отрыва
+http://185.44.75.202:38166/play/a023/index.m3u8
+#EXTINF:-1,Усадьба-ТВ
+http://185.44.75.202:38166/play/a026/index.m3u8
+#EXTINF:-1,Че
+http://185.44.75.202:38166/play/a09v/index.m3u8
+#EXTINF:-1,Ю-ТВ
+http://185.44.75.202:38166/play/a01a/index.m3u8
+#EXTINF:-1,диал рыб -sd-213
+http://185.44.75.202:38166/play/a05x/index.m3u8
+#EXTINF:-1,звезда-213
+http://185.44.75.202:38166/play/a05h/index.m3u8
+#EXTINF:-1,карусель-213
+http://185.44.75.202:38166/play/a06b/index.m3u8
+#EXTINF:-1,матч Аrena
+http://185.44.75.202:38166/play/a065/index.m3u8
+#EXTINF:-1,матч игра
+http://185.44.75.202:38166/play/a069/index.m3u8
+#EXTINF:-1,матч страна
+http://185.44.75.202:38166/play/a068/index.m3u8
+#EXTINF:-1,матч фут 1ХДтест
+http://185.44.75.202:38166/play/a06d/index.m3u8
+#EXTINF:-1,матчбоец
+http://185.44.75.202:38166/play/a067/index.m3u8
+#EXTINF:-1,муз
+http://185.44.75.202:38166/play/a04r/index.m3u8
+#EXTINF:-1,тв-3 sd -213
+http://185.44.75.202:38166/play/a05s/index.m3u8
+#EXTINF:-1,твц-213
+http://185.44.75.202:38166/play/a05g/index.m3u8
