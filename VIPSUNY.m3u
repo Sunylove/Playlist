@@ -1,0 +1,174 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Balkanika" tvg-name="Balkanika Music TV" tvg-logo="https://picon-13398.kxcdn.com/balkanikamusictelevision.jpg" group-title="Музикални",Balkanika Music TV
+http://85.11.144.9:4004/udp/239.100.10.20:5000
+#EXTINF:-1 tvg-id="BGMusicChannel" tvg-name="BG Music Channel" tvg-logo="https://picon-13398.kxcdn.com/bgmusicchannel.jpg" group-title="Музикални",BG Music Channel
+http://85.11.144.9:4004/udp/239.100.10.21:5000
+#EXTINF:-1 tvg-id="BGMusicChannel" tvg-name="BG Music Channel" tvg-logo="https://picon-13398.kxcdn.com/bgmusicchannel.jpg" group-title="Музикални",BG Music Channel
+http://85.11.144.9:4004/udp/239.100.10.22:5000
+#EXTINF:-1 tvg-id="BNT1" tvg-name="BNT 1" tvg-logo="https://picon-13398.kxcdn.com/bnt1bg.jpg" group-title="Ефирни",BNT 1
+http://85.11.144.9:4004/udp/239.100.10.24:5000
+#EXTINF:-1 tvg-id="BNT2" tvg-name="BNT 2" tvg-logo="https://picon-13398.kxcdn.com/bnt2bg.jpg" group-title="Ефирни",BNT 2
+http://85.11.144.9:4004/udp/239.100.10.25:5000
+#EXTINF:-1 tvg-id="BNT4" tvg-name="BNT 4" tvg-logo="https://picon-13398.kxcdn.com/bnt4bg.jpg" group-title="Ефирни",BNT 4
+http://85.11.144.9:4004/udp/239.100.10.26:5000
+#EXTINF:-1 tvg-id="BoxTV" tvg-name="BOX TV" tvg-logo="http://logos.epg.cloudns.org/boxtv.png" group-title="Музикални",BOX TV
+http://85.11.144.9:4004/udp/239.100.10.28:5000
+#EXTINF:-1 tvg-id="BoxTV" tvg-name="BOX TV" tvg-logo="http://logos.epg.cloudns.org/boxtv.png" group-title="Музикални",BOX TV
+http://85.11.144.9:4004/udp/239.100.10.29:5000
+#EXTINF:-1 tvg-id="bTVAction" tvg-name="bTV Action" tvg-logo="https://picon-13398.kxcdn.com/baction.jpg" group-title="Филмови",bTV Action
+http://85.11.144.9:4004/udp/239.100.10.30:5000
+#EXTINF:-1 tvg-id="BNT1" tvg-name="BNT 1" tvg-logo="https://picon-13398.kxcdn.com/bnt1bg.jpg" group-title="Ефирни",BNT 1
+http://85.11.144.9:4004/udp/239.100.10.1:5000
+#EXTINF:-1 tvg-id="DiemaFamily" tvg-name="Diema Family" tvg-logo="https://picon-13398.kxcdn.com/diemafamily.jpg" group-title="Филмови",Diema Family
+http://85.11.144.9:4004/udp/239.100.10.10:5000
+#EXTINF:-1 tvg-id="bTV" tvg-name="bTV" tvg-logo="https://picon-13398.kxcdn.com/btvhd.jpg" group-title="Ефирни",bTV
+http://85.11.144.9:4004/udp/239.100.10.2:5000
+#EXTINF:-1 tvg-id="bTVAction" tvg-name="bTV Action" tvg-logo="https://picon-13398.kxcdn.com/baction.jpg" group-title="Филмови",bTV Action
+http://85.11.144.9:4004/udp/239.100.10.3:5000
+#EXTINF:-1 tvg-id="bTVCinema" tvg-name="bTV Cinema" tvg-logo="https://picon-13398.kxcdn.com/bcinema.jpg" group-title="Филмови",bTV Cinema
+http://85.11.144.9:4004/udp/239.100.10.4:5000
+#EXTINF:-1 tvg-id="bTVComedy" tvg-name="bTV Comedy" tvg-logo="https://picon-13398.kxcdn.com/bcomedy.jpg" group-title="Филмови",bTV Comedy
+http://85.11.144.9:4004/udp/239.100.10.5:5000
+#EXTINF:-1 tvg-id="Nova" tvg-name="NOVA TV" tvg-logo="https://picon-13398.kxcdn.com/novatv.jpg" group-title="Ефирни",NOVA TV
+http://85.11.144.9:4004/udp/239.100.10.7:5000
+#EXTINF:-1 tvg-id="NovaSport" tvg-name="Nova Sport" tvg-logo="https://picon-13398.kxcdn.com/novasport.jpg" group-title="Спортни",Nova Sport
+http://85.11.144.9:4004/udp/239.100.10.8:5000
+#EXTINF:-1 tvg-id="Diema" tvg-name="Diema" tvg-logo="https://picon-13398.kxcdn.com/diematv.jpg" group-title="Филмови",Diema
+http://85.11.144.9:4004/udp/239.100.10.9:5000
+#EXTINF:-1 tvg-id="" tvg-name="Alfa TV" tvg-logo="https://picon-13398.kxcdn.com/alfatvbg.jpg" group-title="Ефирни",Alfa TV
+http://85.11.144.9:4004/udp/239.100.10.13:5000
+#EXTINF:-1 tvg-id="AnimalPlanet" tvg-name="Animal Planet" tvg-logo="https://picon-13398.kxcdn.com/animalplanethd.jpg" group-title="Документални",Animal Planet
+http://85.11.144.9:4004/udp/239.100.10.14:5000
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://picon-13398.kxcdn.com/axn.jpg" group-title="Филмови",AXN
+http://85.11.144.9:4004/udp/239.100.10.16:5000
+#EXTINF:-1 tvg-id="AXNBlack" tvg-name="AXN Black" tvg-logo="https://picon-13398.kxcdn.com/axnblack.jpg" group-title="Филмови",AXN Black
+http://85.11.144.9:4004/udp/239.100.10.17:5000
+#EXTINF:-1 tvg-id="AXNWhite" tvg-name="AXN White" tvg-logo="http://logos.epg.cloudns.org/axnwhite.png" group-title="Филмови",AXN White
+http://85.11.144.9:4004/udp/239.100.10.18:5000
+#EXTINF:-1 tvg-id="Balkanika" tvg-name="Balkanika Music TV" tvg-logo="https://picon-13398.kxcdn.com/balkanikamusictelevision.jpg" group-title="Музикални",Balkanika Music TV
+http://85.11.144.9:4004/udp/239.100.10.19:5000
+#EXTINF:-1 tvg-id="bTV" tvg-name="bTV" tvg-logo="https://picon-13398.kxcdn.com/btvhd.jpg" group-title="Ефирни",bTV
+http://85.11.144.9:4004/udp/239.100.10.31:5000
+#EXTINF:-1 tvg-id="BulgariaOnAir" tvg-name="Bulgaria on Air" tvg-logo="http://epg.cloudns.org/tv/logos/bulgariaonair.png" group-title="Ефирни",Bulgaria on Air
+http://85.11.144.9:4004/udp/239.100.10.32:5000
+#EXTINF:-1 tvg-id="CartoonNetwork" tvg-name="Cartoon Network" tvg-logo="https://picon-13398.kxcdn.com/cartoonnetwork.jpg" group-title="Детски",Cartoon Network
+http://85.11.144.9:4004/udp/239.100.10.33:5000
+#EXTINF:-1 tvg-id="City" tvg-name="CITY Radio&TV" tvg-logo="https://picon-13398.kxcdn.com/cityradiotvbg.jpg" group-title="Музикални",CITY Radio&TV
+http://85.11.144.9:4004/udp/239.100.10.35:5000
+#EXTINF:-1 tvg-id="Discovery" tvg-name="Discovery Channel" tvg-logo="https://picon-13398.kxcdn.com/discoverychannel.jpg" group-title="Документални",Discovery Channel
+http://85.11.144.9:4004/udp/239.100.10.37:5000
+#EXTINF:-1 tvg-id="Disney" tvg-name="Disney Channel" tvg-logo="https://picon-13398.kxcdn.com/disneychannel.jpg" group-title="Детски",Disney Channel
+http://85.11.144.9:4004/udp/239.100.10.38:5000
+#EXTINF:-1 tvg-id="Ekids" tvg-name="Ekids" tvg-logo="https://picon-13398.kxcdn.com/e_kids_bg.jpg" group-title="Детски",Ekids
+http://85.11.144.9:4004/udp/239.100.10.44:5000
+#EXTINF:-1 tvg-id="Eurosport1" tvg-name="Eurosport 1" tvg-logo="https://picon-13398.kxcdn.com/eurosport1.jpg" group-title="Спортни",Eurosport 1
+http://85.11.144.9:4004/udp/239.100.10.45:5000
+#EXTINF:-1 tvg-id="Eurosport2" tvg-name="Eurosport 2" tvg-logo="https://picon-13398.kxcdn.com/eurosport2.jpg" group-title="Спортни",Eurosport 2
+http://85.11.144.9:4004/udp/239.100.10.46:5000
+#EXTINF:-1 tvg-id="Eurocom" tvg-name="Evrokom" tvg-logo="http://epg.cloudns.org/tv/logos/eurocom.png" group-title="Ефирни",Evrokom
+http://85.11.144.9:4004/udp/239.100.10.47:5000
+#EXTINF:-1 tvg-id="FENTV" tvg-name="FEN TV" tvg-logo="https://picon-13398.kxcdn.com/fentvhd.jpg" group-title="Музикални",FEN TV
+http://85.11.144.9:4004/udp/239.100.10.49:5000
+#EXTINF:-1 tvg-id="FENTV" tvg-name="FEN TV" tvg-logo="https://picon-13398.kxcdn.com/fentvhd.jpg" group-title="Музикални",FEN TV
+http://85.11.144.9:4004/udp/239.100.10.50:5000
+#EXTINF:-1 tvg-id="FolklorTV" tvg-name="Folklor TV" tvg-logo="http://logos.epg.cloudns.org/folklortv.png" group-title="Музикални",Folklor TV
+http://85.11.144.9:4004/udp/239.100.10.52:5000
+#EXTINF:-1 tvg-id="STARChannel" tvg-name="STAR Channel" tvg-logo="https://picon-13398.kxcdn.com/foxhd.jpg" group-title="Филмови",STAR Channel
+http://85.11.144.9:4004/udp/239.100.10.53:5000
+#EXTINF:-1 tvg-id="STARCrime" tvg-name="STAR Crime" tvg-logo="https://picon-13398.kxcdn.com/foxcrimehd.jpg" group-title="Филмови",STAR Crime
+http://85.11.144.9:4004/udp/239.100.10.54:5000
+#EXTINF:-1 tvg-id="STARLife" tvg-name="STAR Life" tvg-logo="https://picon-13398.kxcdn.com/foxlifehd.jpg" group-title="Филмови",STAR Life
+http://85.11.144.9:4004/udp/239.100.10.55:5000
+#EXTINF:-1 tvg-id="HBOHD" tvg-name="HBO" tvg-logo="https://picon-13398.kxcdn.com/hbo.jpg" group-title="Филмови",HBO
+http://85.11.144.9:4004/udp/239.100.10.57:5000
+#EXTINF:-1 tvg-id="HustlerTV" tvg-name="Hustler TV" tvg-logo="http://epg.cloudns.org/tv/logos/18plus.png" group-title="XXX",Hustler TV
+http://85.11.144.9:4004/udp/239.100.10.58:5000
+#EXTINF:-1 tvg-id="NovaNews" tvg-name="Nova News" tvg-logo="https://nstatic.nova.bg/public/pics/news/640x480_1364978947.jpg" group-title="Ефирни",Nova News
+http://85.11.144.9:4004/udp/239.100.10.63:5000
+#EXTINF:-1 tvg-id="KinoNova" tvg-name="KinoNova" tvg-logo="https://picon-13398.kxcdn.com/kinonova.jpg" group-title="Филмови",KinoNova
+http://85.11.144.9:4004/udp/239.100.10.64:5000
+#EXTINF:-1 tvg-id="NatGeo" tvg-name="National Geographic" tvg-logo="https://picon-13398.kxcdn.com/nationalgeographichd.jpg" group-title="Документални",National Geographic
+http://85.11.144.9:4004/udp/239.100.10.69:5000
+#EXTINF:-1 tvg-id="NatGeoWild" tvg-name="Nat Geo Wild" tvg-logo="https://picon-13398.kxcdn.com/natgeowildhd.jpg" group-title="Документални",Nat Geo Wild
+http://85.11.144.9:4004/udp/239.100.10.70:5000
+#EXTINF:-1 tvg-id="PlanetaFolk" tvg-name="Planeta Folk" tvg-logo="https://picon-13398.kxcdn.com/planetatvfolk.jpg" group-title="Музикални",Planeta Folk
+http://85.11.144.9:4004/udp/239.100.10.74:5000
+#EXTINF:-1 tvg-id="Planeta" tvg-name="Planeta" tvg-logo="https://picon-13398.kxcdn.com/planeta.jpg" group-title="Музикални",Planeta
+http://85.11.144.9:4004/udp/239.100.10.75:5000
+#EXTINF:-1 tvg-id="RING" tvg-name="Ring" tvg-logo="https://picon-13398.kxcdn.com/ringtvbg.jpg" group-title="Спортни",Ring
+http://85.11.144.9:4004/udp/239.100.10.81:5000
+#EXTINF:-1 tvg-id="RING" tvg-name="Ring" tvg-logo="https://picon-13398.kxcdn.com/ringtvbg.jpg" group-title="Спортни",Ring
+http://85.11.144.9:4004/udp/239.100.10.82:5000
+#EXTINF:-1 tvg-id="" tvg-name="Passion XXX" tvg-logo="http://epg.cloudns.org/tv/logos/18plus.png" group-title="XXX",Passion XXX
+http://85.11.144.9:4004/udp/239.100.10.90:5000
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="https://picon-13398.kxcdn.com/tlc.jpg" group-title="Документални",TLC
+http://85.11.144.9:4004/udp/239.100.10.97:5000
+#EXTINF:-1 tvg-id="tveurope" tvg-name="TV Evropa" tvg-logo="https://picon-13398.kxcdn.com/tvevropabg.jpg" group-title="Ефирни",TV Evropa
+http://85.11.144.9:4004/udp/239.100.10.98:5000
+#EXTINF:-1 tvg-id="tv1" tvg-name="TV1" tvg-logo="http://epg.cloudns.org/tv/logos/tv1.png" group-title="Ефирни",TV1
+http://85.11.144.9:4004/udp/239.100.10.99:5000
+#EXTINF:-1 tvg-id="TV1000" tvg-name="TV 1000" tvg-logo="http://logos.epg.cloudns.org/tv1000.png" group-title="Филмови",TV 1000
+http://85.11.144.9:4004/udp/239.100.10.100:5000
+#EXTINF:-1 tvg-id="MTV00s" tvg-name="MTV 00s" tvg-logo="http://logos.epg.cloudns.org/mtv00s.png" group-title="Музикални",MTV 00s
+http://85.11.144.9:4004/udp/239.100.10.105:5000
+#EXTINF:-1 tvg-id="ViasatExplorer" tvg-name="Viasat Explore" tvg-logo="https://picon-13398.kxcdn.com/viasatexplore.jpg" group-title="Документални",Viasat Explore
+http://85.11.144.9:4004/udp/239.100.10.106:5000
+#EXTINF:-1 tvg-id="ViasatHistory" tvg-name="Viasat History" tvg-logo="https://picon-13398.kxcdn.com/viasathistory.jpg" group-title="Документални",Viasat History
+http://85.11.144.9:4004/udp/239.100.10.107:5000
+#EXTINF:-1 tvg-id="ViasatNature" tvg-name="Viasat Nature" tvg-logo="https://picon-13398.kxcdn.com/viasatnature.jpg" group-title="Документални",Viasat Nature
+http://85.11.144.9:4004/udp/239.100.10.108:5000
+#EXTINF:-1 tvg-id="ViasatHistory" tvg-name="Viasat History" tvg-logo="https://picon-13398.kxcdn.com/viasathistory.jpg" group-title="Документални",Viasat History
+http://85.11.144.9:4004/udp/239.100.10.109:5000
+#EXTINF:-1 tvg-id="" tvg-name="This is Bulgaria" tvg-logo="https://picon-13398.kxcdn.com/thisisbulgaria.jpg" group-title="Документални",This is Bulgaria
+http://85.11.144.9:4004/udp/239.100.10.126:5000
+#EXTINF:-1 tvg-id="Travel" tvg-name="Travel TV" tvg-logo="https://picon-13398.kxcdn.com/travetvbg.jpg" group-title="Документални",Travel TV
+http://85.11.144.9:4004/udp/239.100.10.127:5000
+#EXTINF:-1 tvg-id="ViasatNature" tvg-name="Viasat Nature" tvg-logo="https://picon-13398.kxcdn.com/viasatnature.jpg" group-title="Документални",Viasat Nature
+http://85.11.144.9:4004/udp/239.100.10.136:5000
+#EXTINF:-1 tvg-id="Discovery" tvg-name="Discovery Channel" tvg-logo="https://picon-13398.kxcdn.com/discoverychannel.jpg" group-title="Документални",Discovery Channel
+http://85.11.144.9:4004/udp/239.100.10.147:5000
+#EXTINF:-1 tvg-id="Disney" tvg-name="Baby TV" tvg-logo="http://epg.cloudns.org/tv/logos/babytv.png" group-title="Детски",Baby TV
+http://85.11.144.9:4004/udp/239.100.10.149:5000
+#EXTINF:-1 tvg-id="Eurosport1" tvg-name="Eurosport 1" tvg-logo="https://picon-13398.kxcdn.com/eurosport1.jpg" group-title="Спортни",Eurosport 1
+http://85.11.144.9:4004/udp/239.100.10.154:5000
+#EXTINF:-1 tvg-id="History" tvg-name="History" tvg-logo="https://picon-13398.kxcdn.com/historyhd.jpg" group-title="Документални",History
+http://85.11.144.9:4004/udp/239.100.10.157:5000
+#EXTINF:-1 tvg-id="History" tvg-name="History" tvg-logo="https://picon-13398.kxcdn.com/historyhd.jpg" group-title="Документални",History
+http://85.11.144.9:4004/udp/239.100.10.158:5000
+#EXTINF:-1 tvg-id="" tvg-name="Movie Star" tvg-logo="http://epg.cloudns.org/tv/logos/moviestar.png" group-title="Филмови",Movie Star
+http://85.11.144.9:4004/udp/239.100.10.160:5000
+#EXTINF:-1 tvg-id="Planeta" tvg-name="Planeta" tvg-logo="https://picon-13398.kxcdn.com/planeta.jpg" group-title="Музикални",Planeta
+http://85.11.144.9:4004/udp/239.100.10.162:5000
+#EXTINF:-1 tvg-id="HBO2" tvg-name="HBO 2" tvg-logo="https://picon-13398.kxcdn.com/hbo2hd.jpg" group-title="Филмови",HBO 2
+http://85.11.144.9:4004/udp/239.100.10.168:5000
+#EXTINF:-1 tvg-id="NatGeo" tvg-name="National Geographic" tvg-logo="https://picon-13398.kxcdn.com/nationalgeographichd.jpg" group-title="Документални",National Geographic
+http://85.11.144.9:4004/udp/239.100.10.169:5000
+#EXTINF:-1 tvg-id="MTV80s" tvg-name="MTV 80s" tvg-logo="http://logos.epg.cloudns.org/mtv80s.png" group-title="Музикални",MTV 80s
+http://85.11.144.9:4004/udp/239.100.10.171:5000
+#EXTINF:-1 tvg-id="Cinemax2" tvg-name="Cinemax 2" tvg-logo="https://picon-13398.kxcdn.com/cinemax2hd.jpg" group-title="Филмови",Cinemax 2
+http://85.11.144.9:4004/udp/239.100.10.172:5000
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax" tvg-logo="https://picon-13398.kxcdn.com/cinemaxhd.jpg" group-title="Филмови",Cinemax
+http://85.11.144.9:4004/udp/239.100.10.173:5000
+#EXTINF:-1 tvg-id="HBOHD" tvg-name="HBO" tvg-logo="https://picon-13398.kxcdn.com/hbo.jpg" group-title="Филмови",HBO
+http://85.11.144.9:4004/udp/239.100.10.176:5000
+#EXTINF:-1 tvg-id="FilmBoxStars" tvg-name="FilmBox Stars" tvg-logo="http://logos.epg.cloudns.org/filmboxstars.png" group-title="Филмови",FilmBox Stars
+http://85.11.144.9:4004/udp/239.100.10.180:5000
+#EXTINF:-1 tvg-id="TravelChannel" tvg-name="Travel Channel" tvg-logo="http://logos.epg.cloudns.org/travelchannel.png" group-title="Документални",Travel Channel
+http://85.11.144.9:4004/udp/239.100.10.181:5000
+#EXTINF:-1 tvg-id="SuperToons" tvg-name="Super Toons" tvg-logo="http://logos.epg.cloudns.org/supertoons.png" group-title="Детски",Super Toons
+http://85.11.144.9:4004/udp/239.100.10.187:5000
+#EXTINF:-1 tvg-id="SuperToons" tvg-name="Super Toons" tvg-logo="http://logos.epg.cloudns.org/supertoons.png" group-title="Детски",Super Toons
+http://85.11.144.9:4004/udp/239.100.10.188:5000
+#EXTINF:-1 tvg-id="TravelChannel" tvg-name="Travel Channel" tvg-logo="http://logos.epg.cloudns.org/travelchannel.png" group-title="Документални",Travel Channel
+http://85.11.144.9:4004/udp/239.100.10.191:5000
+#EXTINF:-1 tvg-id="DisneyJunior" tvg-name="Disney Junior" tvg-logo="http://logos.epg.cloudns.org/disneyjunior.png" group-title="Детски",Disney Junior
+http://85.11.144.9:4004/udp/239.100.10.192:5000
+#EXTINF:-1 tvg-id="HBO3" tvg-name="HBO 3" tvg-logo="https://picon-13398.kxcdn.com/hbo3hd.jpg" group-title="Филмови",HBO 3
+http://85.11.144.9:4004/udp/239.100.10.194:5000
+#EXTINF:-1 tvg-id="HBO3" tvg-name="HBO 3" tvg-logo="https://picon-13398.kxcdn.com/hbo3hd.jpg" group-title="Филмови",HBO 3
+http://85.11.144.9:4004/udp/239.100.10.195:5000
+#EXTINF:-1 tvg-id="HitMix" tvg-name="Hit Mix Music" tvg-logo="http://logos.epg.cloudns.org/hitmix.png" group-title="Музикални",Hit Mix Music
+http://85.11.144.9:4004/udp/239.100.10.199:5000
+#EXTINF:-1 tvg-id="wness" tvg-name="Wness TV" tvg-logo="https://picon-13398.kxcdn.com/wnesstvbg.jpg" group-title="Документални",Wness TV
+http://85.11.144.9:4004/udp/239.100.10.220:5000
+
